@@ -1,0 +1,9 @@
+{
+  "name": "organic-vienna",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automation to filter organic supermarket data from Heisse Preise for Vienna.",
+  "scripts": {
+    "build": "node scripts/filter.js"
+  }
+}
