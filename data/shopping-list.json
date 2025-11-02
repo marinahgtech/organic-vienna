@@ -1,0 +1,123 @@
+[
+  {
+    "category": "Obst",
+    "items": [
+      { "product": "Äpfel", "unit": "kg" },
+      { "product": "Bananen", "unit": "kg" },
+      { "product": "Birnen", "unit": "kg" },
+      { "product": "Orangen", "unit": "kg" },
+      { "product": "Mandarinen", "unit": "kg" },
+      { "product": "Pfirsiche", "unit": "kg" },
+      { "product": "Nektarinen", "unit": "kg" },
+      { "product": "Kiwis", "unit": "Stück" },
+      { "product": "Trauben", "unit": "kg" },
+      { "product": "Erdbeeren", "unit": "kg" },
+      { "product": "Himbeeren", "unit": "Schale" },
+      { "product": "Blaubeeren", "unit": "Schale" },
+      { "product": "Zitronen", "unit": "Stück" },
+      { "product": "Avocados", "unit": "Stück" },
+      { "product": "Melonen", "unit": "Stück" },
+      { "product": "Ananas", "unit": "Stück" },
+      { "product": "Mangos", "unit": "Stück" },
+      { "product": "Papayas", "unit": "Stück" },
+      { "product": "Granatäpfel", "unit": "Stück" }
+    ]
+  },
+  {
+    "category": "Gemüse",
+    "items": [
+      { "product": "Tomaten", "unit": "kg" },
+      { "product": "Gurken", "unit": "Stück" },
+      { "product": "Paprika rot", "unit": "Stück" },
+      { "product": "Paprika gelb", "unit": "Stück" },
+      { "product": "Karotten", "unit": "kg" },
+      { "product": "Zucchini", "unit": "kg" },
+      { "product": "Auberginen", "unit": "kg" },
+      { "product": "Brokkoli", "unit": "Stück" },
+      { "product": "Blumenkohl", "unit": "Stück" },
+      { "product": "Spinat", "unit": "Bund" },
+      { "product": "Lauch", "unit": "Stück" },
+      { "product": "Zwiebeln", "unit": "kg" },
+      { "product": "Knoblauch", "unit": "Knolle" },
+      { "product": "Kartoffeln", "unit": "kg" },
+      { "product": "Süßkartoffeln", "unit": "kg" },
+      { "product": "Kürbis", "unit": "Stück" },
+      { "product": "Sellerie", "unit": "Stück" },
+      { "product": "Rote Rüben", "unit": "kg" },
+      { "product": "Salat (Kopfsalat)", "unit": "Stück" },
+      { "product": "Rucola", "unit": "Packung" },
+      { "product": "Kohl (Weißkohl)", "unit": "kg" },
+      { "product": "Sauerkraut", "unit": "Packung" },
+      { "product": "Pilze (Champignons)", "unit": "Packung" }
+    ]
+  },
+  {
+    "category": "Fleisch",
+    "items": [
+      { "product": "Rindfleisch (Steak)", "unit": "kg" },
+      { "product": "Rinderhackfleisch", "unit": "kg" },
+      { "product": "Hühnerbrust", "unit": "kg" },
+      { "product": "Hühnerschenkel", "unit": "kg" },
+      { "product": "Putenfilet", "unit": "kg" },
+      { "product": "Schweinefilet", "unit": "kg" },
+      { "product": "Schweineschnitzel", "unit": "kg" },
+      { "product": "Lammkoteletts", "unit": "kg" },
+      { "product": "Kalbfleisch", "unit": "kg" },
+      { "product": "Hackfleisch gemischt", "unit": "kg" },
+      { "product": "Speck", "unit": "Packung" },
+      { "product": "Würstchen (Bratwürste)", "unit": "Packung" },
+      { "product": "Hühnerleber", "unit": "kg" }
+    ]
+  },
+  {
+    "category": "Fisch",
+    "items": [
+      { "product": "Lachsfilet", "unit": "kg" },
+      { "product": "Forelle", "unit": "Stück" },
+      { "product": "Kabeljaufilet", "unit": "kg" },
+      { "product": "Seelachsfilet", "unit": "kg" },
+      { "product": "Thunfisch frisch", "unit": "kg" },
+      { "product": "Makrele", "unit": "Stück" },
+      { "product": "Sardinen", "unit": "Packung" },
+      { "product": "Garnelen", "unit": "Packung" },
+      { "product": "Tintenfisch", "unit": "kg" },
+      { "product": "Hechtfilet", "unit": "kg" },
+      { "product": "Zanderfilet", "unit": "kg" },
+      { "product": "Hering", "unit": "Stück" }
+    ]
+  },
+  {
+    "category": "Milchprodukte",
+    "items": [
+      { "product": "Milch (Bio)", "unit": "L" },
+      { "product": "Joghurt natur", "unit": "Becher" },
+      { "product": "Butter", "unit": "Packung" },
+      { "product": "Käse (Gouda)", "unit": "kg" },
+      { "product": "Mozzarella", "unit": "Packung" },
+      { "product": "Topfen (Quark)", "unit": "Becher" },
+      { "product": "Sauerrahm", "unit": "Becher" },
+      { "product": "Schlagobers (Sahne)", "unit": "Becher" },
+      { "product": "Eier (Bio)", "unit": "10er-Packung" }
+    ]
+  },
+  {
+    "category": "Trockenwaren",
+    "items": [
+      { "product": "Reis (Vollkorn)", "unit": "kg" },
+      { "product": "Nudeln (Dinkel)", "unit": "kg" },
+      { "product": "Haferflocken", "unit": "kg" },
+      { "product": "Linsen", "unit": "kg" },
+      { "product": "Kichererbsen", "unit": "kg" },
+      { "product": "Bohnen (rot)", "unit": "kg" },
+      { "product": "Couscous", "unit": "kg" },
+      { "product": "Quinoa", "unit": "kg" },
+      { "product": "Mehl (Weizen, Dinkel)", "unit": "kg" },
+      { "product": "Zucker (Rohrzucker)", "unit": "kg" },
+      { "product": "Salz", "unit": "Packung" },
+      { "product": "Pfeffer", "unit": "Packung" },
+      { "product": "Olivenöl", "unit": "Flasche" },
+      { "product": "Essig (Apfelessig)", "unit": "Flasche" },
+      { "product": "Honig", "unit": "Glas" }
+    ]
+  }
+]
