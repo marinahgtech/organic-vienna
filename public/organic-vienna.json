@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-07T05:18:05.280Z",
+  "generatedAt": "2025-11-14T05:18:11.002Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -94,10 +94,14 @@
     {
       "name": "Alnatura Apfel mit Banane & Dinkel",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -105,10 +109,6 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
@@ -136,10 +136,14 @@
     {
       "name": "Alnatura Apfel mit Mango",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -147,20 +151,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Alnatura Apfel-Birne-Kirsche",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -168,10 +172,6 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
@@ -220,10 +220,14 @@
     {
       "name": "Alnatura Apfel-Mango-Kokos und Dinkelgrieß",
       "store": "billa",
-      "price": 1.59,
+      "price": 1.19,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.19
+        },
         {
           "date": "2025-09-15",
           "price": 1.59
@@ -231,10 +235,6 @@
         {
           "date": "2025-09-08",
           "price": 1.19
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.59
         }
       ]
     },
@@ -409,10 +409,14 @@
     {
       "name": "Alnatura Birne mit Heidelbeere",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -420,10 +424,6 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
@@ -661,10 +661,14 @@
     {
       "name": "Alnatura Fruchtallerlei",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -672,10 +676,6 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
@@ -1039,10 +1039,14 @@
     {
       "name": "Alnatura Karotte-Zucchini-Süsskartoffel mit Rind",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 220,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -1050,10 +1054,6 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
@@ -1480,10 +1480,14 @@
     {
       "name": "Alnatura Milder Apfel Pur",
       "store": "billa",
-      "price": 1.19,
+      "price": 0.89,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.89
+        },
         {
           "date": "2025-09-15",
           "price": 1.19
@@ -1491,10 +1495,6 @@
         {
           "date": "2025-09-08",
           "price": 0.89
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.19
         }
       ]
     },
@@ -2024,6 +2024,19 @@
       ]
     },
     {
+      "name": "Aptamil Pre Organic Anfangsmilch",
+      "store": "billa",
+      "price": 20.99,
+      "unit": "g",
+      "quantity": 800,
+      "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 20.99
+        }
+      ]
+    },
+    {
       "name": "BILLA BIO TRAUBEN AUS SÜDAFRIKA",
       "store": "billa",
       "price": 3.49,
@@ -2047,10 +2060,14 @@
     {
       "name": "BILLA Bio Apfel mit Birne ",
       "store": "billa",
-      "price": 1.09,
+      "price": 0.82,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.82
+        },
         {
           "date": "2025-09-15",
           "price": 1.09
@@ -2058,20 +2075,20 @@
         {
           "date": "2025-09-08",
           "price": 0.82
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.09
         }
       ]
     },
     {
       "name": "BILLA Bio Apfel mit Heidelbeere",
       "store": "billa",
-      "price": 1.09,
+      "price": 0.82,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.82
+        },
         {
           "date": "2025-09-15",
           "price": 1.09
@@ -2079,20 +2096,20 @@
         {
           "date": "2025-09-08",
           "price": 0.82
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.09
         }
       ]
     },
     {
       "name": "BILLA Bio Apfel, Pfirsich und Banane",
       "store": "billa",
-      "price": 1.09,
+      "price": 0.82,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.82
+        },
         {
           "date": "2025-09-15",
           "price": 1.09
@@ -2100,10 +2117,6 @@
         {
           "date": "2025-09-08",
           "price": 0.82
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.09
         }
       ]
     },
@@ -2341,10 +2354,14 @@
     {
       "name": "BILLA Bio Birne Pur",
       "store": "billa",
-      "price": 0.85,
+      "price": 0.64,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.64
+        },
         {
           "date": "2025-09-15",
           "price": 0.85
@@ -2352,10 +2369,6 @@
         {
           "date": "2025-09-08",
           "price": 0.64
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.85
         }
       ]
     },
@@ -2782,10 +2795,14 @@
     {
       "name": "BILLA Bio Gurken",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.59,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 1.59
+        },
         {
           "date": "2025-09-15",
           "price": 1.79
@@ -2793,10 +2810,6 @@
         {
           "date": "2025-09-08",
           "price": 1.34
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.79
         }
       ]
     },
@@ -2824,10 +2837,14 @@
     {
       "name": "BILLA Bio Hafer Porridge",
       "store": "billa",
-      "price": 1.09,
+      "price": 0.82,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.82
+        },
         {
           "date": "2025-09-15",
           "price": 1.09
@@ -2835,20 +2852,20 @@
         {
           "date": "2025-09-08",
           "price": 0.82
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.09
         }
       ]
     },
     {
       "name": "BILLA Bio Hafer-Fruchtriegel Apfel, Banane & Heidelbeere 6er",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.62,
       "unit": "g",
       "quantity": 138,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.62
+        },
         {
           "date": "2025-09-15",
           "price": 3.49
@@ -2856,10 +2873,6 @@
         {
           "date": "2025-09-08",
           "price": 2.62
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.49
         }
       ]
     },
@@ -2929,10 +2942,14 @@
     {
       "name": "BILLA Bio Haferdrink",
       "store": "billa",
-      "price": 1.15,
+      "price": 0.99,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 0.99
+        },
         {
           "date": "2025-11-06",
           "price": 1.15
@@ -2940,20 +2957,20 @@
         {
           "date": "2025-10-22",
           "price": 0.99
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.15
         }
       ]
     },
     {
       "name": "BILLA Bio Haferdrink glutenfrei",
       "store": "billa",
-      "price": 1.15,
+      "price": 0.99,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 0.99
+        },
         {
           "date": "2025-11-06",
           "price": 1.15
@@ -2961,10 +2978,6 @@
         {
           "date": "2025-10-22",
           "price": 0.99
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.15
         }
       ]
     },
@@ -3034,10 +3047,14 @@
     {
       "name": "BILLA Bio Himbeeren",
       "store": "billa",
-      "price": 3.29,
+      "price": 3.49,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 3.49
+        },
         {
           "date": "2025-11-04",
           "price": 3.29
@@ -3045,10 +3062,6 @@
         {
           "date": "2025-10-22",
           "price": 3.49
-        },
-        {
-          "date": "2025-06-12",
-          "price": 3.29
         }
       ]
     },
@@ -3139,10 +3152,14 @@
     {
       "name": "BILLA Bio Karotte",
       "store": "billa",
-      "price": 0.85,
+      "price": 0.64,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.64
+        },
         {
           "date": "2025-09-15",
           "price": 0.85
@@ -3150,10 +3167,6 @@
         {
           "date": "2025-09-08",
           "price": 0.64
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.85
         }
       ]
     },
@@ -3265,10 +3278,14 @@
     {
       "name": "BILLA Bio Knusperstangerl Mais",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3276,20 +3293,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Knusperstangerl Mais & Hafer",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3297,10 +3314,6 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
@@ -3601,10 +3614,14 @@
     {
       "name": "BILLA Bio Obstmus Apfel & Banane",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3612,20 +3629,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel & Banane 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.39,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.39
+        },
         {
           "date": "2025-09-15",
           "price": 3.19
@@ -3633,20 +3650,20 @@
         {
           "date": "2025-09-08",
           "price": 2.39
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel & Karotte",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3654,20 +3671,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Banane & Hafer",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3675,20 +3692,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3696,20 +3713,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.39,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.39
+        },
         {
           "date": "2025-09-15",
           "price": 3.19
@@ -3717,20 +3734,20 @@
         {
           "date": "2025-09-08",
           "price": 2.39
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Pfirsich & Mango",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.67,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.67
+        },
         {
           "date": "2025-09-15",
           "price": 0.89
@@ -3738,20 +3755,20 @@
         {
           "date": "2025-09-08",
           "price": 0.67
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Pfirsich & Mango 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.39,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.39
+        },
         {
           "date": "2025-09-15",
           "price": 3.19
@@ -3759,10 +3776,6 @@
         {
           "date": "2025-09-08",
           "price": 2.39
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.19
         }
       ]
     },
@@ -4891,10 +4904,14 @@
     {
       "name": "Bebivita Kinderspaß Birne-Himbeere-Apfel",
       "store": "billa",
-      "price": 3.69,
+      "price": 2.77,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.77
+        },
         {
           "date": "2025-09-15",
           "price": 3.69
@@ -4902,10 +4919,6 @@
         {
           "date": "2025-09-08",
           "price": 2.77
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.69
         }
       ]
     },
@@ -6294,10 +6307,14 @@
     {
       "name": "Freche Freunde Brezeln Kichererbse",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.64,
       "unit": "g",
       "quantity": 75,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.64
+        },
         {
           "date": "2025-09-15",
           "price": 2.19
@@ -6305,20 +6322,20 @@
         {
           "date": "2025-09-08",
           "price": 1.64
-        },
-        {
-          "date": "2025-07-07",
-          "price": 2.19
         }
       ]
     },
     {
       "name": "Freche Freunde Frühstücks Kringel Erdbeere",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.24,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.24
+        },
         {
           "date": "2025-09-15",
           "price": 2.99
@@ -6326,20 +6343,20 @@
         {
           "date": "2025-09-08",
           "price": 2.24
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.99
         }
       ]
     },
     {
       "name": "Freche Freunde Knusper Schnitte Banane & Kürbis",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.64,
       "unit": "g",
       "quantity": 84,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.64
+        },
         {
           "date": "2025-09-15",
           "price": 2.19
@@ -6347,20 +6364,20 @@
         {
           "date": "2025-09-08",
           "price": 1.64
-        },
-        {
-          "date": "2025-08-04",
-          "price": 2.19
         }
       ]
     },
     {
       "name": "Freche Freunde Knusper-Flips Karotte",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.34,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.34
+        },
         {
           "date": "2025-09-15",
           "price": 1.79
@@ -6368,20 +6385,20 @@
         {
           "date": "2025-09-08",
           "price": 1.34
-        },
-        {
-          "date": "2025-07-07",
-          "price": 1.79
         }
       ]
     },
     {
       "name": "Freche Freunde Knusper-Herzchen Banane & Erdbeere",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.34,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.34
+        },
         {
           "date": "2025-08-11",
           "price": 1.79
@@ -6389,10 +6406,6 @@
         {
           "date": "2025-08-04",
           "price": 1.34
-        },
-        {
-          "date": "2025-07-07",
-          "price": 1.79
         }
       ]
     },
@@ -6420,10 +6433,14 @@
     {
       "name": "Freche Freunde Quetschie Apfel, Banane & Himbeere",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6431,20 +6448,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Freche Freunde Quetschie Apfel, Banane, Ananas & Kokosnuss",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6452,20 +6469,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-07-07",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Freche Freunde Quetschie Apfel, Birne, Karotte & Kürbis",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6473,10 +6490,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-04",
-          "price": 1.49
         }
       ]
     },
@@ -6504,10 +6517,14 @@
     {
       "name": "Freche Freunde Quetschie Apfel, Mango & Pfirsich",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6515,10 +6532,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
@@ -6567,10 +6580,14 @@
     {
       "name": "Freche Freunde Quetschie Blaue Beeren",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6578,10 +6595,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-04",
-          "price": 1.49
         }
       ]
     },
@@ -6651,10 +6664,14 @@
     {
       "name": "Freche Freunde Riegel Pfirsch, Apfel & Banane",
       "store": "billa",
-      "price": 1.19,
+      "price": 0.89,
       "unit": "g",
       "quantity": 21,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.89
+        },
         {
           "date": "2025-09-15",
           "price": 1.19
@@ -6662,10 +6679,6 @@
         {
           "date": "2025-09-08",
           "price": 0.89
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.19
         }
       ]
     },
@@ -6777,10 +6790,14 @@
     {
       "name": "Fruchtbar Bio Mini Laugenstangen mit Butter",
       "store": "billa",
-      "price": 2.49,
+      "price": 1.87,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.87
+        },
         {
           "date": "2025-09-15",
           "price": 2.49
@@ -6788,10 +6805,6 @@
         {
           "date": "2025-09-08",
           "price": 1.87
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.49
         }
       ]
     },
@@ -6819,10 +6832,14 @@
     {
       "name": "Fruchtbar Fruchtpüree Kirsche Banane",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 120,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6830,20 +6847,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Knusper Stäbchen Mais Käse",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6851,20 +6868,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Quetsche Apfel-Birne-Traube",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 120,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6872,20 +6889,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Quetsche Birne-Apfel-Hirse",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6893,20 +6910,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Quetsche Erdbeere-Apfel",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6914,20 +6931,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Quetsche Mango Orange Kokosmilch Banane",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6935,20 +6952,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Fruchtbar Quetsche Mango-Pfirsich-Banane",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -6956,10 +6973,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
@@ -7546,10 +7559,14 @@
     {
       "name": "Hipp Apel-Bananen-Müsli",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7557,20 +7574,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Apfel-Pfirsich mit 7-Korn",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7578,20 +7595,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Banane & Pfirsich in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7599,20 +7616,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Bio Direktsaft Milder Apfel",
       "store": "billa",
-      "price": 1.59,
+      "price": 1.19,
       "unit": "ml",
       "quantity": 330,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.19
+        },
         {
           "date": "2025-09-15",
           "price": 1.59
@@ -7620,10 +7637,6 @@
         {
           "date": "2025-09-08",
           "price": 1.19
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.59
         }
       ]
     },
@@ -7651,10 +7664,14 @@
     {
       "name": "Hipp Buttergemüse mit Süßkartoffelpüree & Bio-Hühnchen",
       "store": "billa",
-      "price": 2.39,
+      "price": 1.79,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.79
+        },
         {
           "date": "2025-09-15",
           "price": 2.39
@@ -7662,20 +7679,20 @@
         {
           "date": "2025-09-08",
           "price": 1.79
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.39
         }
       ]
     },
     {
       "name": "Hipp Dinkel Hafer Ringe",
       "store": "billa",
-      "price": 1.39,
+      "price": 1.04,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.04
+        },
         {
           "date": "2025-09-15",
           "price": 1.39
@@ -7683,20 +7700,20 @@
         {
           "date": "2025-09-08",
           "price": 1.04
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.39
         }
       ]
     },
     {
       "name": "Hipp Direktsaft Multifrucht mit Karotte",
       "store": "billa",
-      "price": 1.59,
+      "price": 1.19,
       "unit": "ml",
       "quantity": 330,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.19
+        },
         {
           "date": "2025-09-15",
           "price": 1.59
@@ -7704,20 +7721,20 @@
         {
           "date": "2025-09-08",
           "price": 1.19
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.59
         }
       ]
     },
     {
       "name": "Hipp Erdbeere Apfel-Joghurt-Müsli",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -7725,20 +7742,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Hipp Erdbeere Himbeere in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7746,10 +7763,6 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
@@ -7777,10 +7790,14 @@
     {
       "name": "Hipp Feines Bircher-Müsli",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7788,20 +7805,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Früchte Riegel Himbeere in Banane-Apfel",
       "store": "billa",
-      "price": 1.19,
+      "price": 0.89,
       "unit": "g",
       "quantity": 23,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.89
+        },
         {
           "date": "2025-09-15",
           "price": 1.19
@@ -7809,20 +7826,20 @@
         {
           "date": "2025-09-08",
           "price": 0.89
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.19
         }
       ]
     },
     {
       "name": "Hipp Früchte Riegel Joghurt-Kirsch in Banane",
       "store": "billa",
-      "price": 1.19,
+      "price": 0.89,
       "unit": "g",
       "quantity": 23,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.89
+        },
         {
           "date": "2025-09-15",
           "price": 1.19
@@ -7830,20 +7847,20 @@
         {
           "date": "2025-09-08",
           "price": 0.89
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.19
         }
       ]
     },
     {
       "name": "Hipp Früchte-Joghurt-Müsli",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -7851,10 +7868,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
@@ -7882,10 +7895,14 @@
     {
       "name": "Hipp Grießbrei pur",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.64,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.64
+        },
         {
           "date": "2025-09-15",
           "price": 2.19
@@ -7893,10 +7910,6 @@
         {
           "date": "2025-09-08",
           "price": 1.64
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.19
         }
       ]
     },
@@ -7922,12 +7935,97 @@
       ]
     },
     {
+      "name": "Hipp Gute Nacht Dinkelgrießbrei",
+      "store": "billa",
+      "price": 1.64,
+      "unit": "g",
+      "quantity": 190,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.64
+        },
+        {
+          "date": "2025-11-11",
+          "price": 2.19
+        }
+      ]
+    },
+    {
+      "name": "Hipp Gute Nacht Haferbrei Pur",
+      "store": "billa",
+      "price": 1.64,
+      "unit": "g",
+      "quantity": 190,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.64
+        },
+        {
+          "date": "2025-11-11",
+          "price": 2.19
+        }
+      ]
+    },
+    {
+      "name": "Hipp Gute Nacht Milch-Getreide Mahlzeit",
+      "store": "billa",
+      "price": 10.49,
+      "unit": "g",
+      "quantity": 525,
+      "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 10.49
+        }
+      ]
+    },
+    {
+      "name": "Hipp Gute Nacht Milchbrei Griess Banane",
+      "store": "billa",
+      "price": 4.49,
+      "unit": "g",
+      "quantity": 475,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 4.49
+        },
+        {
+          "date": "2025-11-11",
+          "price": 5.99
+        }
+      ]
+    },
+    {
+      "name": "Hipp Gute Nacht Milchbrei Hafer Apfel",
+      "store": "billa",
+      "price": 4.49,
+      "unit": "g",
+      "quantity": 475,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 4.49
+        },
+        {
+          "date": "2025-11-11",
+          "price": 5.99
+        }
+      ]
+    },
+    {
       "name": "Hipp Himbeere in Apfel mit Dinkelgrieß",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -7935,20 +8033,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Hippis Apfel-Banane-Himbeere mit Dinkel",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -7956,20 +8054,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Apfel-Birne-Banane",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -7977,10 +8075,6 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
@@ -8008,10 +8102,14 @@
     {
       "name": "Hipp Hippis Erdbeere-Banane in Apfel",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8019,20 +8117,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Erdbeere-Banane in Apfel 4er",
       "store": "billa",
-      "price": 4.59,
+      "price": 3.44,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 3.44
+        },
         {
           "date": "2025-09-15",
           "price": 4.59
@@ -8040,20 +8138,20 @@
         {
           "date": "2025-09-08",
           "price": 3.44
-        },
-        {
-          "date": "2025-08-11",
-          "price": 4.59
         }
       ]
     },
     {
       "name": "Hipp Hippis Kiwi in Birne-Banane",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8061,20 +8159,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Mango-Maracuja-Birne-Apfel",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8082,20 +8180,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Mirabelle in Apfel-Pfirisich",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8103,20 +8201,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Pfirsich Apfel Mango",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8124,20 +8222,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Hippis Waldbeeren in Apfel-Pfirsich",
       "store": "billa",
-      "price": 1.29,
+      "price": 0.97,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.97
+        },
         {
           "date": "2025-09-15",
           "price": 1.29
@@ -8145,20 +8243,20 @@
         {
           "date": "2025-09-08",
           "price": 0.97
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.29
         }
       ]
     },
     {
       "name": "Hipp Kaiserschmarrn in Apfelmus",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.49
+        },
         {
           "date": "2025-09-15",
           "price": 1.99
@@ -8166,20 +8264,20 @@
         {
           "date": "2025-09-08",
           "price": 1.49
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.99
         }
       ]
     },
     {
       "name": "Hipp Karotten mit Kartoffeln",
       "store": "billa",
-      "price": 1.39,
+      "price": 1.04,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.04
+        },
         {
           "date": "2025-09-15",
           "price": 1.39
@@ -8187,10 +8285,6 @@
         {
           "date": "2025-09-08",
           "price": 1.04
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.39
         }
       ]
     },
@@ -8218,10 +8312,14 @@
     {
       "name": "Hipp Kinder Beeren Müsli",
       "store": "billa",
-      "price": 3.69,
+      "price": 2.77,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.77
+        },
         {
           "date": "2025-09-15",
           "price": 3.69
@@ -8229,20 +8327,20 @@
         {
           "date": "2025-09-08",
           "price": 2.77
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.69
         }
       ]
     },
     {
       "name": "Hipp Mais mit Kartoffeln & Bio-Pute",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.49,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.49
+        },
         {
           "date": "2025-09-15",
           "price": 1.99
@@ -8250,20 +8348,20 @@
         {
           "date": "2025-09-08",
           "price": 1.49
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.99
         }
       ]
     },
     {
       "name": "Hipp Mango Erdbeere in Apfel",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.34,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.34
+        },
         {
           "date": "2025-09-15",
           "price": 1.79
@@ -8271,20 +8369,20 @@
         {
           "date": "2025-09-08",
           "price": 1.34
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.79
         }
       ]
     },
     {
       "name": "Hipp Mango-Bananen-Grieß",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8292,20 +8390,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Marille in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8313,10 +8411,6 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
@@ -8365,10 +8459,14 @@
     {
       "name": "Hipp Nektarine in Apfel-Mango",
       "store": "billa",
-      "price": 1.89,
+      "price": 1.42,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.42
+        },
         {
           "date": "2025-09-15",
           "price": 1.89
@@ -8376,20 +8474,20 @@
         {
           "date": "2025-09-08",
           "price": 1.42
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.89
         }
       ]
     },
     {
       "name": "Hipp Pfirsich in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8397,20 +8495,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Pfirsich-Marille mit Topfen-Creme",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -8418,20 +8516,20 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Hipp Pflaume in Birne",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8439,20 +8537,20 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Pflaume in Birne mit Vollkorn",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8460,10 +8558,6 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
@@ -8491,10 +8585,14 @@
     {
       "name": "Hipp Quetschie Mango Pfirsich in Banane mit Hafer 4er",
       "store": "billa",
-      "price": 4.59,
+      "price": 3.44,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 3.44
+        },
         {
           "date": "2025-09-15",
           "price": 4.59
@@ -8502,10 +8600,6 @@
         {
           "date": "2025-09-08",
           "price": 3.44
-        },
-        {
-          "date": "2025-08-11",
-          "price": 4.59
         }
       ]
     },
@@ -8554,10 +8648,14 @@
     {
       "name": "Hipp Williams-Christ-Birnen mit Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8565,41 +8663,41 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Äpfel mit Bananen",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
         {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
+        {
           "date": "2025-09-15",
           "price": 1.69
         },
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Äpfel mit Bananen",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.27,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.27
+        },
         {
           "date": "2025-09-15",
           "price": 1.69
@@ -8607,10 +8705,6 @@
         {
           "date": "2025-09-08",
           "price": 1.27
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.69
         }
       ]
     },
@@ -9848,10 +9942,14 @@
     {
       "name": "Ja! Natürlich Bio Spitzpaprika bunt",
       "store": "billa",
-      "price": 3.99,
+      "price": 2.99,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 2.99
+        },
         {
           "date": "2024-11-06",
           "price": 3.99
@@ -10298,10 +10396,14 @@
     {
       "name": "Ja! Natürlich Bio-Vollkorn Dinkelbrei",
       "store": "billa",
-      "price": 2.39,
+      "price": 1.79,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.79
+        },
         {
           "date": "2025-09-15",
           "price": 2.39
@@ -10309,20 +10411,20 @@
         {
           "date": "2025-09-08",
           "price": 1.79
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.39
         }
       ]
     },
     {
       "name": "Ja! Natürlich Bio-Vollkorn Haferflockenbrei",
       "store": "billa",
-      "price": 2.39,
+      "price": 1.79,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.79
+        },
         {
           "date": "2025-09-15",
           "price": 2.39
@@ -10330,10 +10432,6 @@
         {
           "date": "2025-09-08",
           "price": 1.79
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.39
         }
       ]
     },
@@ -10445,10 +10543,14 @@
     {
       "name": "Ja! Natürlich Braunschweiger",
       "store": "billa",
-      "price": 5.49,
+      "price": 5.59,
       "unit": "g",
       "quantity": 330,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 5.59
+        },
         {
           "date": "2025-10-22",
           "price": 5.49
@@ -10456,10 +10558,6 @@
         {
           "date": "2025-09-15",
           "price": 5.19
-        },
-        {
-          "date": "2025-09-08",
-          "price": 3.89
         }
       ]
     },
@@ -12130,10 +12228,14 @@
     {
       "name": "Ja! Natürlich Käsekrainer",
       "store": "billa",
-      "price": 4.99,
+      "price": 4.79,
       "unit": "g",
       "quantity": 280,
       "priceHistory": [
+        {
+          "date": "2025-11-08",
+          "price": 4.79
+        },
         {
           "date": "2025-09-15",
           "price": 4.99
@@ -12141,10 +12243,6 @@
         {
           "date": "2025-09-08",
           "price": 3.74
-        },
-        {
-          "date": "2025-08-11",
-          "price": 4.99
         }
       ]
     },
@@ -12878,10 +12976,14 @@
     {
       "name": "Ja! Natürlich Rindsminutensteak",
       "store": "billa",
-      "price": 36.99,
+      "price": 29.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 29.99
+        },
         {
           "date": "2025-10-22",
           "price": 36.99
@@ -12889,10 +12991,6 @@
         {
           "date": "2024-12-05",
           "price": 29.99
-        },
-        {
-          "date": "2024-11-28",
-          "price": 24.99
         }
       ]
     },
@@ -13471,10 +13569,31 @@
     {
       "name": "Ja! Natürlich Spitzpaprika rot",
       "store": "billa",
-      "price": 2.49,
+      "price": 2.79,
+      "unit": "stk",
+      "quantity": 3,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.79
+        },
+        {
+          "date": "2025-11-11",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "Ja! Natürlich Spitzpaprika rot",
+      "store": "billa",
+      "price": 1.99,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 1.99
+        },
         {
           "date": "2025-11-04",
           "price": 2.49
@@ -13482,10 +13601,6 @@
         {
           "date": "2025-05-09",
           "price": 2.09
-        },
-        {
-          "date": "2025-04-21",
-          "price": 2.79
         }
       ]
     },
@@ -13513,10 +13628,14 @@
     {
       "name": "Ja! Natürlich Streichfein",
       "store": "billa",
-      "price": 3.29,
+      "price": 3.19,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 3.19
+        },
         {
           "date": "2025-09-15",
           "price": 3.29
@@ -13524,10 +13643,6 @@
         {
           "date": "2025-09-08",
           "price": 2.47
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.29
         }
       ]
     },
@@ -14198,10 +14313,14 @@
     {
       "name": "Ja! Natürlich Weißwürstel",
       "store": "billa",
-      "price": 3.69,
+      "price": 3.29,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-08",
+          "price": 3.29
+        },
         {
           "date": "2025-10-22",
           "price": 3.69
@@ -14209,10 +14328,6 @@
         {
           "date": "2024-02-24",
           "price": 3.49
-        },
-        {
-          "date": "2024-02-16",
-          "price": 2.62
         }
       ]
     },
@@ -16602,10 +16717,14 @@
     {
       "name": "Pumpkin Organics Bio Haferriegel Dattel Kokos",
       "store": "billa",
-      "price": 1.19,
+      "price": 0.89,
       "unit": "g",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.89
+        },
         {
           "date": "2025-09-15",
           "price": 1.19
@@ -16613,10 +16732,6 @@
         {
           "date": "2025-09-08",
           "price": 0.89
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.19
         }
       ]
     },
@@ -16644,10 +16759,14 @@
     {
       "name": "Pumpkin Organics Bio Linsen Puffs",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.74,
       "unit": "g",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 0.74
+        },
         {
           "date": "2025-09-15",
           "price": 0.99
@@ -16655,10 +16774,6 @@
         {
           "date": "2025-09-08",
           "price": 0.74
-        },
-        {
-          "date": "2025-08-11",
-          "price": 0.99
         }
       ]
     },
@@ -16728,10 +16843,14 @@
     {
       "name": "Pumpkin Organics Quetschie Kürbis, Karotte, Apfel, Banane, Pfirsich",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.49,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.49
+        },
         {
           "date": "2025-10-22",
           "price": 1.99
@@ -16739,20 +16858,20 @@
         {
           "date": "2025-09-15",
           "price": 2.19
-        },
-        {
-          "date": "2025-09-08",
-          "price": 1.64
         }
       ]
     },
     {
       "name": "Pumpkin Organics Quetschie Süßkartoffel, Blaubeere, Birne, Rote Beete & Hafer",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.12,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 1.12
+        },
         {
           "date": "2025-09-15",
           "price": 1.49
@@ -16760,10 +16879,6 @@
         {
           "date": "2025-09-08",
           "price": 1.12
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
         }
       ]
     },
@@ -17369,10 +17484,14 @@
     {
       "name": "Rorax Bio-Rohrfrei Powergel",
       "store": "billa",
-      "price": 3.67,
+      "price": 4.89,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-12",
+          "price": 4.89
+        },
         {
           "date": "2025-11-06",
           "price": 3.67
@@ -17380,10 +17499,6 @@
         {
           "date": "2025-09-15",
           "price": 4.89
-        },
-        {
-          "date": "2025-09-08",
-          "price": 3.67
         }
       ]
     },
@@ -17957,10 +18072,14 @@
     {
       "name": "Snagy Zaubersnack Heidelbeeren",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.62,
       "unit": "g",
       "quantity": 80,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 2.62
+        },
         {
           "date": "2025-09-15",
           "price": 3.49
@@ -17968,10 +18087,6 @@
         {
           "date": "2025-09-08",
           "price": 2.62
-        },
-        {
-          "date": "2025-08-26",
-          "price": 3.49
         }
       ]
     },
@@ -21025,10 +21140,14 @@
     {
       "name": "Bergkräuter BIO Gewürzzubereitung Bratkartoffel 50g",
       "store": "spar",
-      "price": 3.49,
+      "price": 3.79,
       "unit": "g",
       "quantity": 50,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.79
+        },
         {
           "date": "2023-04-28",
           "price": 3.49
@@ -21042,10 +21161,14 @@
     {
       "name": "Bergkräuter Bio BIO Salatkräuter",
       "store": "spar",
-      "price": 2.99,
+      "price": 3.39,
       "unit": "stück",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.39
+        },
         {
           "date": "2023-04-28",
           "price": 2.99
@@ -21059,10 +21182,14 @@
     {
       "name": "Bergkräuter Bio Gewürzzubereitung Würzig für Hendl",
       "store": "spar",
-      "price": 2.99,
+      "price": 3.39,
       "unit": "kg",
       "quantity": 0.05,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.39
+        },
         {
           "date": "2023-04-28",
           "price": 2.99
@@ -21076,10 +21203,14 @@
     {
       "name": "Bergkräuter Bio Paprika edelsüß",
       "store": "spar",
-      "price": 4.29,
+      "price": 4.49,
       "unit": "kg",
       "quantity": 0.05,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 4.49
+        },
         {
           "date": "2020-09-28",
           "price": 4.29
@@ -21106,10 +21237,14 @@
     {
       "name": "Bergkräuter Bio Topfenkäsegewürz 40g",
       "store": "spar",
-      "price": 4.29,
+      "price": 4.39,
       "unit": "g",
       "quantity": 40,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 4.39
+        },
         {
           "date": "2023-04-28",
           "price": 4.29
@@ -21123,10 +21258,14 @@
     {
       "name": "Bergkräuter Bohnenkraut 20g",
       "store": "spar",
-      "price": 2.79,
+      "price": 2.69,
       "unit": "g",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 2.69
+        },
         {
           "date": "2023-04-28",
           "price": 2.79
@@ -21140,10 +21279,14 @@
     {
       "name": "Bergkräuter Gewürz für Rosmarinkartoffeln",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "kg",
       "quantity": 0.05,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-03-30",
           "price": 3.79
@@ -21153,10 +21296,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Faschiertes 50g",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "g",
       "quantity": 50,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -21170,10 +21317,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Gansl & Enten 50g",
       "store": "spar",
-      "price": 3.49,
+      "price": 3.79,
       "unit": "g",
       "quantity": 50,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.79
+        },
         {
           "date": "2023-04-28",
           "price": 3.49
@@ -21187,10 +21338,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Gulasch 60g",
       "store": "spar",
-      "price": 3.79,
+      "price": 4.29,
       "unit": "g",
       "quantity": 60,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 4.29
+        },
         {
           "date": "2022-09-30",
           "price": 3.79
@@ -21217,10 +21372,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Kräuter-Dip 45g",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "g",
       "quantity": 45,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -21234,10 +21393,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Liptauer 60g",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "g",
       "quantity": 60,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -21251,10 +21414,14 @@
     {
       "name": "Bergkräuter Gewürzzubereitung Pasta 30g",
       "store": "spar",
-      "price": 2.99,
+      "price": 3.39,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.39
+        },
         {
           "date": "2023-04-28",
           "price": 2.99
@@ -21268,10 +21435,14 @@
     {
       "name": "Bergkräuter Grill- & Bratgewürzzubereitung Geflügel 60g",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "g",
       "quantity": 60,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -21285,10 +21456,14 @@
     {
       "name": "Bergkräuter Grill- & Bratgewürzzubereitung Lamm 60g",
       "store": "spar",
-      "price": 3.79,
+      "price": 4.29,
       "unit": "g",
       "quantity": 60,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 4.29
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -21302,10 +21477,14 @@
     {
       "name": "Bergkräuter Paprikasalz 200g",
       "store": "spar",
-      "price": 4.29,
+      "price": 4.69,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 4.69
+        },
         {
           "date": "2023-04-05",
           "price": 4.29
@@ -21315,10 +21494,14 @@
     {
       "name": "Bergkräuter Wacholderbeeren",
       "store": "spar",
-      "price": 3.49,
+      "price": 3.79,
       "unit": "kg",
       "quantity": 0.05,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.79
+        },
         {
           "date": "2023-04-28",
           "price": 3.49
@@ -21332,10 +21515,14 @@
     {
       "name": "Bergkräuter Ziegenkäsegewürz 40g",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "g",
       "quantity": 40,
       "priceHistory": [
+        {
+          "date": "2025-11-14",
+          "price": 3.99
+        },
         {
           "date": "2023-04-28",
           "price": 3.79
@@ -25105,10 +25292,14 @@
     {
       "name": "Hakuma Bio Matcha Kokos - Hafer - Grüntee",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.89,
       "unit": "l",
       "quantity": 0.235,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 1.89
+        },
         {
           "date": "2025-08-05",
           "price": 1.49
@@ -26304,7 +26495,7 @@
       ]
     },
     {
-      "name": "Hipp Guten Morgen Bio-Gläschen Blaubeere in Apfel-Joghurt-Müesli",
+      "name": "Hipp Guten Morgen Bio-Gläschen Erdbeere in Apfel-Joghurt-Müesli",
       "store": "spar",
       "price": 1.39,
       "unit": "g",
@@ -26325,7 +26516,7 @@
       ]
     },
     {
-      "name": "Hipp Guten Morgen Bio-Gläschen Erdbeere in Apfel-Joghurt-Müesli",
+      "name": "Hipp Guten Morgen Blaubeere in Apfel-Joghurt-Müesli",
       "store": "spar",
       "price": 1.39,
       "unit": "g",
@@ -31450,7 +31641,7 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur Bio-Broccoli",
+      "name": "SPAR Natur*pur Bio-Broccoli 500 g",
       "store": "spar",
       "price": 1.99,
       "unit": "g",
@@ -31797,10 +31988,14 @@
     {
       "name": "SPAR Natur*pur Bio-Caffè Crema ganze Bohne",
       "store": "spar",
-      "price": 16.99,
+      "price": 17.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 17.99
+        },
         {
           "date": "2025-10-14",
           "price": 16.99
@@ -31808,10 +32003,6 @@
         {
           "date": "2025-09-25",
           "price": 17.99
-        },
-        {
-          "date": "2025-09-09",
-          "price": 15.99
         }
       ]
     },
@@ -31902,10 +32093,14 @@
     {
       "name": "SPAR Natur*pur Bio-Cherrytomaten",
       "store": "spar",
-      "price": 1.99,
+      "price": 2.99,
       "unit": "g",
       "quantity": 300,
       "priceHistory": [
+        {
+          "date": "2025-11-09",
+          "price": 2.99
+        },
         {
           "date": "2025-11-03",
           "price": 1.99
@@ -31913,10 +32108,6 @@
         {
           "date": "2025-09-22",
           "price": 2.99
-        },
-        {
-          "date": "2025-09-20",
-          "price": 3.49
         }
       ]
     },
@@ -32197,10 +32388,14 @@
     {
       "name": "SPAR Natur*pur Bio-Eier Gewichtsklasse L, Güteklasse A 6 Stück",
       "store": "spar",
-      "price": 3.89,
+      "price": 4.19,
       "unit": "stk",
       "quantity": 6,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 4.19
+        },
         {
           "date": "2025-05-14",
           "price": 3.89
@@ -32208,10 +32403,6 @@
         {
           "date": "2023-01-20",
           "price": 3.79
-        },
-        {
-          "date": "2023-01-02",
-          "price": 2.99
         }
       ]
     },
@@ -32521,10 +32712,14 @@
     {
       "name": "SPAR Natur*pur Bio-Espresso ganze Bohne",
       "store": "spar",
-      "price": 16.99,
+      "price": 17.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 17.99
+        },
         {
           "date": "2025-10-14",
           "price": 16.99
@@ -32532,10 +32727,6 @@
         {
           "date": "2025-09-25",
           "price": 17.99
-        },
-        {
-          "date": "2025-09-09",
-          "price": 15.99
         }
       ]
     },
@@ -33379,10 +33570,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gouda aus Heumilch g.t.S.",
       "store": "spar",
-      "price": 3.95,
+      "price": 3.87,
       "unit": "g",
       "quantity": 300,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 3.87
+        },
         {
           "date": "2025-06-24",
           "price": 3.95
@@ -33390,10 +33585,6 @@
         {
           "date": "2025-06-13",
           "price": 3.99
-        },
-        {
-          "date": "2025-06-04",
-          "price": 3.79
         }
       ]
     },
@@ -33463,10 +33654,14 @@
     {
       "name": "SPAR Natur*pur Bio-Granatapfelsaft direkt gepresst",
       "store": "spar",
-      "price": 5.99,
+      "price": 6.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 6.99
+        },
         {
           "date": "2025-10-15",
           "price": 5.99
@@ -33474,10 +33669,6 @@
         {
           "date": "2024-12-05",
           "price": 6.99
-        },
-        {
-          "date": "2024-11-06",
-          "price": 6.49
         }
       ]
     },
@@ -33543,10 +33734,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gurke",
       "store": "spar",
-      "price": 1.79,
+      "price": 1.59,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 1.59
+        },
         {
           "date": "2025-10-13",
           "price": 1.79
@@ -33554,10 +33749,6 @@
         {
           "date": "2025-09-22",
           "price": 1.89
-        },
-        {
-          "date": "2025-07-27",
-          "price": 1.79
         }
       ]
     },
@@ -33963,10 +34154,14 @@
     {
       "name": "SPAR Natur*pur Bio-Himbeeren",
       "store": "spar",
-      "price": 3.29,
+      "price": 3.49,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 3.49
+        },
         {
           "date": "2025-11-03",
           "price": 3.29
@@ -33974,10 +34169,6 @@
         {
           "date": "2025-09-29",
           "price": 3.49
-        },
-        {
-          "date": "2025-09-22",
-          "price": 3.39
         }
       ]
     },
@@ -34840,10 +35031,14 @@
     {
       "name": "SPAR Natur*pur Bio-Kräuterhonig aus Niederösterreich",
       "store": "spar",
-      "price": 7.49,
+      "price": 8.99,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 8.99
+        },
         {
           "date": "2025-10-14",
           "price": 7.49
@@ -34851,10 +35046,6 @@
         {
           "date": "2024-11-07",
           "price": 8.99
-        },
-        {
-          "date": "2024-10-08",
-          "price": 6.99
         }
       ]
     },
@@ -35720,10 +35911,14 @@
     {
       "name": "SPAR Natur*pur Bio-Orange",
       "store": "spar",
-      "price": 3.19,
+      "price": 2.99,
       "unit": "l",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 2.99
+        },
         {
           "date": "2024-10-15",
           "price": 3.19
@@ -35731,10 +35926,6 @@
         {
           "date": "2024-09-05",
           "price": 2.79
-        },
-        {
-          "date": "2024-08-21",
-          "price": 2.59
         }
       ]
     },
@@ -36168,10 +36359,14 @@
     {
       "name": "SPAR Natur*pur Bio-Püreekartoffeln mehlig kochend",
       "store": "spar",
-      "price": 1.29,
+      "price": 1.89,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-11-09",
+          "price": 1.89
+        },
         {
           "date": "2025-11-03",
           "price": 1.29
@@ -36179,10 +36374,6 @@
         {
           "date": "2025-10-15",
           "price": 1.89
-        },
-        {
-          "date": "2023-03-12",
-          "price": 1.99
         }
       ]
     },
@@ -37207,10 +37398,14 @@
     {
       "name": "SPAR Natur*pur Bio-Snack Paprika",
       "store": "spar",
-      "price": 2.49,
+      "price": 2.79,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2025-11-10",
+          "price": 2.79
+        },
         {
           "date": "2025-11-03",
           "price": 2.49
@@ -37218,10 +37413,6 @@
         {
           "date": "2025-10-20",
           "price": 2.99
-        },
-        {
-          "date": "2025-09-01",
-          "price": 2.79
         }
       ]
     },
@@ -38346,6 +38537,19 @@
       ]
     },
     {
+      "name": "SPAR Natur*pur Bio-Weizen-Sauerteig getrocknet 3 Beutel",
+      "store": "spar",
+      "price": 2.49,
+      "unit": "g",
+      "quantity": 1050,
+      "priceHistory": [
+        {
+          "date": "2025-11-11",
+          "price": 2.49
+        }
+      ]
+    },
+    {
       "name": "SPAR Natur*pur Bio-Weizen-Universalmehl Type 480",
       "store": "spar",
       "price": 1.19,
@@ -38580,21 +38784,21 @@
     {
       "name": "SPAR Natur*pur Bio-Zitronen",
       "store": "spar",
-      "price": 1.29,
+      "price": 1.79,
       "unit": "stk",
       "quantity": 4,
       "priceHistory": [
         {
-          "date": "2025-11-07",
-          "price": 1.29
+          "date": "2025-11-10",
+          "price": 1.79
         },
         {
-          "date": "2025-10-27",
+          "date": "2025-11-09",
           "price": 1.99
         },
         {
-          "date": "2025-07-14",
-          "price": 2.49
+          "date": "2025-11-07",
+          "price": 1.29
         }
       ]
     },
@@ -38780,166 +38984,6 @@
         {
           "date": "2024-08-18",
           "price": 2.99
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zucchini-Mix",
-      "store": "spar",
-      "price": 2.79,
-      "unit": "stk",
-      "quantity": 2,
-      "priceHistory": [
-        {
-          "date": "2025-06-16",
-          "price": 2.79
-        },
-        {
-          "date": "2024-07-23",
-          "price": 2.99
-        },
-        {
-          "date": "2023-06-21",
-          "price": 2.49
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebel Mix im Netzschlauch",
-      "store": "spar",
-      "price": 1.99,
-      "unit": "g",
-      "quantity": 280,
-      "priceHistory": [
-        {
-          "date": "2020-11-26",
-          "price": 1.99
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebel im Netzschlauch",
-      "store": "spar",
-      "price": 1.59,
-      "unit": "g",
-      "quantity": 280,
-      "priceHistory": [
-        {
-          "date": "2025-07-21",
-          "price": 1.59
-        },
-        {
-          "date": "2025-05-14",
-          "price": 1.69
-        },
-        {
-          "date": "2023-07-16",
-          "price": 1.59
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebel rot",
-      "store": "spar",
-      "price": 1.69,
-      "unit": "g",
-      "quantity": 280,
-      "priceHistory": [
-        {
-          "date": "2024-07-01",
-          "price": 1.69
-        },
-        {
-          "date": "2024-06-24",
-          "price": 1.99
-        },
-        {
-          "date": "2024-06-17",
-          "price": 1.69
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebel weiß",
-      "store": "spar",
-      "price": 2.19,
-      "unit": "g",
-      "quantity": 500,
-      "priceHistory": [
-        {
-          "date": "2024-12-08",
-          "price": 2.19
-        },
-        {
-          "date": "2024-12-02",
-          "price": 1.49
-        },
-        {
-          "date": "2023-09-19",
-          "price": 2.19
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebeln gelb",
-      "store": "spar",
-      "price": 1.79,
-      "unit": "g",
-      "quantity": 750,
-      "priceHistory": [
-        {
-          "date": "2025-09-08",
-          "price": 1.79
-        },
-        {
-          "date": "2025-08-17",
-          "price": 1.99
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.49
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Zwiebeln rot",
-      "store": "spar",
-      "price": 1.79,
-      "unit": "g",
-      "quantity": 500,
-      "priceHistory": [
-        {
-          "date": "2025-09-08",
-          "price": 1.79
-        },
-        {
-          "date": "2024-07-01",
-          "price": 1.99
-        },
-        {
-          "date": "2024-04-08",
-          "price": 2.49
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Champignons Crema 200g",
-      "store": "spar",
-      "price": 2.89,
-      "unit": "g",
-      "quantity": 200,
-      "priceHistory": [
-        {
-          "date": "2025-05-14",
-          "price": 2.89
-        },
-        {
-          "date": "2024-08-26",
-          "price": 2.79
-        },
-        {
-          "date": "2024-08-25",
-          "price": 2.69
         }
       ]
     }
