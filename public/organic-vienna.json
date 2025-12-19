@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-12T05:20:27.292Z",
+  "generatedAt": "2025-12-19T05:20:36.122Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -13485,16 +13485,16 @@
       "quantity": 250,
       "priceHistory": [
         {
-          "date": "2025-11-04",
+          "date": "2025-12-14",
           "price": 2.49
         },
         {
-          "date": "2025-09-15",
-          "price": 2.99
+          "date": "2025-12-13",
+          "price": 1.79
         },
         {
-          "date": "2025-09-08",
-          "price": 2.24
+          "date": "2025-11-04",
+          "price": 2.49
         }
       ]
     },
@@ -13606,27 +13606,6 @@
     {
       "name": "Ja! Natürlich Spitzpaprika rot",
       "store": "billa",
-      "price": 3.49,
-      "unit": "stk",
-      "quantity": 3,
-      "priceHistory": [
-        {
-          "date": "2025-11-27",
-          "price": 3.49
-        },
-        {
-          "date": "2025-11-20",
-          "price": 2.99
-        },
-        {
-          "date": "2025-11-13",
-          "price": 2.79
-        }
-      ]
-    },
-    {
-      "name": "Ja! Natürlich Spitzpaprika rot",
-      "store": "billa",
       "price": 1.99,
       "unit": "g",
       "quantity": 200,
@@ -13663,6 +13642,27 @@
         {
           "date": "2025-08-11",
           "price": 1.79
+        }
+      ]
+    },
+    {
+      "name": "Ja! Natürlich Spitzpaprika rot",
+      "store": "billa",
+      "price": 3.49,
+      "unit": "stk",
+      "quantity": 3,
+      "priceHistory": [
+        {
+          "date": "2025-11-27",
+          "price": 3.49
+        },
+        {
+          "date": "2025-11-20",
+          "price": 2.99
+        },
+        {
+          "date": "2025-11-13",
+          "price": 2.79
         }
       ]
     },
@@ -15144,10 +15144,14 @@
     {
       "name": "Lavazza ¡Tierra! for Planet Ganze Bohne",
       "store": "billa",
-      "price": 22.99,
+      "price": 32.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 32.99
+        },
         {
           "date": "2025-12-04",
           "price": 22.99
@@ -15155,10 +15159,6 @@
         {
           "date": "2025-11-02",
           "price": 32.99
-        },
-        {
-          "date": "2025-10-30",
-          "price": 24.74
         }
       ]
     },
@@ -15724,10 +15724,14 @@
     {
       "name": "Meßmer Bio Blutorange",
       "store": "billa",
-      "price": 2.49,
+      "price": 3.19,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 3.19
+        },
         {
           "date": "2025-12-04",
           "price": 2.49
@@ -15735,10 +15739,6 @@
         {
           "date": "2025-11-06",
           "price": 3.19
-        },
-        {
-          "date": "2025-11-02",
-          "price": 2.49
         }
       ]
     },
@@ -18588,10 +18588,14 @@
     {
       "name": "Teekanne Kindertee Bibo Beere",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.49,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 2.49
+        },
         {
           "date": "2025-11-06",
           "price": 3.79
@@ -18599,10 +18603,6 @@
         {
           "date": "2025-11-02",
           "price": 2.79
-        },
-        {
-          "date": "2025-10-30",
-          "price": 2.09
         }
       ]
     },
@@ -18651,10 +18651,14 @@
     {
       "name": "Teekanne Persischer Granatapfel",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.49,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 2.49
+        },
         {
           "date": "2025-11-06",
           "price": 3.79
@@ -18662,10 +18666,6 @@
         {
           "date": "2025-11-02",
           "price": 2.79
-        },
-        {
-          "date": "2025-10-30",
-          "price": 2.09
         }
       ]
     },
@@ -19559,10 +19559,14 @@
     {
       "name": "Willi Dungl Ingwer-Zitrone Tee",
       "store": "billa",
-      "price": 3.29,
+      "price": 4.79,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 4.79
+        },
         {
           "date": "2025-12-04",
           "price": 3.29
@@ -19570,10 +19574,6 @@
         {
           "date": "2025-11-02",
           "price": 4.79
-        },
-        {
-          "date": "2025-10-30",
-          "price": 3.59
         }
       ]
     },
@@ -19622,10 +19622,14 @@
     {
       "name": "Yogi Tea Ingwer Zitrone",
       "store": "billa",
-      "price": 3.69,
+      "price": 2.79,
       "unit": "stk",
       "quantity": 17,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 2.79
+        },
         {
           "date": "2025-11-02",
           "price": 3.69
@@ -19633,10 +19637,6 @@
         {
           "date": "2025-10-30",
           "price": 2.77
-        },
-        {
-          "date": "2025-09-15",
-          "price": 3.69
         }
       ]
     },
@@ -22028,10 +22028,14 @@
     {
       "name": "Birnstingl Steirisches Bio Kürbiskernöl g.g.A.",
       "store": "spar",
-      "price": 15.99,
+      "price": 18.99,
       "unit": "ml",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 18.99
+        },
         {
           "date": "2025-12-02",
           "price": 15.99
@@ -22039,10 +22043,6 @@
         {
           "date": "2024-05-29",
           "price": 18.99
-        },
-        {
-          "date": "2024-05-14",
-          "price": 15.99
         }
       ]
     },
@@ -27316,6 +27316,27 @@
       ]
     },
     {
+      "name": "Jurtschitsch Sonnhof Riesling Urgestein BIO 2024",
+      "store": "spar",
+      "price": 10.99,
+      "unit": "ml",
+      "quantity": 750,
+      "priceHistory": [
+        {
+          "date": "2025-08-13",
+          "price": 10.99
+        },
+        {
+          "date": "2025-08-07",
+          "price": 8.99
+        },
+        {
+          "date": "2025-07-23",
+          "price": 10.99
+        }
+      ]
+    },
+    {
       "name": "Jurtschitsch Sonnhof Zweigelt Rosé BIO 2024",
       "store": "spar",
       "price": 8.49,
@@ -31339,27 +31360,6 @@
     {
       "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch",
       "store": "spar",
-      "price": 4.99,
-      "unit": "g",
-      "quantity": 300,
-      "priceHistory": [
-        {
-          "date": "2025-12-09",
-          "price": 4.99
-        },
-        {
-          "date": "2025-10-07",
-          "price": 4.79
-        },
-        {
-          "date": "2025-09-03",
-          "price": 4.99
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch",
-      "store": "spar",
       "price": 24.9,
       "unit": "g",
       "quantity": 1000,
@@ -31686,7 +31686,7 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur Bio-Broccoli 500 g",
+      "name": "SPAR Natur*pur Bio-Broccoli",
       "store": "spar",
       "price": 1.99,
       "unit": "g",
@@ -32138,10 +32138,14 @@
     {
       "name": "SPAR Natur*pur Bio-Cherrytomaten",
       "store": "spar",
-      "price": 1.99,
+      "price": 2.99,
       "unit": "g",
       "quantity": 300,
       "priceHistory": [
+        {
+          "date": "2025-12-17",
+          "price": 2.99
+        },
         {
           "date": "2025-12-08",
           "price": 1.99
@@ -32149,10 +32153,6 @@
         {
           "date": "2025-12-07",
           "price": 2.99
-        },
-        {
-          "date": "2025-12-04",
-          "price": 1.99
         }
       ]
     },
@@ -33594,10 +33594,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gouda aus Bio-Heumilch",
       "store": "spar",
-      "price": 21.9,
+      "price": 15.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 15.9
+        },
         {
           "date": "2025-05-14",
           "price": 21.9
@@ -33605,10 +33609,6 @@
         {
           "date": "2024-07-25",
           "price": 20.9
-        },
-        {
-          "date": "2024-07-11",
-          "price": 14.9
         }
       ]
     },
@@ -33779,10 +33779,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gurke",
       "store": "spar",
-      "price": 1.89,
+      "price": 1.99,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2025-12-15",
+          "price": 1.99
+        },
         {
           "date": "2025-12-01",
           "price": 1.89
@@ -33790,10 +33794,6 @@
         {
           "date": "2025-11-10",
           "price": 1.59
-        },
-        {
-          "date": "2025-10-13",
-          "price": 1.79
         }
       ]
     },
@@ -36011,21 +36011,21 @@
     {
       "name": "SPAR Natur*pur Bio-Orangen Sorte: siehe Etikett",
       "store": "spar",
-      "price": 1.79,
+      "price": 2.49,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
         {
-          "date": "2025-12-08",
-          "price": 1.79
-        },
-        {
-          "date": "2025-11-24",
+          "date": "2025-12-17",
           "price": 2.49
         },
         {
-          "date": "2025-11-19",
-          "price": 2.99
+          "date": "2025-12-15",
+          "price": 1.79
+        },
+        {
+          "date": "2025-12-14",
+          "price": 2.49
         }
       ]
     },
@@ -36354,10 +36354,14 @@
     {
       "name": "SPAR Natur*pur Bio-Püreekartoffeln mehlig kochend",
       "store": "spar",
-      "price": 1.89,
+      "price": 1.79,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2025-12-15",
+          "price": 1.79
+        },
         {
           "date": "2025-11-09",
           "price": 1.89
@@ -36365,10 +36369,6 @@
         {
           "date": "2025-11-03",
           "price": 1.29
-        },
-        {
-          "date": "2025-10-15",
-          "price": 1.89
         }
       ]
     },
@@ -36913,10 +36913,14 @@
     {
       "name": "SPAR Natur*pur Bio-Räucherlachs",
       "store": "spar",
-      "price": 4.79,
+      "price": 4.99,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2025-12-18",
+          "price": 4.99
+        },
         {
           "date": "2025-08-28",
           "price": 4.79
@@ -36924,10 +36928,6 @@
         {
           "date": "2025-08-21",
           "price": 4.49
-        },
-        {
-          "date": "2025-08-05",
-          "price": 4.79
         }
       ]
     },
