@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-09T05:24:05.455Z",
+  "generatedAt": "2026-01-16T05:23:57.489Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -2774,21 +2774,21 @@
     {
       "name": "BILLA Bio Grüner Tee Zitronengras-Ingwer",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.72,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
         {
+          "date": "2026-01-16",
+          "price": 1.72
+        },
+        {
+          "date": "2026-01-15",
+          "price": 2.29
+        },
+        {
           "date": "2026-01-04",
           "price": 1.79
-        },
-        {
-          "date": "2026-01-02",
-          "price": 1.34
-        },
-        {
-          "date": "2025-11-02",
-          "price": 2.29
         }
       ]
     },
@@ -4232,10 +4232,14 @@
     {
       "name": "BILLA Bio Salbeitee",
       "store": "billa",
-      "price": 2.29,
+      "price": 1.72,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 1.72
+        },
         {
           "date": "2026-01-04",
           "price": 2.29
@@ -4243,10 +4247,6 @@
         {
           "date": "2026-01-02",
           "price": 1.72
-        },
-        {
-          "date": "2025-11-02",
-          "price": 2.29
         }
       ]
     },
@@ -5954,10 +5954,14 @@
     {
       "name": "EZA Espresso Organico Ganze Bohne",
       "store": "billa",
-      "price": 27.99,
+      "price": 20.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 20.99
+        },
         {
           "date": "2025-11-02",
           "price": 27.99
@@ -5965,10 +5969,6 @@
         {
           "date": "2025-10-30",
           "price": 20.99
-        },
-        {
-          "date": "2025-09-28",
-          "price": 27.99
         }
       ]
     },
@@ -5996,10 +5996,14 @@
     {
       "name": "English Tea Shop Super Beeren lose",
       "store": "billa",
-      "price": 11.49,
+      "price": 8.62,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 8.62
+        },
         {
           "date": "2025-11-02",
           "price": 11.49
@@ -6007,20 +6011,20 @@
         {
           "date": "2025-10-30",
           "price": 8.62
-        },
-        {
-          "date": "2025-09-15",
-          "price": 11.49
         }
       ]
     },
     {
       "name": "English Tea Shop Weißer Tee lose",
       "store": "billa",
-      "price": 11.49,
+      "price": 8.62,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 8.62
+        },
         {
           "date": "2025-11-02",
           "price": 11.49
@@ -6028,10 +6032,6 @@
         {
           "date": "2025-10-30",
           "price": 8.62
-        },
-        {
-          "date": "2025-09-15",
-          "price": 11.49
         }
       ]
     },
@@ -8832,10 +8832,14 @@
     {
       "name": "J. Hornig Caffè Crema Ganze Bohne",
       "store": "billa",
-      "price": 16.49,
+      "price": 12.37,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 12.37
+        },
         {
           "date": "2025-11-02",
           "price": 16.49
@@ -8843,10 +8847,6 @@
         {
           "date": "2025-10-30",
           "price": 12.37
-        },
-        {
-          "date": "2025-10-02",
-          "price": 16.49
         }
       ]
     },
@@ -10794,10 +10794,14 @@
     {
       "name": "Ja! Natürlich Champignon",
       "store": "billa",
-      "price": 2.89,
+      "price": 2.99,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-01-11",
+          "price": 2.99
+        },
         {
           "date": "2026-01-04",
           "price": 2.89
@@ -10805,10 +10809,6 @@
         {
           "date": "2026-01-02",
           "price": 2.17
-        },
-        {
-          "date": "2025-09-15",
-          "price": 2.89
         }
       ]
     },
@@ -11143,10 +11143,14 @@
     {
       "name": "Ja! Natürlich Espresso Intenso Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 6.74
+        },
         {
           "date": "2026-01-04",
           "price": 8.99
@@ -11154,10 +11158,6 @@
         {
           "date": "2026-01-02",
           "price": 6.74
-        },
-        {
-          "date": "2025-11-20",
-          "price": 8.99
         }
       ]
     },
@@ -12080,10 +12080,14 @@
     {
       "name": "Ja! Natürlich Kaffee Crema Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 6.74
+        },
         {
           "date": "2026-01-04",
           "price": 8.99
@@ -12091,10 +12095,6 @@
         {
           "date": "2026-01-02",
           "price": 6.74
-        },
-        {
-          "date": "2025-11-20",
-          "price": 8.99
         }
       ]
     },
@@ -14778,10 +14778,14 @@
     {
       "name": "Julius Meinl Espresso Inspresso Kapseln kompostierbar",
       "store": "billa",
-      "price": 4.99,
+      "price": 3.74,
       "unit": "g",
       "quantity": 56,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 3.74
+        },
         {
           "date": "2025-11-06",
           "price": 4.99
@@ -14789,10 +14793,6 @@
         {
           "date": "2025-11-02",
           "price": 3.33
-        },
-        {
-          "date": "2025-10-30",
-          "price": 2.5
         }
       ]
     },
@@ -15148,10 +15148,14 @@
     {
       "name": "Lavazza ¡Tierra! for Planet Ganze Bohne",
       "store": "billa",
-      "price": 32.99,
+      "price": 24.74,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 24.74
+        },
         {
           "date": "2025-12-18",
           "price": 32.99
@@ -15159,10 +15163,6 @@
         {
           "date": "2025-12-04",
           "price": 22.99
-        },
-        {
-          "date": "2025-11-02",
-          "price": 32.99
         }
       ]
     },
@@ -15728,10 +15728,14 @@
     {
       "name": "Meßmer Bio Blutorange",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.39,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.39
+        },
         {
           "date": "2025-12-18",
           "price": 3.19
@@ -15739,10 +15743,6 @@
         {
           "date": "2025-12-04",
           "price": 2.49
-        },
-        {
-          "date": "2025-11-06",
-          "price": 3.19
         }
       ]
     },
@@ -16216,10 +16216,14 @@
     {
       "name": "Neuner's Kräutertee bei Entschlackung",
       "store": "billa",
-      "price": 4.89,
+      "price": 3.67,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 3.67
+        },
         {
           "date": "2025-11-20",
           "price": 4.89
@@ -16227,10 +16231,6 @@
         {
           "date": "2025-11-06",
           "price": 3.49
-        },
-        {
-          "date": "2025-11-02",
-          "price": 4.89
         }
       ]
     },
@@ -18067,10 +18067,14 @@
     {
       "name": "Segafredo Storia Espresso - ganze Bohne",
       "store": "billa",
-      "price": 30.99,
+      "price": 23.24,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 23.24
+        },
         {
           "date": "2025-11-02",
           "price": 30.99
@@ -18078,10 +18082,6 @@
         {
           "date": "2025-10-30",
           "price": 23.24
-        },
-        {
-          "date": "2025-09-28",
-          "price": 30.99
         }
       ]
     },
@@ -18529,42 +18529,42 @@
     {
       "name": "Teekanne Harmonie Atme Dich frei",
       "store": "billa",
-      "price": 2.99,
+      "price": 3.14,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
         {
-          "date": "2026-01-02",
-          "price": 2.99
+          "date": "2026-01-16",
+          "price": 3.14
         },
         {
-          "date": "2025-11-02",
+          "date": "2026-01-15",
           "price": 4.19
         },
         {
-          "date": "2025-10-30",
-          "price": 3.14
+          "date": "2026-01-02",
+          "price": 2.99
         }
       ]
     },
     {
       "name": "Teekanne Harmonie Magenfein",
       "store": "billa",
-      "price": 2.99,
+      "price": 3.14,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
         {
-          "date": "2026-01-02",
-          "price": 2.99
+          "date": "2026-01-16",
+          "price": 3.14
         },
         {
-          "date": "2025-11-02",
+          "date": "2026-01-15",
           "price": 4.19
         },
         {
-          "date": "2025-10-30",
-          "price": 3.14
+          "date": "2026-01-02",
+          "price": 2.99
         }
       ]
     },
@@ -18592,10 +18592,14 @@
     {
       "name": "Teekanne Kindertee Bibo Beere",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.84
+        },
         {
           "date": "2026-01-01",
           "price": 3.79
@@ -18603,20 +18607,20 @@
         {
           "date": "2025-12-18",
           "price": 2.49
-        },
-        {
-          "date": "2025-11-06",
-          "price": 3.79
         }
       ]
     },
     {
       "name": "Teekanne Kräutergarten Brennessel und Zitronengras",
       "store": "billa",
-      "price": 3.39,
+      "price": 2.54,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.54
+        },
         {
           "date": "2025-11-02",
           "price": 3.39
@@ -18624,20 +18628,20 @@
         {
           "date": "2025-10-30",
           "price": 2.54
-        },
-        {
-          "date": "2025-09-15",
-          "price": 3.39
         }
       ]
     },
     {
       "name": "Teekanne Kräutergarten Gartensalbei",
       "store": "billa",
-      "price": 3.39,
+      "price": 2.54,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.54
+        },
         {
           "date": "2025-11-02",
           "price": 3.39
@@ -18645,20 +18649,20 @@
         {
           "date": "2025-10-30",
           "price": 2.54
-        },
-        {
-          "date": "2025-09-15",
-          "price": 3.39
         }
       ]
     },
     {
       "name": "Teekanne Persischer Granatapfel",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.84
+        },
         {
           "date": "2026-01-01",
           "price": 3.79
@@ -18666,10 +18670,6 @@
         {
           "date": "2025-12-18",
           "price": 2.49
-        },
-        {
-          "date": "2025-11-06",
-          "price": 3.79
         }
       ]
     },
@@ -19563,20 +19563,20 @@
     {
       "name": "Willi Dungl Ingwer-Zitrone Tee",
       "store": "billa",
-      "price": 4.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
         {
+          "date": "2026-01-16",
+          "price": 2.84
+        },
+        {
+          "date": "2026-01-15",
+          "price": 3.79
+        },
+        {
           "date": "2025-12-18",
-          "price": 4.79
-        },
-        {
-          "date": "2025-12-04",
-          "price": 3.29
-        },
-        {
-          "date": "2025-11-02",
           "price": 4.79
         }
       ]
@@ -19626,10 +19626,14 @@
     {
       "name": "Yogi Tea Ingwer Zitrone",
       "store": "billa",
-      "price": 3.69,
+      "price": 2.77,
       "unit": "stk",
       "quantity": 17,
       "priceHistory": [
+        {
+          "date": "2026-01-16",
+          "price": 2.77
+        },
         {
           "date": "2026-01-01",
           "price": 3.69
@@ -19637,10 +19641,6 @@
         {
           "date": "2025-12-18",
           "price": 2.79
-        },
-        {
-          "date": "2025-11-02",
-          "price": 3.69
         }
       ]
     },
@@ -25981,6 +25981,27 @@
       ]
     },
     {
+      "name": "Hipp Bio Quetschie  Apfel-Birne-Banane",
+      "store": "spar",
+      "price": 1.19,
+      "unit": "g",
+      "quantity": 100,
+      "priceHistory": [
+        {
+          "date": "2024-09-03",
+          "price": 1.19
+        },
+        {
+          "date": "2022-10-25",
+          "price": 1.15
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1.1
+        }
+      ]
+    },
+    {
       "name": "Hipp Bio Quetschie Erdbeere Banane in Apfel",
       "store": "spar",
       "price": 1.19,
@@ -26002,7 +26023,49 @@
       ]
     },
     {
+      "name": "Hipp Bio Quetschie Mirabelle in Apfel-Pfirsich",
+      "store": "spar",
+      "price": 1.19,
+      "unit": "g",
+      "quantity": 100,
+      "priceHistory": [
+        {
+          "date": "2024-09-03",
+          "price": 1.19
+        },
+        {
+          "date": "2022-10-25",
+          "price": 1.15
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1.1
+        }
+      ]
+    },
+    {
       "name": "Hipp Bio Quetschie Pfirsich in Apfel Mango",
+      "store": "spar",
+      "price": 1.19,
+      "unit": "g",
+      "quantity": 100,
+      "priceHistory": [
+        {
+          "date": "2024-09-03",
+          "price": 1.19
+        },
+        {
+          "date": "2022-10-25",
+          "price": 1.15
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1.1
+        }
+      ]
+    },
+    {
+      "name": "Hipp Bio Quetschie Waldbeeren in Apfel-Pfirsich",
       "store": "spar",
       "price": 1.19,
       "unit": "g",
@@ -26061,69 +26124,6 @@
         {
           "date": "2022-09-30",
           "price": 1.3
-        }
-      ]
-    },
-    {
-      "name": "Hipp Bio für Kinder Früchte Riegel  Joghurt-Kirsch in Banane",
-      "store": "spar",
-      "price": 0.99,
-      "unit": "g",
-      "quantity": 23,
-      "priceHistory": [
-        {
-          "date": "2024-09-03",
-          "price": 0.99
-        },
-        {
-          "date": "2022-09-30",
-          "price": 1
-        },
-        {
-          "date": "2020-03-04",
-          "price": 0.89
-        }
-      ]
-    },
-    {
-      "name": "Hipp Bio für Kinder Früchte Riegel Apfel-Banane-Hafer",
-      "store": "spar",
-      "price": 0.99,
-      "unit": "g",
-      "quantity": 23,
-      "priceHistory": [
-        {
-          "date": "2024-09-03",
-          "price": 0.99
-        },
-        {
-          "date": "2022-09-30",
-          "price": 1
-        },
-        {
-          "date": "2020-03-04",
-          "price": 0.89
-        }
-      ]
-    },
-    {
-      "name": "Hipp Bio für Kinder Früchte-Riegel Himbeere in Banane-Apfel",
-      "store": "spar",
-      "price": 0.99,
-      "unit": "g",
-      "quantity": 23,
-      "priceHistory": [
-        {
-          "date": "2024-09-03",
-          "price": 0.99
-        },
-        {
-          "date": "2022-09-30",
-          "price": 1
-        },
-        {
-          "date": "2020-03-04",
-          "price": 0.89
         }
       ]
     },
@@ -26743,6 +26743,27 @@
       ]
     },
     {
+      "name": "Hipp Giraffen Riegel Apfel-Banane",
+      "store": "spar",
+      "price": 0.99,
+      "unit": "g",
+      "quantity": 23,
+      "priceHistory": [
+        {
+          "date": "2024-09-03",
+          "price": 0.99
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1
+        },
+        {
+          "date": "2020-03-04",
+          "price": 0.89
+        }
+      ]
+    },
+    {
       "name": "Hipp Gute Nacht Bio-Einkorn 190G",
       "store": "spar",
       "price": 1.85,
@@ -26848,48 +26869,6 @@
       ]
     },
     {
-      "name": "Hipp Hippis Bio-Fruchtmus Quetschie  Apfel-Birne-Banane",
-      "store": "spar",
-      "price": 1.19,
-      "unit": "g",
-      "quantity": 100,
-      "priceHistory": [
-        {
-          "date": "2024-09-03",
-          "price": 1.19
-        },
-        {
-          "date": "2022-10-25",
-          "price": 1.15
-        },
-        {
-          "date": "2022-09-30",
-          "price": 1.1
-        }
-      ]
-    },
-    {
-      "name": "Hipp Hippis Bio-Fruchtpüree Quetschie Waldbeeren in Apfel-Pfirsich",
-      "store": "spar",
-      "price": 1.19,
-      "unit": "g",
-      "quantity": 100,
-      "priceHistory": [
-        {
-          "date": "2024-09-03",
-          "price": 1.19
-        },
-        {
-          "date": "2022-10-25",
-          "price": 1.15
-        },
-        {
-          "date": "2022-09-30",
-          "price": 1.1
-        }
-      ]
-    },
-    {
       "name": "Hipp Hippis Bio-Quetschie Apfel Banane Himbeere Dinkel",
       "store": "spar",
       "price": 1.19,
@@ -26911,23 +26890,23 @@
       ]
     },
     {
-      "name": "Hipp Hippis Bio-Quetschie Mirabelle in Apfel-Pfirsich",
+      "name": "Hipp Leoparden Riegel Joghurt-Kirsch",
       "store": "spar",
-      "price": 1.19,
+      "price": 0.99,
       "unit": "g",
-      "quantity": 100,
+      "quantity": 23,
       "priceHistory": [
         {
           "date": "2024-09-03",
-          "price": 1.19
-        },
-        {
-          "date": "2022-10-25",
-          "price": 1.15
+          "price": 0.99
         },
         {
           "date": "2022-09-30",
-          "price": 1.1
+          "price": 1
+        },
+        {
+          "date": "2020-03-04",
+          "price": 0.89
         }
       ]
     },
@@ -26949,6 +26928,27 @@
         {
           "date": "2022-09-30",
           "price": 1.7
+        }
+      ]
+    },
+    {
+      "name": "Hipp Zebra Riegel Himbeere-Apfel",
+      "store": "spar",
+      "price": 0.99,
+      "unit": "g",
+      "quantity": 23,
+      "priceHistory": [
+        {
+          "date": "2024-09-03",
+          "price": 0.99
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1
+        },
+        {
+          "date": "2020-03-04",
+          "price": 0.89
         }
       ]
     },
@@ -27127,27 +27127,6 @@
       ]
     },
     {
-      "name": "Holle Bio-Früchtezubereitung Apfel & Pflaume",
-      "store": "spar",
-      "price": 1.29,
-      "unit": "g",
-      "quantity": 190,
-      "priceHistory": [
-        {
-          "date": "2025-10-21",
-          "price": 1.29
-        },
-        {
-          "date": "2021-05-12",
-          "price": 1.15
-        },
-        {
-          "date": "2021-04-13",
-          "price": 0.99
-        }
-      ]
-    },
-    {
       "name": "Holle Bio-Gläschen Kürbis mit Huhn",
       "store": "spar",
       "price": 1.29,
@@ -27306,10 +27285,14 @@
     {
       "name": "Höllinger Bio Fruchtsaft Rote Traube",
       "store": "spar",
-      "price": 3.79,
+      "price": 3.99,
       "unit": "l",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 3.99
+        },
         {
           "date": "2026-01-08",
           "price": 3.79
@@ -27317,10 +27300,6 @@
         {
           "date": "2025-12-10",
           "price": 2.99
-        },
-        {
-          "date": "2025-08-21",
-          "price": 3.79
         }
       ]
     },
@@ -27390,10 +27369,14 @@
     {
       "name": "Höllinger naturtrüb Apfel-Ribisel",
       "store": "spar",
-      "price": 3.29,
+      "price": 3.39,
       "unit": "l",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 3.39
+        },
         {
           "date": "2025-05-14",
           "price": 3.29
@@ -28294,10 +28277,14 @@
     {
       "name": "Mautner Markhof Bio-Apfelessig mit Essigmutter",
       "store": "spar",
-      "price": 3.99,
+      "price": 2.99,
       "unit": "ml",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 2.99
+        },
         {
           "date": "2025-07-03",
           "price": 3.99
@@ -28305,10 +28292,6 @@
         {
           "date": "2025-06-16",
           "price": 2.99
-        },
-        {
-          "date": "2024-06-27",
-          "price": 3.99
         }
       ]
     },
@@ -30379,7 +30362,7 @@
       ]
     },
     {
-      "name": "SPAR Bio- Seidentofu Natur",
+      "name": "SPAR ASIA Bio- Seidentofu Natur",
       "store": "spar",
       "price": 1.99,
       "unit": "g",
@@ -30432,10 +30415,14 @@
     {
       "name": "SPAR Natur*pur ASIA Bio-Kokosmilch",
       "store": "spar",
-      "price": 2.19,
+      "price": 1.49,
       "unit": "ml",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 1.49
+        },
         {
           "date": "2025-07-15",
           "price": 2.19
@@ -30443,10 +30430,6 @@
         {
           "date": "2025-07-03",
           "price": 1.99
-        },
-        {
-          "date": "2025-06-16",
-          "price": 1.69
         }
       ]
     },
@@ -30555,10 +30538,14 @@
     {
       "name": "SPAR Natur*pur BIO Mango genussreif",
       "store": "spar",
-      "price": 2.99,
+      "price": 2.49,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-01-12",
+          "price": 2.49
+        },
         {
           "date": "2025-09-08",
           "price": 2.99
@@ -30566,10 +30553,6 @@
         {
           "date": "2024-12-15",
           "price": 2.49
-        },
-        {
-          "date": "2024-12-09",
-          "price": 1.49
         }
       ]
     },
@@ -30830,10 +30813,14 @@
     {
       "name": "SPAR Natur*pur Bio-Almkäse aus Wiesenmilch",
       "store": "spar",
-      "price": 22.9,
+      "price": 17.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 17.9
+        },
         {
           "date": "2025-08-28",
           "price": 22.9
@@ -30841,10 +30828,6 @@
         {
           "date": "2025-08-21",
           "price": 17.9
-        },
-        {
-          "date": "2025-05-14",
-          "price": 22.9
         }
       ]
     },
@@ -32389,6 +32372,27 @@
       ]
     },
     {
+      "name": "SPAR Natur*pur Bio-Caffè Crema Mild, ganze Bohne",
+      "store": "spar",
+      "price": 17.99,
+      "unit": "g",
+      "quantity": 1000,
+      "priceHistory": [
+        {
+          "date": "2025-11-13",
+          "price": 17.99
+        },
+        {
+          "date": "2025-10-14",
+          "price": 16.99
+        },
+        {
+          "date": "2025-09-25",
+          "price": 17.99
+        }
+      ]
+    },
+    {
       "name": "SPAR Natur*pur Bio-Caffè Crema ganze Bohne",
       "store": "spar",
       "price": 17.99,
@@ -32564,10 +32568,14 @@
     {
       "name": "SPAR Natur*pur Bio-Cottage Cheese Natur leicht*",
       "store": "spar",
-      "price": 1.59,
+      "price": 1.19,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-01-14",
+          "price": 1.19
+        },
         {
           "date": "2025-07-01",
           "price": 1.59
@@ -32981,10 +32989,14 @@
     {
       "name": "SPAR Natur*pur Bio-Emmentaler aus Heumilch",
       "store": "spar",
-      "price": 26.9,
+      "price": 19.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 19.9
+        },
         {
           "date": "2025-11-06",
           "price": 26.9
@@ -32992,10 +33004,6 @@
         {
           "date": "2025-10-22",
           "price": 19.9
-        },
-        {
-          "date": "2025-10-09",
-          "price": 26.9
         }
       ]
     },
@@ -33927,10 +33935,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gemüsemais 3 x 150g",
       "store": "spar",
-      "price": 2.49,
+      "price": 3.49,
       "unit": "g",
       "quantity": 450,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 3.49
+        },
         {
           "date": "2026-01-07",
           "price": 2.49
@@ -33938,10 +33950,6 @@
         {
           "date": "2025-07-17",
           "price": 3.49
-        },
-        {
-          "date": "2025-07-01",
-          "price": 2.99
         }
       ]
     },
@@ -33965,10 +33973,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gouda aus Bio-Heumilch",
       "store": "spar",
-      "price": 21.9,
+      "price": 15.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 15.9
+        },
         {
           "date": "2026-01-01",
           "price": 21.9
@@ -33976,10 +33988,6 @@
         {
           "date": "2025-12-18",
           "price": 15.9
-        },
-        {
-          "date": "2025-05-14",
-          "price": 21.9
         }
       ]
     },
@@ -35076,10 +35084,14 @@
     {
       "name": "SPAR Natur*pur Bio-Karotten-Sellerie-Salat",
       "store": "spar",
-      "price": 2.69,
+      "price": 2.79,
       "unit": "g",
       "quantity": 680,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 2.79
+        },
         {
           "date": "2025-10-28",
           "price": 2.69
@@ -35087,10 +35099,6 @@
         {
           "date": "2023-11-14",
           "price": 2.49
-        },
-        {
-          "date": "2023-05-16",
-          "price": 2.29
         }
       ]
     },
@@ -35645,10 +35653,14 @@
     {
       "name": "SPAR Natur*pur Bio-Lachsfilet Filet",
       "store": "spar",
-      "price": 49.9,
+      "price": 69.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 69.9
+        },
         {
           "date": "2026-01-02",
           "price": 49.9
@@ -35656,10 +35668,6 @@
         {
           "date": "2026-01-01",
           "price": 69.9
-        },
-        {
-          "date": "2025-11-20",
-          "price": 54.9
         }
       ]
     },
@@ -36395,10 +36403,14 @@
     {
       "name": "SPAR Natur*pur Bio-Orangen Sorte: siehe Etikett",
       "store": "spar",
-      "price": 2.49,
+      "price": 2,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-12",
+          "price": 2
+        },
         {
           "date": "2025-12-28",
           "price": 2.49
@@ -36406,23 +36418,6 @@
         {
           "date": "2025-12-22",
           "price": 1.49
-        },
-        {
-          "date": "2025-12-17",
-          "price": 2.49
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Orangen lose",
-      "store": "spar",
-      "price": 2.99,
-      "unit": "g",
-      "quantity": 1000,
-      "priceHistory": [
-        {
-          "date": "2025-11-26",
-          "price": 2.99
         }
       ]
     },
@@ -36492,10 +36487,14 @@
     {
       "name": "SPAR Natur*pur Bio-Ortenburger aus Bio-Wiesenmilch",
       "store": "spar",
-      "price": 21.9,
+      "price": 14.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 14.9
+        },
         {
           "date": "2025-05-14",
           "price": 21.9
@@ -36503,10 +36502,6 @@
         {
           "date": "2024-04-18",
           "price": 20.9
-        },
-        {
-          "date": "2024-04-11",
-          "price": 13.9
         }
       ]
     },
@@ -36822,10 +36817,14 @@
     {
       "name": "SPAR Natur*pur Bio-Rahm-Tilsiter aus Wiesenmilch",
       "store": "spar",
-      "price": 21.9,
+      "price": 16.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 16.9
+        },
         {
           "date": "2025-12-04",
           "price": 21.9
@@ -36833,20 +36832,20 @@
         {
           "date": "2025-11-20",
           "price": 16.9
-        },
-        {
-          "date": "2025-06-18",
-          "price": 21.9
         }
       ]
     },
     {
       "name": "SPAR Natur*pur Bio-Rahmbrie",
       "store": "spar",
-      "price": 19.9,
+      "price": 15.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 15.9
+        },
         {
           "date": "2025-05-14",
           "price": 19.9
@@ -36854,10 +36853,6 @@
         {
           "date": "2024-02-15",
           "price": 18.9
-        },
-        {
-          "date": "2024-01-02",
-          "price": 14.9
         }
       ]
     },
@@ -37247,10 +37242,14 @@
     {
       "name": "SPAR Natur*pur Bio-Rote Rüben in Scheiben",
       "store": "spar",
-      "price": 2.69,
+      "price": 2.79,
       "unit": "g",
       "quantity": 690,
       "priceHistory": [
+        {
+          "date": "2026-01-13",
+          "price": 2.79
+        },
         {
           "date": "2025-10-28",
           "price": 2.69
@@ -37258,10 +37257,6 @@
         {
           "date": "2023-11-14",
           "price": 2.49
-        },
-        {
-          "date": "2023-05-16",
-          "price": 2.29
         }
       ]
     },
@@ -37782,10 +37777,14 @@
     {
       "name": "SPAR Natur*pur Bio-Snack Gurken",
       "store": "spar",
-      "price": 1.99,
+      "price": 2.29,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-01-12",
+          "price": 2.29
+        },
         {
           "date": "2025-11-17",
           "price": 1.99
@@ -37793,10 +37792,6 @@
         {
           "date": "2025-11-03",
           "price": 2.29
-        },
-        {
-          "date": "2025-07-28",
-          "price": 2.49
         }
       ]
     },
@@ -37824,10 +37819,14 @@
     {
       "name": "SPAR Natur*pur Bio-Snack Tomate",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.59,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-01-12",
+          "price": 1.59
+        },
         {
           "date": "2025-12-01",
           "price": 1.49
@@ -37835,10 +37834,6 @@
         {
           "date": "2025-11-23",
           "price": 1.79
-        },
-        {
-          "date": "2025-11-17",
-          "price": 1
         }
       ]
     },
@@ -38625,10 +38620,14 @@
     {
       "name": "SPAR Natur*pur Bio-Topfenaufstrich Liptauer",
       "store": "spar",
-      "price": 14.9,
+      "price": 19.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-01-15",
+          "price": 19.9
+        },
         {
           "date": "2026-01-02",
           "price": 14.9
@@ -38636,10 +38635,6 @@
         {
           "date": "2025-11-06",
           "price": 19.9
-        },
-        {
-          "date": "2025-10-22",
-          "price": 14.9
         }
       ]
     },
@@ -38796,6 +38791,27 @@
         {
           "date": "2025-06-22",
           "price": 1.79
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Bio-Vollkorn-Cracker Dinkel & Käse",
+      "store": "spar",
+      "price": 1.99,
+      "unit": "g",
+      "quantity": 110,
+      "priceHistory": [
+        {
+          "date": "2025-09-16",
+          "price": 1.99
+        },
+        {
+          "date": "2023-01-03",
+          "price": 1.95
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1.89
         }
       ]
     }
