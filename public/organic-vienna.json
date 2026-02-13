@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T05:52:23.536Z",
+  "generatedAt": "2026-02-13T05:58:21.502Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -21058,10 +21058,14 @@
     {
       "name": "Basenbox Bio-Kartoffelgulasch",
       "store": "spar",
-      "price": 4.79,
+      "price": 4.99,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 4.99
+        },
         {
           "date": "2025-06-03",
           "price": 4.79
@@ -21075,10 +21079,14 @@
     {
       "name": "Basenbox Bio-Süßkartoffelsuppe",
       "store": "spar",
-      "price": 4.79,
+      "price": 4.99,
       "unit": "g",
       "quantity": 408,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 4.99
+        },
         {
           "date": "2025-06-03",
           "price": 4.79
@@ -21092,10 +21100,14 @@
     {
       "name": "Basenbox Bio-ayurvedische Tomatensuppe",
       "store": "spar",
-      "price": 4.79,
+      "price": 4.99,
       "unit": "g",
       "quantity": 407,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 4.99
+        },
         {
           "date": "2025-06-03",
           "price": 4.79
@@ -23840,10 +23852,14 @@
     {
       "name": "Exklusiv bei SPAR Bio Lecker Cracker Dinkel Rosmarin Meersalz",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.59,
       "unit": "g",
       "quantity": 80,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 1.59
+        },
         {
           "date": "2023-10-12",
           "price": 1.49
@@ -23851,10 +23867,19 @@
         {
           "date": "2023-09-26",
           "price": 1.29
-        },
+        }
+      ]
+    },
+    {
+      "name": "Exklusiv bei SPAR Bio-Aufstrich Paprika",
+      "store": "spar",
+      "price": 2.49,
+      "unit": "g",
+      "quantity": 125,
+      "priceHistory": [
         {
-          "date": "2023-08-10",
-          "price": 1.49
+          "date": "2025-08-30",
+          "price": 2.49
         }
       ]
     },
@@ -25072,19 +25097,6 @@
       ]
     },
     {
-      "name": "Fürstenhof Bio-Frischkäse in Öl-Paprika/Chili",
-      "store": "spar",
-      "price": 4.89,
-      "unit": "g",
-      "quantity": 200,
-      "priceHistory": [
-        {
-          "date": "2022-01-14",
-          "price": 4.89
-        }
-      ]
-    },
-    {
       "name": "Fürstenhof Bio-Frischkäsecreme Chili",
       "store": "spar",
       "price": 3.89,
@@ -25094,6 +25106,19 @@
         {
           "date": "2022-01-14",
           "price": 3.89
+        }
+      ]
+    },
+    {
+      "name": "Fürstenhof Bio-Frischkäsecreme in Öl-Paprika/Chili",
+      "store": "spar",
+      "price": 4.89,
+      "unit": "g",
+      "quantity": 200,
+      "priceHistory": [
+        {
+          "date": "2022-01-14",
+          "price": 4.89
         }
       ]
     },
@@ -28756,10 +28781,14 @@
     {
       "name": "Nussyy Bio Lecker Cracker Dinkel Oregano Tomate Meersalz",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.59,
       "unit": "g",
       "quantity": 80,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 1.59
+        },
         {
           "date": "2023-10-12",
           "price": 1.49
@@ -28767,10 +28796,6 @@
         {
           "date": "2023-09-26",
           "price": 1.29
-        },
-        {
-          "date": "2023-08-10",
-          "price": 1.49
         }
       ]
     },
@@ -28965,19 +28990,6 @@
         {
           "date": "2021-02-12",
           "price": 2.99
-        }
-      ]
-    },
-    {
-      "name": "Nussyy Bio-Aufstrich Paprika",
-      "store": "spar",
-      "price": 2.49,
-      "unit": "g",
-      "quantity": 125,
-      "priceHistory": [
-        {
-          "date": "2025-08-30",
-          "price": 2.49
         }
       ]
     },
@@ -30472,27 +30484,6 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur ASIA Bio-Shiitake Pilze",
-      "store": "spar",
-      "price": 3.99,
-      "unit": "g",
-      "quantity": 150,
-      "priceHistory": [
-        {
-          "date": "2026-02-01",
-          "price": 3.99
-        },
-        {
-          "date": "2026-01-26",
-          "price": 2.99
-        },
-        {
-          "date": "2024-01-26",
-          "price": 3.99
-        }
-      ]
-    },
-    {
       "name": "SPAR Natur*pur ASIA Bio-Zitronengras",
       "store": "spar",
       "price": 2.79,
@@ -30867,10 +30858,14 @@
     {
       "name": "SPAR Natur*pur Bio-Almkäse aus Wiesenmilch",
       "store": "spar",
-      "price": 17.9,
+      "price": 22.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 22.9
+        },
         {
           "date": "2026-01-15",
           "price": 17.9
@@ -30878,10 +30873,6 @@
         {
           "date": "2025-08-28",
           "price": 22.9
-        },
-        {
-          "date": "2025-08-21",
-          "price": 17.9
         }
       ]
     },
@@ -33131,10 +33122,14 @@
     {
       "name": "SPAR Natur*pur Bio-Emmentaler aus Heumilch",
       "store": "spar",
-      "price": 19.9,
+      "price": 26.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 26.9
+        },
         {
           "date": "2026-01-15",
           "price": 19.9
@@ -33142,10 +33137,6 @@
         {
           "date": "2025-11-06",
           "price": 26.9
-        },
-        {
-          "date": "2025-10-22",
-          "price": 19.9
         }
       ]
     },
@@ -34115,10 +34106,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gouda aus Bio-Heumilch",
       "store": "spar",
-      "price": 15.9,
+      "price": 21.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 21.9
+        },
         {
           "date": "2026-01-15",
           "price": 15.9
@@ -34126,10 +34121,6 @@
         {
           "date": "2026-01-01",
           "price": 21.9
-        },
-        {
-          "date": "2025-12-18",
-          "price": 15.9
         }
       ]
     },
@@ -34212,10 +34203,14 @@
     {
       "name": "SPAR Natur*pur Bio-Granatapfel-Kerne",
       "store": "spar",
-      "price": 1.74,
+      "price": 3.49,
       "unit": "g",
       "quantity": 350,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 3.49
+        },
         {
           "date": "2026-01-27",
           "price": 1.74
@@ -34223,10 +34218,6 @@
         {
           "date": "2023-04-28",
           "price": 3.49
-        },
-        {
-          "date": "2023-03-16",
-          "price": 2.99
         }
       ]
     },
@@ -34733,10 +34724,14 @@
     {
       "name": "SPAR Natur*pur Bio-Himbeeren",
       "store": "spar",
-      "price": 3.29,
+      "price": 3.69,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-02-09",
+          "price": 3.69
+        },
         {
           "date": "2026-01-29",
           "price": 3.29
@@ -34744,10 +34739,6 @@
         {
           "date": "2026-01-19",
           "price": 2.99
-        },
-        {
-          "date": "2025-12-08",
-          "price": 3.29
         }
       ]
     },
@@ -35351,6 +35342,19 @@
       ]
     },
     {
+      "name": "SPAR Natur*pur Bio-Kartoffelpüree 2 x 4 Portionen",
+      "store": "spar",
+      "price": 2.49,
+      "unit": "g",
+      "quantity": 240,
+      "priceHistory": [
+        {
+          "date": "2026-02-09",
+          "price": 2.49
+        }
+      ]
+    },
+    {
       "name": "SPAR Natur*pur Bio-Kartoffelteig für 2x10 Knödel",
       "store": "spar",
       "price": 2.79,
@@ -35837,10 +35841,14 @@
     {
       "name": "SPAR Natur*pur Bio-Lachsfilet Filet",
       "store": "spar",
-      "price": 64.9,
+      "price": 49.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 49.9
+        },
         {
           "date": "2026-01-19",
           "price": 64.9
@@ -35848,10 +35856,6 @@
         {
           "date": "2026-01-15",
           "price": 69.9
-        },
-        {
-          "date": "2026-01-02",
-          "price": 49.9
         }
       ]
     },
@@ -36102,10 +36106,14 @@
     {
       "name": "SPAR Natur*pur Bio-Mais-Blumen Hirse",
       "store": "spar",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 30,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 0.59
+        },
         {
           "date": "2024-07-09",
           "price": 0.89
@@ -36113,10 +36121,6 @@
         {
           "date": "2023-05-05",
           "price": 0.95
-        },
-        {
-          "date": "2022-10-13",
-          "price": 0.85
         }
       ]
     },
@@ -36545,10 +36549,14 @@
     {
       "name": "SPAR Natur*pur Bio-Orange mit stillem Wasser 3x0,2l",
       "store": "spar",
-      "price": 1.89,
+      "price": 1.79,
       "unit": "ml",
       "quantity": 600,
       "priceHistory": [
+        {
+          "date": "2026-02-10",
+          "price": 1.79
+        },
         {
           "date": "2025-09-18",
           "price": 1.89
@@ -36556,10 +36564,6 @@
         {
           "date": "2025-08-20",
           "price": 1.39
-        },
-        {
-          "date": "2025-06-26",
-          "price": 1.89
         }
       ]
     },
@@ -36623,6 +36627,19 @@
         {
           "date": "2025-12-28",
           "price": 2.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Bio-Orangen gelegt",
+      "store": "spar",
+      "price": 2.99,
+      "unit": "g",
+      "quantity": 1000,
+      "priceHistory": [
+        {
+          "date": "2025-11-26",
+          "price": 2.99
         }
       ]
     },
@@ -36692,10 +36709,14 @@
     {
       "name": "SPAR Natur*pur Bio-Ortenburger aus Bio-Wiesenmilch",
       "store": "spar",
-      "price": 14.9,
+      "price": 21.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 21.9
+        },
         {
           "date": "2026-01-15",
           "price": 14.9
@@ -36703,10 +36724,6 @@
         {
           "date": "2025-05-14",
           "price": 21.9
-        },
-        {
-          "date": "2024-04-18",
-          "price": 20.9
         }
       ]
     },
@@ -37022,10 +37039,14 @@
     {
       "name": "SPAR Natur*pur Bio-Rahm-Tilsiter aus Wiesenmilch",
       "store": "spar",
-      "price": 16.9,
+      "price": 21.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 21.9
+        },
         {
           "date": "2026-01-15",
           "price": 16.9
@@ -37033,20 +37054,20 @@
         {
           "date": "2025-12-04",
           "price": 21.9
-        },
-        {
-          "date": "2025-11-20",
-          "price": 16.9
         }
       ]
     },
     {
       "name": "SPAR Natur*pur Bio-Rahmbrie",
       "store": "spar",
-      "price": 15.9,
+      "price": 19.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-02-12",
+          "price": 19.9
+        },
         {
           "date": "2026-01-15",
           "price": 15.9
@@ -37054,10 +37075,6 @@
         {
           "date": "2025-05-14",
           "price": 19.9
-        },
-        {
-          "date": "2024-02-15",
-          "price": 18.9
         }
       ]
     },
@@ -38803,27 +38820,6 @@
     },
     {
       "name": "SPAR Natur*pur Bio-Topfenaufstrich Kokos-Curry",
-      "store": "spar",
-      "price": 2.49,
-      "unit": "g",
-      "quantity": 150,
-      "priceHistory": [
-        {
-          "date": "2022-11-23",
-          "price": 2.49
-        },
-        {
-          "date": "2022-09-30",
-          "price": 2.19
-        },
-        {
-          "date": "2021-09-15",
-          "price": 1.99
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Topfenaufstrich Kürbiskern",
       "store": "spar",
       "price": 2.49,
       "unit": "g",
