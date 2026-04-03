@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T06:12:06.608Z",
+  "generatedAt": "2026-04-03T06:11:26.746Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -10,10 +10,14 @@
     {
       "name": "A&H Nittnaus Heideboden Rot",
       "store": "billa",
-      "price": 11.24,
+      "price": 14.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 14.99
+        },
         {
           "date": "2026-03-27",
           "price": 11.24
@@ -21,10 +25,6 @@
         {
           "date": "2026-01-01",
           "price": 14.99
-        },
-        {
-          "date": "2025-12-27",
-          "price": 11.24
         }
       ]
     },
@@ -3115,10 +3115,14 @@
     {
       "name": "BILLA Bio Himbeeren",
       "store": "billa",
-      "price": 3.69,
+      "price": 3.99,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 3.99
+        },
         {
           "date": "2026-03-24",
           "price": 3.69
@@ -3126,10 +3130,6 @@
         {
           "date": "2026-03-10",
           "price": 3.99
-        },
-        {
-          "date": "2026-03-01",
-          "price": 3.79
         }
       ]
     },
@@ -7253,10 +7253,14 @@
     {
       "name": "Gsellmann Andreas Blauer Zweigelt",
       "store": "billa",
-      "price": 7.49,
+      "price": 9.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 9.99
+        },
         {
           "date": "2026-03-27",
           "price": 7.49
@@ -7264,10 +7268,6 @@
         {
           "date": "2026-01-01",
           "price": 9.99
-        },
-        {
-          "date": "2025-12-27",
-          "price": 7.49
         }
       ]
     },
@@ -10768,10 +10768,14 @@
     {
       "name": "Ja! Natürlich Blauer Zweigelt",
       "store": "billa",
-      "price": 5.62,
+      "price": 7.49,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 7.49
+        },
         {
           "date": "2026-03-27",
           "price": 5.62
@@ -10779,10 +10783,6 @@
         {
           "date": "2026-03-01",
           "price": 7.49
-        },
-        {
-          "date": "2026-02-27",
-          "price": 5.62
         }
       ]
     },
@@ -11041,10 +11041,14 @@
     {
       "name": "Ja! Natürlich Champignon",
       "store": "billa",
-      "price": 2.69,
+      "price": 2.99,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 2.99
+        },
         {
           "date": "2026-03-01",
           "price": 2.69
@@ -11052,10 +11056,6 @@
         {
           "date": "2026-02-27",
           "price": 2.02
-        },
-        {
-          "date": "2026-02-01",
-          "price": 2.69
         }
       ]
     },
@@ -13020,10 +13020,14 @@
     {
       "name": "Ja! Natürlich Puten Geschnetzeltes",
       "store": "billa",
-      "price": 34.99,
+      "price": 36.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 36.99
+        },
         {
           "date": "2026-03-01",
           "price": 34.99
@@ -13031,10 +13035,6 @@
         {
           "date": "2026-02-27",
           "price": 26.24
-        },
-        {
-          "date": "2025-09-15",
-          "price": 34.99
         }
       ]
     },
@@ -13062,10 +13062,14 @@
     {
       "name": "Ja! Natürlich Puten-Schnitzel 2 Stk.",
       "store": "billa",
-      "price": 37.99,
+      "price": 39.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 39.99
+        },
         {
           "date": "2026-03-01",
           "price": 37.99
@@ -13073,20 +13077,20 @@
         {
           "date": "2026-02-27",
           "price": 28.49
-        },
-        {
-          "date": "2025-10-22",
-          "price": 37.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Putenbrust",
       "store": "billa",
-      "price": 36.99,
+      "price": 38.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 38.99
+        },
         {
           "date": "2026-03-01",
           "price": 36.99
@@ -13094,10 +13098,6 @@
         {
           "date": "2026-02-27",
           "price": 27.74
-        },
-        {
-          "date": "2025-09-15",
-          "price": 36.99
         }
       ]
     },
@@ -13331,10 +13331,14 @@
     {
       "name": "Ja! Natürlich Rispentomaten",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.79,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 2.79
+        },
         {
           "date": "2026-03-22",
           "price": 3.79
@@ -13342,10 +13346,6 @@
         {
           "date": "2026-03-01",
           "price": 3.49
-        },
-        {
-          "date": "2026-02-27",
-          "price": 2.62
         }
       ]
     },
@@ -13882,10 +13882,14 @@
     {
       "name": "Ja! Natürlich Spitzpaprika rot",
       "store": "billa",
-      "price": 2.39,
+      "price": 2.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 2.49
+        },
         {
           "date": "2026-03-17",
           "price": 2.39
@@ -13893,10 +13897,6 @@
         {
           "date": "2026-03-01",
           "price": 2.29
-        },
-        {
-          "date": "2026-02-27",
-          "price": 1.72
         }
       ]
     },
@@ -14895,10 +14895,14 @@
     {
       "name": "Ja! Natürlich Zweigelt Rosé",
       "store": "billa",
-      "price": 4.87,
+      "price": 6.49,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 6.49
+        },
         {
           "date": "2026-03-27",
           "price": 4.87
@@ -14906,10 +14910,6 @@
         {
           "date": "2026-03-01",
           "price": 6.49
-        },
-        {
-          "date": "2026-02-27",
-          "price": 4.87
         }
       ]
     },
@@ -17002,10 +17002,14 @@
     {
       "name": "Pittnauer Zweigelt Heideboden",
       "store": "billa",
-      "price": 7.49,
+      "price": 9.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 9.99
+        },
         {
           "date": "2026-03-27",
           "price": 7.49
@@ -17013,10 +17017,6 @@
         {
           "date": "2026-01-01",
           "price": 9.99
-        },
-        {
-          "date": "2025-12-27",
-          "price": 7.49
         }
       ]
     },
@@ -19063,10 +19063,14 @@
     {
       "name": "Toifl Blauer Zweigelt Geo",
       "store": "billa",
-      "price": 5.99,
+      "price": 7.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 7.99
+        },
         {
           "date": "2026-03-27",
           "price": 5.99
@@ -19074,10 +19078,6 @@
         {
           "date": "2026-01-01",
           "price": 7.99
-        },
-        {
-          "date": "2025-12-27",
-          "price": 5.99
         }
       ]
     },
@@ -20985,7 +20985,7 @@
       ]
     },
     {
-      "name": "Achs Paul Zweigelt BIO 2023",
+      "name": "Achs Paul Zweigelt BIO 2024",
       "store": "spar",
       "price": 11.99,
       "unit": "ml",
@@ -22147,10 +22147,14 @@
     {
       "name": "Bio.k. Tomate Basilikum Aufstrich",
       "store": "spar",
-      "price": 1.99,
+      "price": 2.19,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 2.19
+        },
         {
           "date": "2025-08-26",
           "price": 1.99
@@ -22158,10 +22162,6 @@
         {
           "date": "2024-09-10",
           "price": 1.89
-        },
-        {
-          "date": "2022-11-03",
-          "price": 1.79
         }
       ]
     },
@@ -28571,25 +28571,33 @@
       ]
     },
     {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Chili",
+      "name": "Mandl's Ziegenhof Ziegenkäsebällchen Kräuter",
       "store": "spar",
-      "price": 6.29,
+      "price": 6.59,
       "unit": "g",
-      "quantity": 250,
+      "quantity": 150,
       "priceHistory": [
         {
-          "date": "2022-11-30",
+          "date": "2026-04-01",
+          "price": 6.59
+        },
+        {
+          "date": "2022-11-29",
           "price": 6.29
         }
       ]
     },
     {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Chili",
+      "name": "Mandl's Ziegenhof Ziegenkäserolle Chili",
       "store": "spar",
-      "price": 3.59,
+      "price": 3.69,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-04-01",
+          "price": 3.69
+        },
         {
           "date": "2022-09-30",
           "price": 3.59
@@ -28597,38 +28605,16 @@
       ]
     },
     {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+      "name": "Mandl's Ziegenhof Ziegenkäserolle Kürbiskern",
       "store": "spar",
-      "price": 3.59,
+      "price": 3.69,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
         {
-          "date": "2022-11-29",
-          "price": 3.59
-        }
-      ]
-    },
-    {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
-      "store": "spar",
-      "price": 6.29,
-      "unit": "g",
-      "quantity": 150,
-      "priceHistory": [
-        {
-          "date": "2022-11-29",
-          "price": 6.29
-        }
-      ]
-    },
-    {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
-      "store": "spar",
-      "price": 3.59,
-      "unit": "g",
-      "quantity": 100,
-      "priceHistory": [
+          "date": "2026-04-01",
+          "price": 3.69
+        },
         {
           "date": "2022-11-30",
           "price": 3.59
@@ -28636,12 +28622,16 @@
       ]
     },
     {
-      "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+      "name": "Mandl's Ziegenhof Zigenkäsebällchen Kürbiskern",
       "store": "spar",
-      "price": 6.29,
+      "price": 6.49,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-04-01",
+          "price": 6.49
+        },
         {
           "date": "2022-11-29",
           "price": 6.29
@@ -29263,6 +29253,19 @@
         {
           "date": "2022-09-30",
           "price": 1.49
+        }
+      ]
+    },
+    {
+      "name": "Nussyy Bio Ruhe-Tee Salbei Zitrone 20 Teebeutel",
+      "store": "spar",
+      "price": 3.39,
+      "unit": "g",
+      "quantity": 40,
+      "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 3.39
         }
       ]
     },
@@ -30875,6 +30878,27 @@
       ]
     },
     {
+      "name": "SPAR Natur*pur ASIA Bio-Shiitake Pilze",
+      "store": "spar",
+      "price": 3.99,
+      "unit": "g",
+      "quantity": 150,
+      "priceHistory": [
+        {
+          "date": "2026-02-01",
+          "price": 3.99
+        },
+        {
+          "date": "2026-01-26",
+          "price": 2.99
+        },
+        {
+          "date": "2024-01-26",
+          "price": 3.99
+        }
+      ]
+    },
+    {
       "name": "SPAR Natur*pur ASIA Bio-Zitronengras",
       "store": "spar",
       "price": 2.79,
@@ -30974,10 +30998,14 @@
     {
       "name": "SPAR Natur*pur BIO Mango genussreif",
       "store": "spar",
-      "price": 2.49,
+      "price": 2.99,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 2.99
+        },
         {
           "date": "2026-01-12",
           "price": 2.49
@@ -30985,10 +31013,6 @@
         {
           "date": "2025-09-08",
           "price": 2.99
-        },
-        {
-          "date": "2024-12-15",
-          "price": 2.49
         }
       ]
     },
@@ -32502,10 +32526,14 @@
     {
       "name": "SPAR Natur*pur Bio-Broccoli",
       "store": "spar",
-      "price": 2.19,
+      "price": 2.29,
       "unit": "stück",
       "quantity": 0.5,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 2.29
+        },
         {
           "date": "2026-03-22",
           "price": 2.19
@@ -32513,10 +32541,6 @@
         {
           "date": "2026-03-16",
           "price": 1
-        },
-        {
-          "date": "2026-02-22",
-          "price": 2.19
         }
       ]
     },
@@ -33512,10 +33536,14 @@
     {
       "name": "SPAR Natur*pur Bio-Emmentaler aus Heumilch",
       "store": "spar",
-      "price": 3.74,
+      "price": 3.65,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-03-31",
+          "price": 3.65
+        },
         {
           "date": "2025-09-03",
           "price": 3.74
@@ -33523,10 +33551,6 @@
         {
           "date": "2025-06-24",
           "price": 3.99
-        },
-        {
-          "date": "2025-06-04",
-          "price": 3.79
         }
       ]
     },
@@ -35155,10 +35179,14 @@
     {
       "name": "SPAR Natur*pur Bio-Himbeeren",
       "store": "spar",
-      "price": 3.69,
+      "price": 3.99,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 3.99
+        },
         {
           "date": "2026-03-16",
           "price": 3.69
@@ -35166,10 +35194,6 @@
         {
           "date": "2026-03-09",
           "price": 3.99
-        },
-        {
-          "date": "2026-03-02",
-          "price": 3.69
         }
       ]
     },
@@ -35572,10 +35596,14 @@
     {
       "name": "SPAR Natur*pur Bio-Karotten",
       "store": "spar",
-      "price": 1,
+      "price": 1.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-03-29",
+          "price": 1.99
+        },
         {
           "date": "2026-03-23",
           "price": 1
@@ -35583,10 +35611,6 @@
         {
           "date": "2026-03-01",
           "price": 1.99
-        },
-        {
-          "date": "2026-02-23",
-          "price": 0.99
         }
       ]
     },
@@ -38083,10 +38107,14 @@
     {
       "name": "SPAR Natur*pur Bio-Salat Gentilina",
       "store": "spar",
-      "price": 2.29,
+      "price": 1.99,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 1.99
+        },
         {
           "date": "2026-02-22",
           "price": 2.29
@@ -38094,10 +38122,6 @@
         {
           "date": "2026-02-16",
           "price": 1.99
-        },
-        {
-          "date": "2026-01-04",
-          "price": 2.29
         }
       ]
     },
@@ -38694,10 +38718,14 @@
     {
       "name": "SPAR Natur*pur Bio-Spitzpaprika rot",
       "store": "spar",
-      "price": 2.39,
+      "price": 2.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-03-30",
+          "price": 2.49
+        },
         {
           "date": "2026-03-16",
           "price": 2.39
@@ -38705,10 +38733,6 @@
         {
           "date": "2026-02-23",
           "price": 2.29
-        },
-        {
-          "date": "2026-01-19",
-          "price": 2.19
         }
       ]
     },
