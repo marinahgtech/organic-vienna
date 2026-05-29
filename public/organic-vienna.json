@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T08:20:12.364Z",
+  "generatedAt": "2026-05-29T08:40:42.428Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -3165,10 +3165,14 @@
     {
       "name": "BILLA Bio Himbeeren",
       "store": "billa",
-      "price": 2.79,
+      "price": 2.69,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-05-27",
+          "price": 2.69
+        },
         {
           "date": "2026-05-21",
           "price": 2.79
@@ -3176,10 +3180,6 @@
         {
           "date": "2026-05-13",
           "price": 2.99
-        },
-        {
-          "date": "2026-05-05",
-          "price": 3.49
         }
       ]
     },
@@ -4316,10 +4316,14 @@
     {
       "name": "BILLA Bio Räucherlachs",
       "store": "billa",
-      "price": 3.99,
+      "price": 4.99,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-05-28",
+          "price": 4.99
+        },
         {
           "date": "2026-05-21",
           "price": 3.99
@@ -4327,10 +4331,6 @@
         {
           "date": "2026-05-07",
           "price": 4.99
-        },
-        {
-          "date": "2026-04-30",
-          "price": 3.99
         }
       ]
     },
@@ -4373,6 +4373,19 @@
         {
           "date": "2026-03-01",
           "price": 0.79
+        }
+      ]
+    },
+    {
+      "name": "BILLA Bio Salat Topping",
+      "store": "billa",
+      "price": 1.99,
+      "unit": "g",
+      "quantity": 150,
+      "priceHistory": [
+        {
+          "date": "2026-05-23",
+          "price": 1.99
         }
       ]
     },
@@ -9857,6 +9870,19 @@
       ]
     },
     {
+      "name": "Ja! Natürlich Bio Apfelbalsamessig",
+      "store": "billa",
+      "price": 5.99,
+      "unit": "ml",
+      "quantity": 500,
+      "priceHistory": [
+        {
+          "date": "2026-05-23",
+          "price": 5.99
+        }
+      ]
+    },
+    {
       "name": "Ja! Natürlich Bio Austernpilze",
       "store": "billa",
       "price": 3.99,
@@ -11813,10 +11839,14 @@
     {
       "name": "Ja! Natürlich Grill- & Bratkäse",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.79,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-05-28",
+          "price": 2.79
+        },
         {
           "date": "2026-04-12",
           "price": 3.49
@@ -11824,10 +11854,6 @@
         {
           "date": "2026-04-10",
           "price": 2.62
-        },
-        {
-          "date": "2026-03-01",
-          "price": 3.49
         }
       ]
     },
@@ -14877,10 +14903,14 @@
     {
       "name": "Ja! Natürlich Ziegenkäse Scheiben",
       "store": "billa",
-      "price": 3.19,
+      "price": 3.35,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-05-25",
+          "price": 3.35
+        },
         {
           "date": "2026-04-12",
           "price": 3.19
@@ -14888,20 +14918,20 @@
         {
           "date": "2026-04-10",
           "price": 2.39
-        },
-        {
-          "date": "2026-03-01",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "Ja! Natürlich Ziegenkäsescheiben mit Bockshorn",
       "store": "billa",
-      "price": 3.59,
+      "price": 3.35,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-05-25",
+          "price": 3.35
+        },
         {
           "date": "2025-09-15",
           "price": 3.59
@@ -14909,20 +14939,20 @@
         {
           "date": "2025-09-08",
           "price": 2.69
-        },
-        {
-          "date": "2025-08-11",
-          "price": 3.59
         }
       ]
     },
     {
       "name": "Ja! Natürlich Ziegenmilch",
       "store": "billa",
-      "price": 1.99,
+      "price": 2.09,
       "unit": "ml",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-05-25",
+          "price": 2.09
+        },
         {
           "date": "2026-04-12",
           "price": 1.99
@@ -14930,10 +14960,6 @@
         {
           "date": "2026-04-10",
           "price": 1.49
-        },
-        {
-          "date": "2026-03-01",
-          "price": 1.99
         }
       ]
     },
@@ -14982,10 +15008,14 @@
     {
       "name": "Ja! Natürlich Zucchini",
       "store": "billa",
-      "price": 1.29,
+      "price": 1.59,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-05-28",
+          "price": 1.59
+        },
         {
           "date": "2026-05-21",
           "price": 1.29
@@ -14993,10 +15023,6 @@
         {
           "date": "2026-04-12",
           "price": 1.59
-        },
-        {
-          "date": "2026-04-10",
-          "price": 1.19
         }
       ]
     },
@@ -16756,10 +16782,14 @@
     {
       "name": "ORGANICS Black Orange by Red Bull",
       "store": "billa",
-      "price": 1.19,
+      "price": 1.59,
       "unit": "ml",
       "quantity": 330,
       "priceHistory": [
+        {
+          "date": "2026-05-28",
+          "price": 1.59
+        },
         {
           "date": "2026-05-21",
           "price": 1.19
@@ -33710,10 +33740,14 @@
     {
       "name": "SPAR Natur*pur Bio-Gemüsemais 3 x 150g",
       "store": "spar",
-      "price": 2.79,
+      "price": 2.19,
       "unit": "g",
       "quantity": 450,
       "priceHistory": [
+        {
+          "date": "2026-05-26",
+          "price": 2.19
+        },
         {
           "date": "2026-03-24",
           "price": 2.79
@@ -33721,10 +33755,6 @@
         {
           "date": "2026-01-15",
           "price": 3.49
-        },
-        {
-          "date": "2026-01-07",
-          "price": 2.49
         }
       ]
     },
@@ -34101,19 +34131,6 @@
         {
           "date": "2022-04-01",
           "price": 2.79
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Haferdrink",
-      "store": "spar",
-      "price": 1.99,
-      "unit": "ml",
-      "quantity": 1000,
-      "priceHistory": [
-        {
-          "date": "2024-06-05",
-          "price": 1.99
         }
       ]
     },
@@ -34740,19 +34757,6 @@
         {
           "date": "2022-01-12",
           "price": 2.19
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Kartoffelzöpferl",
-      "store": "spar",
-      "price": 1.15,
-      "unit": "stk",
-      "quantity": 1,
-      "priceHistory": [
-        {
-          "date": "2025-05-14",
-          "price": 1.15
         }
       ]
     },
@@ -35894,19 +35898,6 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur Bio-Paprika Ramiro grün",
-      "store": "spar",
-      "price": 1.29,
-      "unit": "stk",
-      "quantity": 1,
-      "priceHistory": [
-        {
-          "date": "2019-02-24",
-          "price": 1.29
-        }
-      ]
-    },
-    {
       "name": "SPAR Natur*pur Bio-Paprika gelb",
       "store": "spar",
       "price": 1.49,
@@ -36513,27 +36504,6 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur Bio-Salat Gentilina",
-      "store": "spar",
-      "price": 2.29,
-      "unit": "stk",
-      "quantity": 1,
-      "priceHistory": [
-        {
-          "date": "2026-04-05",
-          "price": 2.29
-        },
-        {
-          "date": "2026-03-30",
-          "price": 1.99
-        },
-        {
-          "date": "2026-02-22",
-          "price": 2.29
-        }
-      ]
-    },
-    {
       "name": "SPAR Natur*pur Bio-Salat-Mix",
       "store": "spar",
       "price": 1.99,
@@ -36619,27 +36589,6 @@
         {
           "date": "2022-10-12",
           "price": 0.69
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Sauerrahm",
-      "store": "spar",
-      "price": 2.09,
-      "unit": "g",
-      "quantity": 450,
-      "priceHistory": [
-        {
-          "date": "2025-07-12",
-          "price": 2.09
-        },
-        {
-          "date": "2024-03-21",
-          "price": 1.75
-        },
-        {
-          "date": "2024-03-13",
-          "price": 1.49
         }
       ]
     },
@@ -37588,19 +37537,6 @@
       ]
     },
     {
-      "name": "SPAR Natur*pur Bio-Weizen-Sauerteig getrocknet 3 Beutel",
-      "store": "spar",
-      "price": 2.49,
-      "unit": "g",
-      "quantity": 105,
-      "priceHistory": [
-        {
-          "date": "2025-11-11",
-          "price": 2.49
-        }
-      ]
-    },
-    {
       "name": "SPAR Natur*pur Bio-Weizenmehl griffig T480",
       "store": "spar",
       "price": 1.29,
@@ -37618,27 +37554,6 @@
         {
           "date": "2023-12-14",
           "price": 1.35
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Weißkraut per kg",
-      "store": "spar",
-      "price": 1.79,
-      "unit": "g",
-      "quantity": 1000,
-      "priceHistory": [
-        {
-          "date": "2025-12-07",
-          "price": 1.79
-        },
-        {
-          "date": "2025-12-03",
-          "price": 1
-        },
-        {
-          "date": "2024-11-25",
-          "price": 1.79
         }
       ]
     },
@@ -37715,23 +37630,6 @@
         {
           "date": "2024-08-06",
           "price": 2.19
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Ziegenkäse in Scheiben",
-      "store": "spar",
-      "price": 3.19,
-      "unit": "g",
-      "quantity": 100,
-      "priceHistory": [
-        {
-          "date": "2026-02-23",
-          "price": 3.19
-        },
-        {
-          "date": "2025-05-14",
-          "price": 2.99
         }
       ]
     },
@@ -38648,6 +38546,92 @@
         {
           "date": "2025-12-22",
           "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Saatgut Bio-Stangenbohnen – Trebona",
+      "store": "spar",
+      "price": 3.49,
+      "unit": "stück",
+      "quantity": 1,
+      "priceHistory": [
+        {
+          "date": "2025-12-22",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Saatgut Bio-Tomaten – Moneymaker",
+      "store": "spar",
+      "price": 3.49,
+      "unit": "stück",
+      "quantity": 1,
+      "priceHistory": [
+        {
+          "date": "2025-12-22",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Saatgut Bio-Zitronenmelisse",
+      "store": "spar",
+      "price": 3.49,
+      "unit": "stück",
+      "quantity": 1,
+      "priceHistory": [
+        {
+          "date": "2025-12-22",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Saatgut Bio-Zucchini – Genovese",
+      "store": "spar",
+      "price": 3.49,
+      "unit": "stück",
+      "quantity": 1,
+      "priceHistory": [
+        {
+          "date": "2025-12-22",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Saatgut Mexikanische Bio-Minigurke",
+      "store": "spar",
+      "price": 3.49,
+      "unit": "stück",
+      "quantity": 1,
+      "priceHistory": [
+        {
+          "date": "2025-12-22",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Steirisches Bio-Kürbiskernöl g.g.A.",
+      "store": "spar",
+      "price": 7.49,
+      "unit": "ml",
+      "quantity": 250,
+      "priceHistory": [
+        {
+          "date": "2022-09-30",
+          "price": 7.49
+        },
+        {
+          "date": "2018-04-25",
+          "price": 6.99
+        },
+        {
+          "date": "2017-04-20",
+          "price": 7.99
         }
       ]
     }
