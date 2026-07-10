@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T08:07:37.647Z",
+  "generatedAt": "2026-07-10T08:20:32.186Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -4328,10 +4328,14 @@
     {
       "name": "BILLA Bio Räucherlachs",
       "store": "billa",
-      "price": 3.99,
+      "price": 4.99,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 4.99
+        },
         {
           "date": "2026-06-26",
           "price": 3.99
@@ -4339,10 +4343,6 @@
         {
           "date": "2026-06-21",
           "price": 4.49
-        },
-        {
-          "date": "2026-06-20",
-          "price": 3.37
         }
       ]
     },
@@ -4795,10 +4795,14 @@
     {
       "name": "BILLA Bio Zitronen",
       "store": "billa",
-      "price": 2.79,
+      "price": 2.49,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-07-07",
+          "price": 2.49
+        },
         {
           "date": "2026-06-21",
           "price": 2.79
@@ -4806,10 +4810,6 @@
         {
           "date": "2026-06-20",
           "price": 2.09
-        },
-        {
-          "date": "2026-06-03",
-          "price": 2.79
         }
       ]
     },
@@ -11094,10 +11094,14 @@
     {
       "name": "Ja! Natürlich Butter",
       "store": "billa",
-      "price": 2.02,
+      "price": 3.04,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-07-09",
+          "price": 3.04
+        },
         {
           "date": "2026-07-02",
           "price": 2.02
@@ -11105,10 +11109,6 @@
         {
           "date": "2026-07-01",
           "price": 3.04
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.12
         }
       ]
     },
@@ -13110,10 +13110,14 @@
     {
       "name": "Ja! Natürlich Mini Paprika",
       "store": "billa",
-      "price": 2.79,
+      "price": 2.66,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-07-05",
+          "price": 2.66
+        },
         {
           "date": "2025-09-15",
           "price": 2.79
@@ -13121,10 +13125,6 @@
         {
           "date": "2025-09-08",
           "price": 2.09
-        },
-        {
-          "date": "2025-08-11",
-          "price": 2.79
         }
       ]
     },
@@ -13497,27 +13497,6 @@
     {
       "name": "Ja! Natürlich Rindersaftschinken",
       "store": "billa",
-      "price": 4.99,
-      "unit": "g",
-      "quantity": 90,
-      "priceHistory": [
-        {
-          "date": "2026-06-21",
-          "price": 4.99
-        },
-        {
-          "date": "2026-06-20",
-          "price": 3.74
-        },
-        {
-          "date": "2026-04-12",
-          "price": 4.99
-        }
-      ]
-    },
-    {
-      "name": "Ja! Natürlich Rindersaftschinken",
-      "store": "billa",
       "price": 49.9,
       "unit": "g",
       "quantity": 1000,
@@ -13533,6 +13512,27 @@
         {
           "date": "2024-02-24",
           "price": 49.9
+        }
+      ]
+    },
+    {
+      "name": "Ja! Natürlich Rindersaftschinken",
+      "store": "billa",
+      "price": 4.99,
+      "unit": "g",
+      "quantity": 90,
+      "priceHistory": [
+        {
+          "date": "2026-06-21",
+          "price": 4.99
+        },
+        {
+          "date": "2026-06-20",
+          "price": 3.74
+        },
+        {
+          "date": "2026-04-12",
+          "price": 4.99
         }
       ]
     },
@@ -16835,10 +16835,14 @@
     {
       "name": "ORGANICS Black Orange by Red Bull",
       "store": "billa",
-      "price": 1.29,
+      "price": 1.59,
       "unit": "ml",
       "quantity": 330,
       "priceHistory": [
+        {
+          "date": "2026-07-09",
+          "price": 1.59
+        },
         {
           "date": "2026-07-01",
           "price": 1.29
@@ -16846,10 +16850,6 @@
         {
           "date": "2026-05-28",
           "price": 1.59
-        },
-        {
-          "date": "2026-05-21",
-          "price": 1.19
         }
       ]
     },
@@ -16898,10 +16898,14 @@
     {
       "name": "Oatly Haferdrink Bio",
       "store": "billa",
-      "price": 2.79,
+      "price": 1.99,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 1.99
+        },
         {
           "date": "2026-06-03",
           "price": 2.79
@@ -16909,10 +16913,6 @@
         {
           "date": "2026-05-21",
           "price": 1.99
-        },
-        {
-          "date": "2026-04-23",
-          "price": 2.79
         }
       ]
     },
@@ -20540,10 +20540,14 @@
     {
       "name": "bi good Baby Bio-Reinigungswattepads",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.62,
       "unit": "stk",
       "quantity": 80,
       "priceHistory": [
+        {
+          "date": "2026-07-09",
+          "price": 2.62
+        },
         {
           "date": "2026-02-17",
           "price": 3.49
@@ -20551,10 +20555,6 @@
         {
           "date": "2023-12-11",
           "price": 2.62
-        },
-        {
-          "date": "2023-11-19",
-          "price": 3.49
         }
       ]
     },
@@ -24466,19 +24466,6 @@
         {
           "date": "2025-12-22",
           "price": 3.79
-        }
-      ]
-    },
-    {
-      "name": "Exklusiv bei SPAR Bio-Aufstrich Paprika",
-      "store": "spar",
-      "price": 2.49,
-      "unit": "g",
-      "quantity": 125,
-      "priceHistory": [
-        {
-          "date": "2025-08-30",
-          "price": 2.49
         }
       ]
     },
@@ -29613,6 +29600,19 @@
     {
       "name": "Nussyy Bio-Aufstrich Paprika",
       "store": "spar",
+      "price": 2.49,
+      "unit": "g",
+      "quantity": 125,
+      "priceHistory": [
+        {
+          "date": "2025-08-30",
+          "price": 2.49
+        }
+      ]
+    },
+    {
+      "name": "Nussyy Bio-Aufstrich Paprika",
+      "store": "spar",
       "price": 1.99,
       "unit": "g",
       "quantity": 125,
@@ -30696,10 +30696,14 @@
     {
       "name": "Pure & Fun Bluey Bio Bluey Drink Apfel Heidelbeer",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.29,
       "unit": "l",
       "quantity": 0.33,
       "priceHistory": [
+        {
+          "date": "2026-07-08",
+          "price": 1.29
+        },
         {
           "date": "2026-04-16",
           "price": 1.49
@@ -30707,20 +30711,20 @@
         {
           "date": "2026-03-18",
           "price": 1.29
-        },
-        {
-          "date": "2025-10-16",
-          "price": 1.49
         }
       ]
     },
     {
       "name": "Pure & Fun Disney Bio Disney Drink Apfel Himbeere",
       "store": "spar",
-      "price": 1.49,
+      "price": 1.29,
       "unit": "l",
       "quantity": 0.33,
       "priceHistory": [
+        {
+          "date": "2026-07-08",
+          "price": 1.29
+        },
         {
           "date": "2026-04-16",
           "price": 1.49
@@ -30728,10 +30732,6 @@
         {
           "date": "2026-03-18",
           "price": 1.29
-        },
-        {
-          "date": "2025-10-16",
-          "price": 1.49
         }
       ]
     },
@@ -32065,10 +32065,14 @@
     {
       "name": "SPAR Natur*pur Bio-Bananen per kg",
       "store": "spar",
-      "price": 2.39,
+      "price": 1.79,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 1.79
+        },
         {
           "date": "2026-04-27",
           "price": 2.39
@@ -32076,10 +32080,6 @@
         {
           "date": "2026-04-26",
           "price": 2.29
-        },
-        {
-          "date": "2026-04-24",
-          "price": 1.79
         }
       ]
     },
@@ -35851,10 +35851,14 @@
     {
       "name": "SPAR Natur*pur Bio-Karotten",
       "store": "spar",
-      "price": 2.37,
+      "price": 2.46,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-07-06",
+          "price": 2.46
+        },
         {
           "date": "2026-07-01",
           "price": 2.37
@@ -35862,10 +35866,6 @@
         {
           "date": "2026-05-11",
           "price": 2.49
-        },
-        {
-          "date": "2026-05-07",
-          "price": 1.99
         }
       ]
     },
@@ -36542,10 +36542,14 @@
     {
       "name": "SPAR Natur*pur Bio-Kürbis Butternut per kg",
       "store": "spar",
-      "price": 3.61,
+      "price": 3.32,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-07-06",
+          "price": 3.32
+        },
         {
           "date": "2026-07-01",
           "price": 3.61
@@ -36553,10 +36557,6 @@
         {
           "date": "2026-04-27",
           "price": 3.79
-        },
-        {
-          "date": "2026-01-26",
-          "price": 2.49
         }
       ]
     },
@@ -37388,10 +37388,14 @@
     {
       "name": "SPAR Natur*pur Bio-Orangen Sorte: siehe Etikett",
       "store": "spar",
-      "price": 2.99,
+      "price": 3.49,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-07-06",
+          "price": 3.49
+        },
         {
           "date": "2026-04-13",
           "price": 2.99
@@ -37399,10 +37403,6 @@
         {
           "date": "2026-04-12",
           "price": 3.29
-        },
-        {
-          "date": "2026-04-06",
-          "price": 1.99
         }
       ]
     },
