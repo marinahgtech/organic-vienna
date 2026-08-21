@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:11:37.100Z",
+  "generatedAt": "2026-08-21T05:29:37.278Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -3507,6 +3507,19 @@
       ]
     },
     {
+      "name": "BILLA Bio Kichererbsen im Glas",
+      "store": "billa",
+      "price": 0.95,
+      "unit": "g",
+      "quantity": 330,
+      "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 0.95
+        }
+      ]
+    },
+    {
       "name": "BILLA Bio Kichererbseneintopf",
       "store": "billa",
       "price": 2.39,
@@ -6333,10 +6346,14 @@
     {
       "name": "EZA Espresso Organico Ganze Bohne",
       "store": "billa",
-      "price": 27.99,
+      "price": 20.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 20.99
+        },
         {
           "date": "2026-04-26",
           "price": 27.99
@@ -6344,10 +6361,6 @@
         {
           "date": "2026-04-24",
           "price": 19.59
-        },
-        {
-          "date": "2026-02-27",
-          "price": 27.99
         }
       ]
     },
@@ -9271,10 +9284,14 @@
     {
       "name": "J. Hornig Caffè Crema Ganze Bohne",
       "store": "billa",
-      "price": 16.49,
+      "price": 12.37,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 12.37
+        },
         {
           "date": "2026-04-26",
           "price": 16.49
@@ -9282,10 +9299,6 @@
         {
           "date": "2026-04-24",
           "price": 11.54
-        },
-        {
-          "date": "2026-02-22",
-          "price": 16.49
         }
       ]
     },
@@ -9901,10 +9914,14 @@
     {
       "name": "Ja! Natürlich Beilagenerdäpfel vorwiegend festkochend",
       "store": "billa",
-      "price": 1.8,
+      "price": 1.89,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-16",
+          "price": 1.89
+        },
         {
           "date": "2026-08-09",
           "price": 1.8
@@ -9912,10 +9929,6 @@
         {
           "date": "2026-08-06",
           "price": 1.7
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.79
         }
       ]
     },
@@ -10258,10 +10271,14 @@
     {
       "name": "Ja! Natürlich Bio Haferdrink",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.69,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-20",
+          "price": 1.69
+        },
         {
           "date": "2026-08-02",
           "price": 1.99
@@ -10269,10 +10286,6 @@
         {
           "date": "2026-07-31",
           "price": 1.49
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.99
         }
       ]
     },
@@ -11590,10 +11603,14 @@
     {
       "name": "Ja! Natürlich Eier L",
       "store": "billa",
-      "price": 2.85,
+      "price": 3.99,
       "unit": "stk",
       "quantity": 6,
       "priceHistory": [
+        {
+          "date": "2026-08-20",
+          "price": 3.99
+        },
         {
           "date": "2026-08-13",
           "price": 2.85
@@ -11601,10 +11618,6 @@
         {
           "date": "2026-08-02",
           "price": 3.99
-        },
-        {
-          "date": "2026-07-31",
-          "price": 2.99
         }
       ]
     },
@@ -11800,10 +11813,14 @@
     {
       "name": "Ja! Natürlich Espresso Intenso Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 6.74
+        },
         {
           "date": "2026-08-02",
           "price": 8.99
@@ -11811,10 +11828,6 @@
         {
           "date": "2026-07-31",
           "price": 6.74
-        },
-        {
-          "date": "2026-06-21",
-          "price": 8.99
         }
       ]
     },
@@ -12346,10 +12359,14 @@
     {
       "name": "Ja! Natürlich Himbeeren",
       "store": "billa",
-      "price": 3.69,
+      "price": 3.49,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-08-18",
+          "price": 3.49
+        },
         {
           "date": "2026-08-02",
           "price": 3.69
@@ -12357,10 +12374,6 @@
         {
           "date": "2026-07-31",
           "price": 2.77
-        },
-        {
-          "date": "2026-06-26",
-          "price": 3.69
         }
       ]
     },
@@ -12766,10 +12779,14 @@
     {
       "name": "Ja! Natürlich Kaffee Crema Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 6.74
+        },
         {
           "date": "2026-08-02",
           "price": 8.99
@@ -12777,10 +12794,6 @@
         {
           "date": "2026-07-31",
           "price": 6.74
-        },
-        {
-          "date": "2026-07-30",
-          "price": 8.99
         }
       ]
     },
@@ -13825,10 +13838,14 @@
     {
       "name": "Ja! Natürlich Salaterdäpfel festkochend",
       "store": "billa",
-      "price": 1.8,
+      "price": 1.89,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-16",
+          "price": 1.89
+        },
         {
           "date": "2026-08-09",
           "price": 1.8
@@ -13836,10 +13853,6 @@
         {
           "date": "2026-07-01",
           "price": 1.7
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.79
         }
       ]
     },
@@ -15347,10 +15360,14 @@
     {
       "name": "Ja! Natürlich Zwiebelzopf rot",
       "store": "billa",
-      "price": 1.7,
+      "price": 1.89,
       "unit": "g",
       "quantity": 280,
       "priceHistory": [
+        {
+          "date": "2026-08-16",
+          "price": 1.89
+        },
         {
           "date": "2026-08-02",
           "price": 1.7
@@ -15358,10 +15375,6 @@
         {
           "date": "2026-07-31",
           "price": 1.28
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.7
         }
       ]
     },
@@ -15494,10 +15507,14 @@
     {
       "name": "Julius Meinl Espresso Inspresso Kapseln kompostierbar",
       "store": "billa",
-      "price": 4.99,
+      "price": 3.74,
       "unit": "g",
       "quantity": 56,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 3.74
+        },
         {
           "date": "2026-04-26",
           "price": 4.99
@@ -15505,10 +15522,6 @@
         {
           "date": "2026-04-24",
           "price": 3.49
-        },
-        {
-          "date": "2026-03-12",
-          "price": 4.99
         }
       ]
     },
@@ -15662,10 +15675,14 @@
     {
       "name": "Kombuchery Kombucha Orange",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.69,
       "unit": "ml",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-08-20",
+          "price": 1.69
+        },
         {
           "date": "2025-09-02",
           "price": 1.99
@@ -15864,10 +15881,14 @@
     {
       "name": "Lavazza ¡Tierra! for Planet Ganze Bohne",
       "store": "billa",
-      "price": 32.99,
+      "price": 24.74,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 24.74
+        },
         {
           "date": "2026-05-07",
           "price": 32.99
@@ -15875,10 +15896,6 @@
         {
           "date": "2026-04-26",
           "price": 28.49
-        },
-        {
-          "date": "2026-04-24",
-          "price": 19.94
         }
       ]
     },
@@ -18838,10 +18855,14 @@
     {
       "name": "Segafredo Storia Espresso - ganze Bohne",
       "store": "billa",
-      "price": 30.99,
+      "price": 23.24,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-21",
+          "price": 23.24
+        },
         {
           "date": "2026-04-26",
           "price": 30.99
@@ -18849,10 +18870,6 @@
         {
           "date": "2026-04-24",
           "price": 21.69
-        },
-        {
-          "date": "2026-02-22",
-          "price": 30.99
         }
       ]
     },
@@ -35560,10 +35577,14 @@
     {
       "name": "SPAR Natur*pur Bio-Himbeeren",
       "store": "spar",
-      "price": 3.49,
+      "price": 1.99,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-08-17",
+          "price": 1.99
+        },
         {
           "date": "2026-08-03",
           "price": 3.49
@@ -35571,10 +35592,6 @@
         {
           "date": "2026-07-13",
           "price": 2.99
-        },
-        {
-          "date": "2026-06-08",
-          "price": 3.49
         }
       ]
     },
@@ -36689,10 +36706,14 @@
     {
       "name": "SPAR Natur*pur Bio-Kürbis Butternut per kg",
       "store": "spar",
-      "price": 3.32,
+      "price": 2.18,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-08-17",
+          "price": 2.18
+        },
         {
           "date": "2026-07-06",
           "price": 3.32
@@ -36700,10 +36721,6 @@
         {
           "date": "2026-07-01",
           "price": 3.61
-        },
-        {
-          "date": "2026-04-27",
-          "price": 3.79
         }
       ]
     },
@@ -38967,10 +38984,14 @@
     {
       "name": "SPAR Natur*pur Bio-Snack Paprika",
       "store": "spar",
-      "price": 2.37,
+      "price": 1.7,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-08-17",
+          "price": 1.7
+        },
         {
           "date": "2026-07-01",
           "price": 2.37
@@ -38978,10 +38999,6 @@
         {
           "date": "2026-05-18",
           "price": 2.49
-        },
-        {
-          "date": "2025-11-10",
-          "price": 2.79
         }
       ]
     },
@@ -39003,27 +39020,6 @@
         {
           "date": "2026-05-25",
           "price": 1.79
-        }
-      ]
-    },
-    {
-      "name": "SPAR Natur*pur Bio-Snack-Karotten",
-      "store": "spar",
-      "price": 0.99,
-      "unit": "g",
-      "quantity": 200,
-      "priceHistory": [
-        {
-          "date": "2024-12-23",
-          "price": 0.99
-        },
-        {
-          "date": "2024-12-01",
-          "price": 1.49
-        },
-        {
-          "date": "2024-11-25",
-          "price": 1
         }
       ]
     }
