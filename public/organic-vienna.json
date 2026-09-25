@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:22:47.199Z",
+  "generatedAt": "2026-09-25T09:59:31.196Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -2228,10 +2228,14 @@
     {
       "name": "BILLA Bio Apfelsaft",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.69,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.69
+        },
         {
           "date": "2026-08-02",
           "price": 2.19
@@ -2239,10 +2243,6 @@
         {
           "date": "2026-07-31",
           "price": 1.64
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.19
         }
       ]
     },
@@ -2270,10 +2270,14 @@
     {
       "name": "BILLA Bio Apfelsaft mit stillem Wasser",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.49,
       "unit": "ml",
       "quantity": 600,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.79
@@ -2281,10 +2285,6 @@
         {
           "date": "2026-07-31",
           "price": 1.34
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.79
         }
       ]
     },
@@ -2648,10 +2648,14 @@
     {
       "name": "BILLA Bio Ei Aufstrich",
       "store": "billa",
-      "price": 2.69,
+      "price": 1.79,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-08-02",
           "price": 2.69
@@ -2659,10 +2663,6 @@
         {
           "date": "2026-07-31",
           "price": 2.02
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.69
         }
       ]
     },
@@ -2732,10 +2732,14 @@
     {
       "name": "BILLA Bio Gehackte Tomaten Natur",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.75,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.75
+        },
         {
           "date": "2026-08-02",
           "price": 0.99
@@ -2743,20 +2747,20 @@
         {
           "date": "2026-07-31",
           "price": 0.74
-        },
-        {
-          "date": "2026-07-26",
-          "price": 0.99
         }
       ]
     },
     {
       "name": "BILLA Bio Gehackte Tomaten mit Kräuter",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.75,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.75
+        },
         {
           "date": "2026-08-02",
           "price": 0.99
@@ -2764,10 +2768,6 @@
         {
           "date": "2026-07-31",
           "price": 0.74
-        },
-        {
-          "date": "2026-07-26",
-          "price": 0.99
         }
       ]
     },
@@ -2858,10 +2858,14 @@
     {
       "name": "BILLA Bio Gojibeeren",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.69,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.69
+        },
         {
           "date": "2026-08-30",
           "price": 3.49
@@ -2869,10 +2873,6 @@
         {
           "date": "2026-08-28",
           "price": 2.62
-        },
-        {
-          "date": "2026-08-02",
-          "price": 3.49
         }
       ]
     },
@@ -2984,10 +2984,14 @@
     {
       "name": "BILLA Bio Grüner Tee Zitronengras-Ingwer",
       "store": "billa",
-      "price": 2.29,
+      "price": 1.59,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.59
+        },
         {
           "date": "2026-08-02",
           "price": 2.29
@@ -2995,20 +2999,20 @@
         {
           "date": "2026-07-31",
           "price": 1.72
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.29
         }
       ]
     },
     {
       "name": "BILLA Bio Gurken",
       "store": "billa",
-      "price": 1.89,
+      "price": 1.29,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.29
+        },
         {
           "date": "2026-08-02",
           "price": 1.89
@@ -3016,10 +3020,6 @@
         {
           "date": "2026-07-31",
           "price": 1.42
-        },
-        {
-          "date": "2026-07-19",
-          "price": 1.89
         }
       ]
     },
@@ -3257,31 +3257,14 @@
     {
       "name": "BILLA Bio Himbeeren",
       "store": "billa",
-      "price": 5.59,
-      "unit": "g",
-      "quantity": 300,
-      "priceHistory": [
-        {
-          "date": "2026-08-02",
-          "price": 5.59
-        },
-        {
-          "date": "2026-07-31",
-          "price": 4.19
-        },
-        {
-          "date": "2026-07-19",
-          "price": 5.59
-        }
-      ]
-    },
-    {
-      "name": "BILLA Bio Himbeeren",
-      "store": "billa",
-      "price": 3.69,
+      "price": 3.49,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.49
+        },
         {
           "date": "2026-06-21",
           "price": 3.69
@@ -3289,10 +3272,27 @@
         {
           "date": "2026-06-20",
           "price": 2.77
+        }
+      ]
+    },
+    {
+      "name": "BILLA Bio Himbeeren",
+      "store": "billa",
+      "price": 3.99,
+      "unit": "g",
+      "quantity": 300,
+      "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.99
         },
         {
-          "date": "2026-06-19",
-          "price": 3.69
+          "date": "2026-08-02",
+          "price": 5.59
+        },
+        {
+          "date": "2026-07-31",
+          "price": 4.19
         }
       ]
     },
@@ -3543,10 +3543,14 @@
     {
       "name": "BILLA Bio Kidney Bohnen",
       "store": "billa",
-      "price": 1.39,
+      "price": 1.09,
       "unit": "g",
       "quantity": 420,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.09
+        },
         {
           "date": "2026-08-02",
           "price": 1.39
@@ -3554,10 +3558,6 @@
         {
           "date": "2026-07-31",
           "price": 1.04
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.39
         }
       ]
     },
@@ -3682,10 +3682,14 @@
     {
       "name": "BILLA Bio Konfitüre Extra Erdbeere",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.75,
       "unit": "g",
       "quantity": 415,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.75
+        },
         {
           "date": "2026-08-02",
           "price": 2.99
@@ -3693,10 +3697,6 @@
         {
           "date": "2026-07-31",
           "price": 2.24
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.99
         }
       ]
     },
@@ -3829,10 +3829,14 @@
     {
       "name": "BILLA Bio Mais 3er",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.49,
       "unit": "g",
       "quantity": 450,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.49
+        },
         {
           "date": "2026-08-02",
           "price": 3.49
@@ -3840,10 +3844,6 @@
         {
           "date": "2026-07-31",
           "price": 2.62
-        },
-        {
-          "date": "2026-06-21",
-          "price": 3.49
         }
       ]
     },
@@ -3955,10 +3955,14 @@
     {
       "name": "BILLA Bio Obstmus Apfel & Banane",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.59
+        },
         {
           "date": "2026-08-02",
           "price": 0.89
@@ -3966,20 +3970,20 @@
         {
           "date": "2026-07-31",
           "price": 0.67
-        },
-        {
-          "date": "2026-06-21",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel & Banane 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.19,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.19
+        },
         {
           "date": "2026-08-02",
           "price": 3.19
@@ -3987,20 +3991,20 @@
         {
           "date": "2026-07-31",
           "price": 2.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel & Karotte",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.59
+        },
         {
           "date": "2026-08-02",
           "price": 0.89
@@ -4008,20 +4012,20 @@
         {
           "date": "2026-07-31",
           "price": 0.67
-        },
-        {
-          "date": "2026-06-21",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Banane & Hafer",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.59
+        },
         {
           "date": "2026-08-02",
           "price": 0.89
@@ -4029,20 +4033,20 @@
         {
           "date": "2026-07-31",
           "price": 0.67
-        },
-        {
-          "date": "2026-06-21",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.59
+        },
         {
           "date": "2026-08-02",
           "price": 0.89
@@ -4050,20 +4054,20 @@
         {
           "date": "2026-07-31",
           "price": 0.67
-        },
-        {
-          "date": "2026-06-21",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.19,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.19
+        },
         {
           "date": "2026-08-02",
           "price": 3.19
@@ -4071,20 +4075,20 @@
         {
           "date": "2026-07-31",
           "price": 2.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Pfirsich & Mango",
       "store": "billa",
-      "price": 0.89,
+      "price": 0.59,
       "unit": "g",
       "quantity": 90,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.59
+        },
         {
           "date": "2026-08-02",
           "price": 0.89
@@ -4092,20 +4096,20 @@
         {
           "date": "2026-07-31",
           "price": 0.67
-        },
-        {
-          "date": "2026-06-21",
-          "price": 0.89
         }
       ]
     },
     {
       "name": "BILLA Bio Obstmus Apfel, Pfirsich & Mango 4er",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.19,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.19
+        },
         {
           "date": "2026-08-02",
           "price": 3.19
@@ -4113,20 +4117,20 @@
         {
           "date": "2026-07-31",
           "price": 2.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "BILLA Bio Orangen",
       "store": "billa",
-      "price": 3.49,
+      "price": 3.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-22",
+          "price": 3.99
+        },
         {
           "date": "2026-09-15",
           "price": 3.49
@@ -4157,10 +4161,14 @@
     {
       "name": "BILLA Bio Orangensaft",
       "store": "billa",
-      "price": 2.69,
+      "price": 2.49,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.49
+        },
         {
           "date": "2026-08-02",
           "price": 2.69
@@ -4168,20 +4176,20 @@
         {
           "date": "2026-07-31",
           "price": 2.02
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.69
         }
       ]
     },
     {
       "name": "BILLA Bio Orangensaft mit stillem Wasser",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.49,
       "unit": "ml",
       "quantity": 600,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.79
@@ -4189,10 +4197,6 @@
         {
           "date": "2026-07-31",
           "price": 1.34
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.79
         }
       ]
     },
@@ -4834,10 +4838,14 @@
     {
       "name": "BILLA Bio Tomatenketchup",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.28,
       "unit": "g",
       "quantity": 550,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.28
+        },
         {
           "date": "2026-08-02",
           "price": 3.49
@@ -4845,10 +4853,6 @@
         {
           "date": "2026-07-31",
           "price": 2.62
-        },
-        {
-          "date": "2026-07-16",
-          "price": 3.49
         }
       ]
     },
@@ -5133,10 +5137,14 @@
     {
       "name": "BILLA Thunfischsalat Couscous",
       "store": "billa",
-      "price": 1.99,
+      "price": 2.69,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.69
+        },
         {
           "date": "2026-09-10",
           "price": 1.99
@@ -5144,10 +5152,6 @@
         {
           "date": "2025-09-22",
           "price": 2.69
-        },
-        {
-          "date": "2025-09-08",
-          "price": 2.02
         }
       ]
     },
@@ -5175,10 +5179,14 @@
     {
       "name": "BILLA Thunfischsalat Mexiko Art",
       "store": "billa",
-      "price": 1.99,
+      "price": 2.69,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.69
+        },
         {
           "date": "2026-09-10",
           "price": 1.99
@@ -5186,20 +5194,20 @@
         {
           "date": "2025-09-22",
           "price": 2.69
-        },
-        {
-          "date": "2025-09-08",
-          "price": 2.02
         }
       ]
     },
     {
       "name": "BILLA Thunfischsalat Toskana Art",
       "store": "billa",
-      "price": 1.99,
+      "price": 2.69,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.69
+        },
         {
           "date": "2026-09-10",
           "price": 1.99
@@ -5207,20 +5215,20 @@
         {
           "date": "2025-09-22",
           "price": 2.69
-        },
-        {
-          "date": "2025-09-08",
-          "price": 2.02
         }
       ]
     },
     {
       "name": "BILLA getrocknete Kichererbsen",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.19,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.19
+        },
         {
           "date": "2025-09-22",
           "price": 1.79
@@ -5228,10 +5236,6 @@
         {
           "date": "2025-09-08",
           "price": 1.34
-        },
-        {
-          "date": "2025-08-11",
-          "price": 1.79
         }
       ]
     },
@@ -5343,10 +5347,14 @@
     {
       "name": "Bio Dog Rind",
       "store": "billa",
-      "price": 1.49,
+      "price": 1.19,
       "unit": "g",
       "quantity": 300,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.19
+        },
         {
           "date": "2026-04-23",
           "price": 1.49
@@ -5354,10 +5362,6 @@
         {
           "date": "2026-04-19",
           "price": 1.19
-        },
-        {
-          "date": "2026-04-17",
-          "price": 0.89
         }
       ]
     },
@@ -6385,10 +6389,14 @@
     {
       "name": "EZA Espresso Organico Ganze Bohne",
       "store": "billa",
-      "price": 27.99,
+      "price": 20.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 20.99
+        },
         {
           "date": "2026-08-23",
           "price": 27.99
@@ -6396,10 +6404,6 @@
         {
           "date": "2026-08-21",
           "price": 20.99
-        },
-        {
-          "date": "2026-04-26",
-          "price": 27.99
         }
       ]
     },
@@ -8037,10 +8041,14 @@
     {
       "name": "Hipp Apel-Bananen-Müsli",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8048,20 +8056,20 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Apfel-Pfirsich mit 7-Korn",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8069,10 +8077,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -8142,10 +8146,14 @@
     {
       "name": "Hipp Buttergemüse mit Süßkartoffelpüree & Bio-Hühnchen",
       "store": "billa",
-      "price": 2.39,
+      "price": 1.95,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.95
+        },
         {
           "date": "2025-11-17",
           "price": 2.39
@@ -8153,10 +8161,6 @@
         {
           "date": "2025-11-13",
           "price": 1.79
-        },
-        {
-          "date": "2025-09-15",
-          "price": 2.39
         }
       ]
     },
@@ -8226,10 +8230,14 @@
     {
       "name": "Hipp Erdbeere Himbeere in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8237,10 +8245,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -8268,10 +8272,14 @@
     {
       "name": "Hipp Feines Bircher-Müsli",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8279,10 +8287,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -8386,10 +8390,14 @@
     {
       "name": "Hipp Grießbrei pur",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 2.19
@@ -8397,10 +8405,6 @@
         {
           "date": "2025-11-13",
           "price": 1.64
-        },
-        {
-          "date": "2025-09-15",
-          "price": 2.19
         }
       ]
     },
@@ -8428,10 +8432,14 @@
     {
       "name": "Hipp Gute Nacht Dinkelgrießbrei",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 2.19
@@ -8439,20 +8447,20 @@
         {
           "date": "2025-11-13",
           "price": 1.64
-        },
-        {
-          "date": "2025-11-11",
-          "price": 2.19
         }
       ]
     },
     {
       "name": "Hipp Gute Nacht Haferbrei Pur",
       "store": "billa",
-      "price": 2.19,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 2.19
@@ -8460,10 +8468,6 @@
         {
           "date": "2025-11-13",
           "price": 1.64
-        },
-        {
-          "date": "2025-11-11",
-          "price": 2.19
         }
       ]
     },
@@ -8483,10 +8487,14 @@
     {
       "name": "Hipp Gute Nacht Milchbrei Griess Banane",
       "store": "billa",
-      "price": 5.99,
+      "price": 5.65,
       "unit": "g",
       "quantity": 475,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 5.65
+        },
         {
           "date": "2025-11-17",
           "price": 5.99
@@ -8494,10 +8502,6 @@
         {
           "date": "2025-11-13",
           "price": 4.49
-        },
-        {
-          "date": "2025-11-11",
-          "price": 5.99
         }
       ]
     },
@@ -8525,10 +8529,14 @@
     {
       "name": "Hipp Himbeere in Apfel mit Dinkelgrieß",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8536,10 +8544,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -8840,10 +8844,14 @@
     {
       "name": "Hipp Mais mit Kartoffeln & Bio-Pute",
       "store": "billa",
-      "price": 1.99,
+      "price": 1.65,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.65
+        },
         {
           "date": "2025-11-17",
           "price": 1.99
@@ -8851,20 +8859,20 @@
         {
           "date": "2025-11-13",
           "price": 1.49
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.99
         }
       ]
     },
     {
       "name": "Hipp Mango Erdbeere in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2026-09-16",
           "price": 1.69
@@ -8872,20 +8880,20 @@
         {
           "date": "2025-11-17",
           "price": 1.79
-        },
-        {
-          "date": "2025-11-13",
-          "price": 1.34
         }
       ]
     },
     {
       "name": "Hipp Mango-Bananen-Grieß",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8893,20 +8901,20 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
     {
       "name": "Hipp Marille in Apfel",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -8914,10 +8922,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -9050,10 +9054,14 @@
     {
       "name": "Hipp Pflaume in Birne mit Vollkorn",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 160,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -9061,10 +9069,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -9176,10 +9180,14 @@
     {
       "name": "Hipp Äpfel mit Bananen",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.55,
       "unit": "g",
       "quantity": 190,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.55
+        },
         {
           "date": "2025-11-17",
           "price": 1.69
@@ -9187,10 +9195,6 @@
         {
           "date": "2025-11-13",
           "price": 1.27
-        },
-        {
-          "date": "2025-09-15",
-          "price": 1.69
         }
       ]
     },
@@ -9218,10 +9222,14 @@
     {
       "name": "Hof Cat Bio Fisch",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.79,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.79
+        },
         {
           "date": "2026-07-01",
           "price": 0.99
@@ -9229,20 +9237,20 @@
         {
           "date": "2026-06-18",
           "price": 0.79
-        },
-        {
-          "date": "2026-04-30",
-          "price": 0.99
         }
       ]
     },
     {
       "name": "Hof Cat Bio Rind",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.79,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.79
+        },
         {
           "date": "2026-07-01",
           "price": 0.99
@@ -9250,10 +9258,6 @@
         {
           "date": "2026-06-18",
           "price": 0.79
-        },
-        {
-          "date": "2026-04-30",
-          "price": 0.99
         }
       ]
     },
@@ -9323,10 +9327,14 @@
     {
       "name": "J. Hornig Caffè Crema Ganze Bohne",
       "store": "billa",
-      "price": 16.49,
+      "price": 12.37,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 12.37
+        },
         {
           "date": "2026-08-23",
           "price": 16.49
@@ -9334,10 +9342,6 @@
         {
           "date": "2026-08-21",
           "price": 12.37
-        },
-        {
-          "date": "2026-04-26",
-          "price": 16.49
         }
       ]
     },
@@ -9554,10 +9558,14 @@
     {
       "name": "Ja! Natürlich Apfel Tasse rot",
       "store": "billa",
-      "price": 3.04,
+      "price": 2.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.99
+        },
         {
           "date": "2026-08-02",
           "price": 3.04
@@ -9565,10 +9573,6 @@
         {
           "date": "2026-07-31",
           "price": 2.28
-        },
-        {
-          "date": "2026-07-01",
-          "price": 3.04
         }
       ]
     },
@@ -9617,10 +9621,14 @@
     {
       "name": "Ja! Natürlich Apfel-Birnesaft",
       "store": "billa",
-      "price": 2.59,
+      "price": 1.99,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.99
+        },
         {
           "date": "2026-08-02",
           "price": 2.59
@@ -9628,10 +9636,6 @@
         {
           "date": "2026-07-31",
           "price": 1.94
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.59
         }
       ]
     },
@@ -9743,10 +9747,14 @@
     {
       "name": "Ja! Natürlich Apfelsaft",
       "store": "billa",
-      "price": 2.49,
+      "price": 1.79,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-08-02",
           "price": 2.49
@@ -9754,10 +9762,6 @@
         {
           "date": "2026-07-31",
           "price": 1.87
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.49
         }
       ]
     },
@@ -9848,10 +9852,14 @@
     {
       "name": "Ja! Natürlich Bananen",
       "store": "billa",
-      "price": 2.39,
+      "price": 2.29,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.29
+        },
         {
           "date": "2026-08-02",
           "price": 2.39
@@ -9859,20 +9867,20 @@
         {
           "date": "2026-07-31",
           "price": 1.79
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.39
         }
       ]
     },
     {
       "name": "Ja! Natürlich Baron Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.56,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.56
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -9880,20 +9888,20 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Batavia Salat",
       "store": "billa",
-      "price": 2.18,
+      "price": 1.59,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.59
+        },
         {
           "date": "2026-08-02",
           "price": 2.18
@@ -9901,20 +9909,20 @@
         {
           "date": "2026-07-31",
           "price": 1.64
-        },
-        {
-          "date": "2026-07-01",
-          "price": 2.18
         }
       ]
     },
     {
       "name": "Ja! Natürlich Beeren Porridge",
       "store": "billa",
-      "price": 4.99,
+      "price": 3.29,
       "unit": "g",
       "quantity": 450,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.29
+        },
         {
           "date": "2026-08-02",
           "price": 4.99
@@ -9922,10 +9930,6 @@
         {
           "date": "2026-07-31",
           "price": 3.74
-        },
-        {
-          "date": "2026-06-21",
-          "price": 4.99
         }
       ]
     },
@@ -9953,10 +9957,14 @@
     {
       "name": "Ja! Natürlich Beilagenerdäpfel vorwiegend festkochend",
       "store": "billa",
-      "price": 1.7,
+      "price": 1.79,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-09-17",
           "price": 1.7
@@ -9964,20 +9972,20 @@
         {
           "date": "2026-08-16",
           "price": 1.89
-        },
-        {
-          "date": "2026-08-09",
-          "price": 1.8
         }
       ]
     },
     {
       "name": "Ja! Natürlich Beinschinken",
       "store": "billa",
-      "price": 4.69,
+      "price": 3.99,
       "unit": "g",
       "quantity": 120,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.99
+        },
         {
           "date": "2026-08-02",
           "price": 4.69
@@ -9985,10 +9993,6 @@
         {
           "date": "2026-07-31",
           "price": 3.52
-        },
-        {
-          "date": "2026-06-21",
-          "price": 4.69
         }
       ]
     },
@@ -10037,10 +10041,14 @@
     {
       "name": "Ja! Natürlich Bergkäse Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.56,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.56
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -10048,10 +10056,6 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
@@ -10121,10 +10125,14 @@
     {
       "name": "Ja! Natürlich Bio Beerenmüsli",
       "store": "billa",
-      "price": 4.79,
+      "price": 2.99,
       "unit": "g",
       "quantity": 375,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.99
+        },
         {
           "date": "2026-08-02",
           "price": 4.79
@@ -10132,10 +10140,6 @@
         {
           "date": "2026-07-31",
           "price": 3.59
-        },
-        {
-          "date": "2026-06-21",
-          "price": 4.79
         }
       ]
     },
@@ -10344,10 +10348,14 @@
     {
       "name": "Ja! Natürlich Bio Heidelbeeren",
       "store": "billa",
-      "price": 2.49,
+      "price": 2.99,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 2.99
+        },
         {
           "date": "2025-08-11",
           "price": 2.49
@@ -10355,20 +10363,20 @@
         {
           "date": "2025-08-04",
           "price": 1.87
-        },
-        {
-          "date": "2025-08-03",
-          "price": 2.49
         }
       ]
     },
     {
       "name": "Ja! Natürlich Bio Heumilch",
       "store": "billa",
-      "price": 1.89,
+      "price": 1.69,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.69
+        },
         {
           "date": "2026-08-02",
           "price": 1.89
@@ -10376,10 +10384,6 @@
         {
           "date": "2026-07-31",
           "price": 1.42
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.89
         }
       ]
     },
@@ -10609,10 +10613,14 @@
     {
       "name": "Ja! Natürlich Bio Spitzpaprika rot",
       "store": "billa",
-      "price": 1.7,
+      "price": 1.49,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.7
@@ -10620,10 +10628,6 @@
         {
           "date": "2026-07-31",
           "price": 1.28
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.7
         }
       ]
     },
@@ -10651,10 +10655,14 @@
     {
       "name": "Ja! Natürlich Bio Tellerlinsen",
       "store": "billa",
-      "price": 3.99,
+      "price": 2.91,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.91
+        },
         {
           "date": "2026-08-02",
           "price": 3.99
@@ -10662,10 +10670,27 @@
         {
           "date": "2026-07-31",
           "price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "Ja! Natürlich Bio Trauben 'Sultana' kernlos",
+      "store": "billa",
+      "price": 2.99,
+      "unit": "g",
+      "quantity": 500,
+      "priceHistory": [
+        {
+          "date": "2023-09-07",
+          "price": 2.99
         },
         {
-          "date": "2026-06-21",
-          "price": 3.99
+          "date": "2023-08-31",
+          "price": 2.49
+        },
+        {
+          "date": "2023-08-27",
+          "price": 2.65
         }
       ]
     },
@@ -11319,10 +11344,14 @@
     {
       "name": "Ja! Natürlich Butter",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.85,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.85
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -11330,10 +11359,6 @@
         {
           "date": "2026-08-27",
           "price": 1.99
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
@@ -11508,10 +11533,14 @@
     {
       "name": "Ja! Natürlich Champignon",
       "store": "billa",
-      "price": 2.85,
+      "price": 2.28,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.28
+        },
         {
           "date": "2026-08-02",
           "price": 2.85
@@ -11519,10 +11548,6 @@
         {
           "date": "2026-07-31",
           "price": 2.14
-        },
-        {
-          "date": "2026-07-01",
-          "price": 2.85
         }
       ]
     },
@@ -11655,10 +11680,14 @@
     {
       "name": "Ja! Natürlich Eier L",
       "store": "billa",
-      "price": 3.99,
+      "price": 2.99,
       "unit": "stk",
       "quantity": 6,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.99
+        },
         {
           "date": "2026-08-20",
           "price": 3.99
@@ -11666,10 +11695,6 @@
         {
           "date": "2026-08-13",
           "price": 2.85
-        },
-        {
-          "date": "2026-08-02",
-          "price": 3.99
         }
       ]
     },
@@ -11697,10 +11722,14 @@
     {
       "name": "Ja! Natürlich Emmentaler Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.39,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.39
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -11708,10 +11737,6 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
@@ -11739,10 +11764,14 @@
     {
       "name": "Ja! Natürlich Erdbeere Fruchtjoghurt",
       "store": "billa",
-      "price": 0.84,
+      "price": 0.81,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.81
+        },
         {
           "date": "2026-08-02",
           "price": 0.84
@@ -11750,20 +11779,20 @@
         {
           "date": "2026-07-31",
           "price": 0.63
-        },
-        {
-          "date": "2026-07-01",
-          "price": 0.84
         }
       ]
     },
     {
       "name": "Ja! Natürlich Erdbeere Fruchtjoghurt",
       "store": "billa",
-      "price": 1.61,
+      "price": 1.51,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.51
+        },
         {
           "date": "2026-08-02",
           "price": 1.61
@@ -11771,10 +11800,6 @@
         {
           "date": "2026-07-31",
           "price": 1.21
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.61
         }
       ]
     },
@@ -11844,10 +11869,14 @@
     {
       "name": "Ja! Natürlich Erdäpfelteig",
       "store": "billa",
-      "price": 2.89,
+      "price": 2.79,
       "unit": "g",
       "quantity": 290,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.79
+        },
         {
           "date": "2026-08-02",
           "price": 2.89
@@ -11855,20 +11884,20 @@
         {
           "date": "2026-07-31",
           "price": 2.17
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.89
         }
       ]
     },
     {
       "name": "Ja! Natürlich Espresso Intenso Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 6.74
+        },
         {
           "date": "2026-08-23",
           "price": 8.99
@@ -11876,10 +11905,6 @@
         {
           "date": "2026-08-21",
           "price": 6.74
-        },
-        {
-          "date": "2026-08-02",
-          "price": 8.99
         }
       ]
     },
@@ -11991,10 +12016,14 @@
     {
       "name": "Ja! Natürlich Frischkäse Kren",
       "store": "billa",
-      "price": 1.85,
+      "price": 1.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.85
@@ -12002,20 +12031,20 @@
         {
           "date": "2026-07-31",
           "price": 1.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.85
         }
       ]
     },
     {
       "name": "Ja! Natürlich Frischkäse Kräuter",
       "store": "billa",
-      "price": 1.85,
+      "price": 1.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.85
@@ -12023,20 +12052,20 @@
         {
           "date": "2026-07-31",
           "price": 1.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.85
         }
       ]
     },
     {
       "name": "Ja! Natürlich Frischkäse Natur",
       "store": "billa",
-      "price": 1.85,
+      "price": 1.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.85
@@ -12044,10 +12073,6 @@
         {
           "date": "2026-07-31",
           "price": 1.39
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.85
         }
       ]
     },
@@ -12117,10 +12142,14 @@
     {
       "name": "Ja! Natürlich Gouda Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.39,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.39
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -12128,20 +12157,20 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Gouda geräuchert Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.56,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.56
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -12149,10 +12178,6 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
@@ -12180,10 +12205,14 @@
     {
       "name": "Ja! Natürlich Grill- & Bratkäse",
       "store": "billa",
-      "price": 3.49,
+      "price": 3.19,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.19
+        },
         {
           "date": "2026-08-02",
           "price": 3.49
@@ -12191,10 +12220,6 @@
         {
           "date": "2026-07-31",
           "price": 2.62
-        },
-        {
-          "date": "2026-07-23",
-          "price": 3.49
         }
       ]
     },
@@ -12222,10 +12247,14 @@
     {
       "name": "Ja! Natürlich Hafer Drink",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.19,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.19
+        },
         {
           "date": "2026-08-02",
           "price": 1.79
@@ -12233,10 +12262,6 @@
         {
           "date": "2026-07-31",
           "price": 1.34
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.79
         }
       ]
     },
@@ -12264,10 +12289,14 @@
     {
       "name": "Ja! Natürlich Haferflocken Grob",
       "store": "billa",
-      "price": 1.39,
+      "price": 1.19,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.19
+        },
         {
           "date": "2026-08-02",
           "price": 1.39
@@ -12275,10 +12304,6 @@
         {
           "date": "2026-07-31",
           "price": 1.04
-        },
-        {
-          "date": "2026-06-21",
-          "price": 1.39
         }
       ]
     },
@@ -12306,10 +12331,14 @@
     {
       "name": "Ja! Natürlich Heidelbeere Fruchtjoghurt",
       "store": "billa",
-      "price": 0.84,
+      "price": 0.81,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.81
+        },
         {
           "date": "2026-08-02",
           "price": 0.84
@@ -12317,10 +12346,6 @@
         {
           "date": "2026-07-31",
           "price": 0.63
-        },
-        {
-          "date": "2026-07-01",
-          "price": 0.84
         }
       ]
     },
@@ -12369,10 +12394,14 @@
     {
       "name": "Ja! Natürlich Heumilchaufschnitt",
       "store": "billa",
-      "price": 3.19,
+      "price": 2.56,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.56
+        },
         {
           "date": "2026-09-10",
           "price": 3.19
@@ -12380,20 +12409,20 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 3.19
         }
       ]
     },
     {
       "name": "Ja! Natürlich Himbeere Fruchtjoghurt",
       "store": "billa",
-      "price": 0.84,
+      "price": 0.81,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.81
+        },
         {
           "date": "2026-08-02",
           "price": 0.84
@@ -12401,10 +12430,6 @@
         {
           "date": "2026-07-31",
           "price": 0.63
-        },
-        {
-          "date": "2026-07-01",
-          "price": 0.84
         }
       ]
     },
@@ -12432,10 +12457,14 @@
     {
       "name": "Ja! Natürlich Huhn-Innenfilet",
       "store": "billa",
-      "price": 33.99,
+      "price": 29.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 29.99
+        },
         {
           "date": "2026-08-02",
           "price": 33.99
@@ -12443,10 +12472,6 @@
         {
           "date": "2026-07-31",
           "price": 25.49
-        },
-        {
-          "date": "2026-07-28",
-          "price": 33.99
         }
       ]
     },
@@ -12474,10 +12499,14 @@
     {
       "name": "Ja! Natürlich Hummus Natur",
       "store": "billa",
-      "price": 2.15,
+      "price": 1.79,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-08-02",
           "price": 2.15
@@ -12485,20 +12514,20 @@
         {
           "date": "2026-07-31",
           "price": 1.61
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.15
         }
       ]
     },
     {
       "name": "Ja! Natürlich Hummus Tomate",
       "store": "billa",
-      "price": 2.15,
+      "price": 1.79,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-08-02",
           "price": 2.15
@@ -12506,20 +12535,20 @@
         {
           "date": "2026-07-31",
           "price": 1.61
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.15
         }
       ]
     },
     {
       "name": "Ja! Natürlich Hüftsteak vom Rind",
       "store": "billa",
-      "price": 42.99,
+      "price": 38.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 38.99
+        },
         {
           "date": "2026-08-30",
           "price": 42.99
@@ -12527,20 +12556,20 @@
         {
           "date": "2025-02-24",
           "price": 28.49
-        },
-        {
-          "date": "2025-01-05",
-          "price": 37.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Hühner-Schnitzel",
       "store": "billa",
-      "price": 33.99,
+      "price": 29.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 29.99
+        },
         {
           "date": "2026-08-02",
           "price": 33.99
@@ -12548,10 +12577,6 @@
         {
           "date": "2026-07-31",
           "price": 25.49
-        },
-        {
-          "date": "2026-07-28",
-          "price": 33.99
         }
       ]
     },
@@ -12705,10 +12730,14 @@
     {
       "name": "Ja! Natürlich Joghurt Natur 3.6%",
       "store": "billa",
-      "price": 1.19,
+      "price": 1.13,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.13
+        },
         {
           "date": "2026-08-02",
           "price": 1.19
@@ -12716,20 +12745,20 @@
         {
           "date": "2026-07-31",
           "price": 0.89
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.19
         }
       ]
     },
     {
       "name": "Ja! Natürlich Joghurt Natur mild 1%",
       "store": "billa",
-      "price": 1.19,
+      "price": 1.13,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.13
+        },
         {
           "date": "2026-08-02",
           "price": 1.19
@@ -12737,10 +12766,6 @@
         {
           "date": "2026-07-31",
           "price": 0.89
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.19
         }
       ]
     },
@@ -12789,10 +12814,14 @@
     {
       "name": "Ja! Natürlich Joghurtbutter",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.85,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.85
+        },
         {
           "date": "2026-08-02",
           "price": 2.99
@@ -12800,20 +12829,20 @@
         {
           "date": "2026-07-31",
           "price": 2.24
-        },
-        {
-          "date": "2026-07-30",
-          "price": 2.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Junge Erbsen",
       "store": "billa",
-      "price": 4.14,
+      "price": 3.7,
       "unit": "g",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.7
+        },
         {
           "date": "2026-08-02",
           "price": 4.14
@@ -12821,20 +12850,20 @@
         {
           "date": "2026-07-31",
           "price": 3.11
-        },
-        {
-          "date": "2026-07-19",
-          "price": 4.14
         }
       ]
     },
     {
       "name": "Ja! Natürlich Kaffee Crema Ganze Bohne",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.74,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 6.74
+        },
         {
           "date": "2026-08-23",
           "price": 8.99
@@ -12842,20 +12871,20 @@
         {
           "date": "2026-08-21",
           "price": 6.74
-        },
-        {
-          "date": "2026-08-02",
-          "price": 8.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Karotten",
       "store": "billa",
-      "price": 2.08,
+      "price": 1.98,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.98
+        },
         {
           "date": "2026-08-02",
           "price": 2.08
@@ -12863,10 +12892,6 @@
         {
           "date": "2026-07-31",
           "price": 1.56
-        },
-        {
-          "date": "2026-07-22",
-          "price": 2.08
         }
       ]
     },
@@ -12999,10 +13024,14 @@
     {
       "name": "Ja! Natürlich Käsekrainer",
       "store": "billa",
-      "price": 4.69,
+      "price": 3.99,
       "unit": "g",
       "quantity": 280,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.99
+        },
         {
           "date": "2026-08-02",
           "price": 4.69
@@ -13010,10 +13039,6 @@
         {
           "date": "2026-07-31",
           "price": 3.52
-        },
-        {
-          "date": "2026-06-21",
-          "price": 4.69
         }
       ]
     },
@@ -13104,10 +13129,14 @@
     {
       "name": "Ja! Natürlich Leberstreichwurst",
       "store": "billa",
-      "price": 2.25,
+      "price": 1.99,
       "unit": "g",
       "quantity": 115,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.99
+        },
         {
           "date": "2026-08-02",
           "price": 2.25
@@ -13115,20 +13144,20 @@
         {
           "date": "2026-07-31",
           "price": 1.69
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.25
         }
       ]
     },
     {
       "name": "Ja! Natürlich Leichter Bio-Genuss Schinken",
       "store": "billa",
-      "price": 3.49,
+      "price": 3.29,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 3.29
+        },
         {
           "date": "2026-09-17",
           "price": 3.49
@@ -13136,10 +13165,6 @@
         {
           "date": "2026-09-10",
           "price": 2.59
-        },
-        {
-          "date": "2026-08-06",
-          "price": 3.49
         }
       ]
     },
@@ -13167,10 +13192,14 @@
     {
       "name": "Ja! Natürlich Leichtmilch länger frisch 0.9%",
       "store": "billa",
-      "price": 1.66,
+      "price": 1.61,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.61
+        },
         {
           "date": "2026-08-02",
           "price": 1.66
@@ -13178,10 +13207,6 @@
         {
           "date": "2026-07-31",
           "price": 1.25
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.66
         }
       ]
     },
@@ -13272,10 +13297,14 @@
     {
       "name": "Ja! Natürlich Mango Fruchtjoghurt",
       "store": "billa",
-      "price": 1.61,
+      "price": 1.51,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.51
+        },
         {
           "date": "2026-08-02",
           "price": 1.61
@@ -13283,20 +13312,20 @@
         {
           "date": "2026-07-31",
           "price": 1.21
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.61
         }
       ]
     },
     {
       "name": "Ja! Natürlich Marille Fruchtjoghurt",
       "store": "billa",
-      "price": 0.84,
+      "price": 0.81,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.81
+        },
         {
           "date": "2026-08-02",
           "price": 0.84
@@ -13304,10 +13333,6 @@
         {
           "date": "2026-07-31",
           "price": 0.63
-        },
-        {
-          "date": "2026-07-01",
-          "price": 0.84
         }
       ]
     },
@@ -13516,10 +13541,14 @@
     {
       "name": "Ja! Natürlich Puten Geschnetzeltes",
       "store": "billa",
-      "price": 36.99,
+      "price": 35.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 35.99
+        },
         {
           "date": "2026-08-02",
           "price": 36.99
@@ -13527,10 +13556,6 @@
         {
           "date": "2026-07-31",
           "price": 27.74
-        },
-        {
-          "date": "2026-06-21",
-          "price": 36.99
         }
       ]
     },
@@ -13558,10 +13583,14 @@
     {
       "name": "Ja! Natürlich Puten-Schnitzel 2 Stk.",
       "store": "billa",
-      "price": 39.99,
+      "price": 36.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 36.99
+        },
         {
           "date": "2026-08-02",
           "price": 39.99
@@ -13569,20 +13598,20 @@
         {
           "date": "2026-07-31",
           "price": 29.99
-        },
-        {
-          "date": "2026-06-21",
-          "price": 39.99
         }
       ]
     },
     {
       "name": "Ja! Natürlich Putenbrust",
       "store": "billa",
-      "price": 38.99,
+      "price": 34.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 34.99
+        },
         {
           "date": "2026-08-02",
           "price": 38.99
@@ -13590,10 +13619,6 @@
         {
           "date": "2026-07-31",
           "price": 29.24
-        },
-        {
-          "date": "2026-06-21",
-          "price": 38.99
         }
       ]
     },
@@ -13659,10 +13684,14 @@
     {
       "name": "Ja! Natürlich Rinderfaschiertes",
       "store": "billa",
-      "price": 8.99,
+      "price": 6.29,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 6.29
+        },
         {
           "date": "2026-08-02",
           "price": 8.99
@@ -13670,10 +13699,6 @@
         {
           "date": "2026-07-31",
           "price": 6.74
-        },
-        {
-          "date": "2026-06-21",
-          "price": 8.99
         }
       ]
     },
@@ -13806,20 +13831,20 @@
     {
       "name": "Ja! Natürlich Rindsminutensteak",
       "store": "billa",
-      "price": 39.99,
+      "price": 27.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
         {
-          "date": "2026-09-17",
-          "price": 39.99
+          "date": "2026-09-24",
+          "price": 27.99
         },
         {
-          "date": "2026-09-10",
+          "date": "2026-09-23",
           "price": 29.99
         },
         {
-          "date": "2026-09-03",
+          "date": "2026-09-17",
           "price": 39.99
         }
       ]
@@ -13869,10 +13894,14 @@
     {
       "name": "Ja! Natürlich Rumpsteak (Beiried) geschnitten",
       "store": "billa",
-      "price": 46.99,
+      "price": 38.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 38.99
+        },
         {
           "date": "2026-08-22",
           "price": 46.99
@@ -13880,20 +13909,20 @@
         {
           "date": "2026-08-02",
           "price": 38.99
-        },
-        {
-          "date": "2025-02-24",
-          "price": 29.24
         }
       ]
     },
     {
       "name": "Ja! Natürlich Salaterdäpfel festkochend",
       "store": "billa",
-      "price": 1.7,
+      "price": 1.79,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.79
+        },
         {
           "date": "2026-09-17",
           "price": 1.7
@@ -13901,10 +13930,6 @@
         {
           "date": "2026-08-16",
           "price": 1.89
-        },
-        {
-          "date": "2026-08-09",
-          "price": 1.8
         }
       ]
     },
@@ -14037,10 +14062,14 @@
     {
       "name": "Ja! Natürlich Schafschnittkäse Natur",
       "store": "billa",
-      "price": 4.69,
+      "price": 4.12,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 4.12
+        },
         {
           "date": "2025-10-29",
           "price": 4.69
@@ -14050,10 +14079,14 @@
     {
       "name": "Ja! Natürlich Schafschnittkäse Pfeffer",
       "store": "billa",
-      "price": 4.69,
+      "price": 4.12,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 4.12
+        },
         {
           "date": "2025-10-29",
           "price": 4.69
@@ -14105,10 +14138,14 @@
     {
       "name": "Ja! Natürlich Schnitzel vom Jungrind",
       "store": "billa",
-      "price": 36.99,
+      "price": 29.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-23",
+          "price": 29.99
+        },
         {
           "date": "2026-08-22",
           "price": 36.99
@@ -14116,10 +14153,6 @@
         {
           "date": "2026-08-02",
           "price": 28.99
-        },
-        {
-          "date": "2026-07-31",
-          "price": 21.74
         }
       ]
     },
@@ -14399,10 +14432,14 @@
     {
       "name": "Ja! Natürlich Streichfein",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.85,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.85
+        },
         {
           "date": "2026-08-02",
           "price": 2.99
@@ -14410,10 +14447,6 @@
         {
           "date": "2026-07-31",
           "price": 2.24
-        },
-        {
-          "date": "2026-07-30",
-          "price": 2.99
         }
       ]
     },
@@ -14473,27 +14506,6 @@
       ]
     },
     {
-      "name": "Ja! Natürlich Sultana Trauben kernlos aus Griechenland /  Zypern",
-      "store": "billa",
-      "price": 2.99,
-      "unit": "g",
-      "quantity": 500,
-      "priceHistory": [
-        {
-          "date": "2023-09-07",
-          "price": 2.99
-        },
-        {
-          "date": "2023-08-31",
-          "price": 2.49
-        },
-        {
-          "date": "2023-08-27",
-          "price": 2.65
-        }
-      ]
-    },
-    {
       "name": "Ja! Natürlich Süßkartoffel lose",
       "store": "billa",
       "price": 4.99,
@@ -14530,10 +14542,14 @@
     {
       "name": "Ja! Natürlich Tilsiter Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.56,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.56
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -14541,10 +14557,6 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
         }
       ]
     },
@@ -14593,10 +14605,14 @@
     {
       "name": "Ja! Natürlich Toastkäse Scheiben",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.79,
       "unit": "g",
       "quantity": 175,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.79
+        },
         {
           "date": "2026-09-10",
           "price": 2.99
@@ -14604,31 +14620,6 @@
         {
           "date": "2026-08-27",
           "price": 2.29
-        },
-        {
-          "date": "2026-08-13",
-          "price": 2.99
-        }
-      ]
-    },
-    {
-      "name": "Ja! Natürlich Trauben weiß kernlos",
-      "store": "billa",
-      "price": 3.79,
-      "unit": "g",
-      "quantity": 500,
-      "priceHistory": [
-        {
-          "date": "2025-07-08",
-          "price": 3.79
-        },
-        {
-          "date": "2025-07-07",
-          "price": 3.99
-        },
-        {
-          "date": "2025-06-30",
-          "price": 2.99
         }
       ]
     },
@@ -14677,10 +14668,14 @@
     {
       "name": "Ja! Natürlich Vanille Fruchtjoghurt",
       "store": "billa",
-      "price": 0.84,
+      "price": 0.81,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.81
+        },
         {
           "date": "2026-08-02",
           "price": 0.84
@@ -14688,10 +14683,6 @@
         {
           "date": "2026-07-31",
           "price": 0.63
-        },
-        {
-          "date": "2026-07-01",
-          "price": 0.84
         }
       ]
     },
@@ -14740,10 +14731,14 @@
     {
       "name": "Ja! Natürlich Vollmilch länger frisch 3.5%",
       "store": "billa",
-      "price": 1.8,
+      "price": 1.7,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.7
+        },
         {
           "date": "2026-08-02",
           "price": 1.8
@@ -14751,10 +14746,6 @@
         {
           "date": "2026-07-31",
           "price": 1.35
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.8
         }
       ]
     },
@@ -14824,10 +14815,14 @@
     {
       "name": "Ja! Natürlich Weidegenussrind Faschiertes",
       "store": "billa",
-      "price": 16.99,
+      "price": 12.19,
       "unit": "g",
       "quantity": 700,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 12.19
+        },
         {
           "date": "2026-08-02",
           "price": 16.99
@@ -14835,10 +14830,6 @@
         {
           "date": "2026-07-31",
           "price": 12.74
-        },
-        {
-          "date": "2026-06-21",
-          "price": 16.99
         }
       ]
     },
@@ -15013,10 +15004,14 @@
     {
       "name": "Ja! Natürlich Weizenmehl Glatt",
       "store": "billa",
-      "price": 1.51,
+      "price": 1.23,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.23
+        },
         {
           "date": "2026-08-02",
           "price": 1.51
@@ -15024,20 +15019,20 @@
         {
           "date": "2026-07-31",
           "price": 1.13
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.51
         }
       ]
     },
     {
       "name": "Ja! Natürlich Weizenmehl Universal",
       "store": "billa",
-      "price": 1.51,
+      "price": 1.23,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.23
+        },
         {
           "date": "2026-07-01",
           "price": 1.51
@@ -15045,20 +15040,20 @@
         {
           "date": "2026-06-21",
           "price": 1.59
-        },
-        {
-          "date": "2026-06-20",
-          "price": 1.19
         }
       ]
     },
     {
       "name": "Ja! Natürlich Weizenvollkornmehl",
       "store": "billa",
-      "price": 1.51,
+      "price": 1.23,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.23
+        },
         {
           "date": "2026-08-02",
           "price": 1.51
@@ -15066,10 +15061,6 @@
         {
           "date": "2026-07-31",
           "price": 1.13
-        },
-        {
-          "date": "2026-07-01",
-          "price": 1.51
         }
       ]
     },
@@ -15097,10 +15088,14 @@
     {
       "name": "Ja! Natürlich Ziegenfrischkäse",
       "store": "billa",
-      "price": 2.69,
+      "price": 2.66,
       "unit": "g",
       "quantity": 140,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 2.66
+        },
         {
           "date": "2026-08-02",
           "price": 2.69
@@ -15108,10 +15103,6 @@
         {
           "date": "2026-07-31",
           "price": 2.02
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.69
         }
       ]
     },
@@ -15286,10 +15277,14 @@
     {
       "name": "Ja! Natürlich Zucchini",
       "store": "billa",
-      "price": 1.51,
+      "price": 0.99,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 0.99
+        },
         {
           "date": "2026-08-27",
           "price": 1.51
@@ -15297,10 +15292,6 @@
         {
           "date": "2026-08-06",
           "price": 1.23
-        },
-        {
-          "date": "2026-08-02",
-          "price": 1.51
         }
       ]
     },
@@ -15349,10 +15340,14 @@
     {
       "name": "Ja! Natürlich Zwiebel gelb",
       "store": "billa",
-      "price": 1.76,
+      "price": 1.49,
       "unit": "g",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.76
@@ -15360,20 +15355,20 @@
         {
           "date": "2026-07-31",
           "price": 1.32
-        },
-        {
-          "date": "2026-07-14",
-          "price": 1.76
         }
       ]
     },
     {
       "name": "Ja! Natürlich Zwiebel rot",
       "store": "billa",
-      "price": 1.89,
+      "price": 1.49,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.49
+        },
         {
           "date": "2026-08-02",
           "price": 1.89
@@ -15381,10 +15376,6 @@
         {
           "date": "2026-07-31",
           "price": 1.42
-        },
-        {
-          "date": "2026-07-14",
-          "price": 1.89
         }
       ]
     },
@@ -15559,10 +15550,14 @@
     {
       "name": "Julius Meinl Espresso Inspresso Kapseln kompostierbar",
       "store": "billa",
-      "price": 4.99,
+      "price": 3.74,
       "unit": "g",
       "quantity": 56,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 3.74
+        },
         {
           "date": "2026-09-10",
           "price": 4.99
@@ -15570,10 +15565,6 @@
         {
           "date": "2026-08-27",
           "price": 3.32
-        },
-        {
-          "date": "2026-08-23",
-          "price": 4.99
         }
       ]
     },
@@ -15933,10 +15924,14 @@
     {
       "name": "Lavazza ¡Tierra! for Planet Ganze Bohne",
       "store": "billa",
-      "price": 32.99,
+      "price": 24.74,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 24.74
+        },
         {
           "date": "2026-09-10",
           "price": 32.99
@@ -15944,10 +15939,6 @@
         {
           "date": "2026-08-27",
           "price": 24.99
-        },
-        {
-          "date": "2026-08-23",
-          "price": 32.99
         }
       ]
     },
@@ -17127,10 +17118,14 @@
     {
       "name": "Oatly Haferdrink Bio",
       "store": "billa",
-      "price": 2.79,
+      "price": 1.99,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 1.99
+        },
         {
           "date": "2026-08-27",
           "price": 2.79
@@ -17138,10 +17133,6 @@
         {
           "date": "2026-08-13",
           "price": 1.99
-        },
-        {
-          "date": "2026-07-16",
-          "price": 2.79
         }
       ]
     },
@@ -18907,10 +18898,18 @@
     {
       "name": "Segafredo Barista Organico Bohne",
       "store": "billa",
-      "price": 12,
+      "price": 8.99,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-09-25",
+          "price": 8.99
+        },
+        {
+          "date": "2026-09-19",
+          "price": 11.99
+        },
         {
           "date": "2026-09-01",
           "price": 12
@@ -36787,10 +36786,14 @@
     {
       "name": "SPAR Natur*pur Bio-Lachsfilet",
       "store": "spar",
-      "price": 39.9,
+      "price": 64.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 64.9
+        },
         {
           "date": "2026-09-17",
           "price": 39.9
@@ -36798,10 +36801,6 @@
         {
           "date": "2026-08-27",
           "price": 64.9
-        },
-        {
-          "date": "2026-08-13",
-          "price": 54.9
         }
       ]
     },
@@ -38042,10 +38041,14 @@
     {
       "name": "SPAR Natur*pur Bio-Rahm-Tilsiter aus Wiesenmilch",
       "store": "spar",
-      "price": 20.9,
+      "price": 15.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-09-24",
+          "price": 15.9
+        },
         {
           "date": "2026-04-06",
           "price": 20.9
@@ -38053,10 +38056,6 @@
         {
           "date": "2026-03-12",
           "price": 21.9
-        },
-        {
-          "date": "2026-03-05",
-          "price": 16.9
         }
       ]
     },
@@ -39008,6 +39007,19 @@
         {
           "date": "2023-08-08",
           "price": 1.85
+        }
+      ]
+    },
+    {
+      "name": "SPAR Natur*pur Bio-Skyr-Drink Apfel-Beere",
+      "store": "spar",
+      "price": 1.29,
+      "unit": "l",
+      "quantity": 0.33,
+      "priceHistory": [
+        {
+          "date": "2025-05-14",
+          "price": 1.29
         }
       ]
     }
