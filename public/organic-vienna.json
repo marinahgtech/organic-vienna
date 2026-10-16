@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:39:00.386Z",
+  "generatedAt": "2026-10-16T09:29:19.935Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -2648,10 +2648,14 @@
     {
       "name": "BILLA Bio Ei Aufstrich",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.69,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 1.69
+        },
         {
           "date": "2026-09-24",
           "price": 1.79
@@ -2659,10 +2663,6 @@
         {
           "date": "2026-08-02",
           "price": 2.69
-        },
-        {
-          "date": "2026-07-31",
-          "price": 2.02
         }
       ]
     },
@@ -2900,10 +2900,14 @@
     {
       "name": "BILLA Bio Graved Lachs",
       "store": "billa",
-      "price": 6.99,
+      "price": 4.99,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 4.99
+        },
         {
           "date": "2026-08-09",
           "price": 6.99
@@ -2911,10 +2915,6 @@
         {
           "date": "2026-08-02",
           "price": 4.99
-        },
-        {
-          "date": "2026-07-31",
-          "price": 3.74
         }
       ]
     },
@@ -11230,10 +11230,14 @@
     {
       "name": "Ja! Natürlich Blattspinat Minis",
       "store": "billa",
-      "price": 2.85,
+      "price": 3.48,
       "unit": "g",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 3.48
+        },
         {
           "date": "2026-10-08",
           "price": 2.85
@@ -11241,10 +11245,6 @@
         {
           "date": "2026-08-02",
           "price": 3.48
-        },
-        {
-          "date": "2026-07-31",
-          "price": 2.61
         }
       ]
     },
@@ -11335,10 +11335,14 @@
     {
       "name": "Ja! Natürlich Butter",
       "store": "billa",
-      "price": 2.85,
+      "price": 1.99,
       "unit": "g",
       "quantity": 250,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 1.99
+        },
         {
           "date": "2026-09-24",
           "price": 2.85
@@ -11346,10 +11350,6 @@
         {
           "date": "2026-09-10",
           "price": 2.99
-        },
-        {
-          "date": "2026-08-27",
-          "price": 1.99
         }
       ]
     },
@@ -15276,10 +15276,14 @@
     {
       "name": "Ja! Natürlich Zucchini",
       "store": "billa",
-      "price": 0.99,
+      "price": 0.79,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 0.79
+        },
         {
           "date": "2026-09-24",
           "price": 0.99
@@ -15287,10 +15291,6 @@
         {
           "date": "2026-08-27",
           "price": 1.51
-        },
-        {
-          "date": "2026-08-06",
-          "price": 1.23
         }
       ]
     },
@@ -15339,10 +15339,14 @@
     {
       "name": "Ja! Natürlich Zwiebel gelb",
       "store": "billa",
-      "price": 1.29,
+      "price": 1.49,
       "unit": "g",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 1.49
+        },
         {
           "date": "2026-10-08",
           "price": 1.29
@@ -15350,10 +15354,6 @@
         {
           "date": "2026-09-24",
           "price": 1.49
-        },
-        {
-          "date": "2026-08-02",
-          "price": 1.76
         }
       ]
     },
@@ -15717,10 +15717,14 @@
     {
       "name": "Kombuchery Kombucha Orange",
       "store": "billa",
-      "price": 1.69,
+      "price": 1.29,
       "unit": "ml",
       "quantity": 400,
       "priceHistory": [
+        {
+          "date": "2026-10-15",
+          "price": 1.29
+        },
         {
           "date": "2026-08-20",
           "price": 1.69
@@ -19015,17 +19019,21 @@
     {
       "name": "Sonnenschein Bio Ajvar Delikatesse",
       "store": "billa",
-      "price": 6.49,
+      "price": 5.49,
       "unit": "g",
       "quantity": 200,
       "priceHistory": [
         {
-          "date": "2026-05-11",
-          "price": 6.49
+          "date": "2026-10-15",
+          "price": 5.49
         },
         {
-          "date": "2026-03-26",
-          "price": 5.99
+          "date": "2026-10-14",
+          "price": 2.75
+        },
+        {
+          "date": "2026-05-11",
+          "price": 6.49
         }
       ]
     },
