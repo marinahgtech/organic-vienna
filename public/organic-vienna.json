@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:44:25.009Z",
+  "generatedAt": "2026-10-30T11:10:20.164Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -10,10 +10,14 @@
     {
       "name": "A&H Nittnaus Heideboden Rot",
       "store": "billa",
-      "price": 14.99,
+      "price": 11.24,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 11.24
+        },
         {
           "date": "2026-03-29",
           "price": 14.99
@@ -21,10 +25,6 @@
         {
           "date": "2026-03-27",
           "price": 11.24
-        },
-        {
-          "date": "2026-01-01",
-          "price": 14.99
         }
       ]
     },
@@ -2598,10 +2598,14 @@
     {
       "name": "BILLA Bio Dinkel Backerbsen",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.69,
       "unit": "g",
       "quantity": 125,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 1.69
+        },
         {
           "date": "2026-08-02",
           "price": 1.79
@@ -2609,10 +2613,6 @@
         {
           "date": "2026-07-31",
           "price": 1.34
-        },
-        {
-          "date": "2026-07-26",
-          "price": 1.79
         }
       ]
     },
@@ -2892,10 +2892,14 @@
     {
       "name": "BILLA Bio Granatapfel",
       "store": "billa",
-      "price": 3.49,
+      "price": 2.99,
       "unit": "stk",
       "quantity": 1,
       "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 2.99
+        },
         {
           "date": "2026-03-01",
           "price": 3.49
@@ -2903,20 +2907,20 @@
         {
           "date": "2026-02-27",
           "price": 2.62
-        },
-        {
-          "date": "2026-02-22",
-          "price": 3.49
         }
       ]
     },
     {
       "name": "BILLA Bio Graved Lachs",
       "store": "billa",
-      "price": 4.99,
+      "price": 6.99,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 6.99
+        },
         {
           "date": "2026-10-15",
           "price": 4.99
@@ -2924,10 +2928,6 @@
         {
           "date": "2026-08-09",
           "price": 6.99
-        },
-        {
-          "date": "2026-08-02",
-          "price": 4.99
         }
       ]
     },
@@ -7586,10 +7586,14 @@
     {
       "name": "Gsellmann Andreas Blauer Zweigelt",
       "store": "billa",
-      "price": 9.99,
+      "price": 7.49,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 7.49
+        },
         {
           "date": "2026-03-29",
           "price": 9.99
@@ -7597,10 +7601,6 @@
         {
           "date": "2026-03-27",
           "price": 7.49
-        },
-        {
-          "date": "2026-01-01",
-          "price": 9.99
         }
       ]
     },
@@ -10525,10 +10525,14 @@
     {
       "name": "Ja! Natürlich Bio Salaterdäpfel festkochend",
       "store": "billa",
-      "price": 2.24,
+      "price": 3.32,
       "unit": "g",
       "quantity": 1500,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 3.32
+        },
         {
           "date": "2026-06-20",
           "price": 2.24
@@ -10536,10 +10540,6 @@
         {
           "date": "2026-04-12",
           "price": 2.99
-        },
-        {
-          "date": "2026-04-10",
-          "price": 2.24
         }
       ]
     },
@@ -11130,10 +11130,14 @@
     {
       "name": "Ja! Natürlich Bio-Seeforelle geräuchert",
       "store": "billa",
-      "price": 75.99,
+      "price": 79.9,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-10-27",
+          "price": 79.9
+        },
         {
           "date": "2026-08-02",
           "price": 75.99
@@ -11141,10 +11145,6 @@
         {
           "date": "2026-07-31",
           "price": 56.99
-        },
-        {
-          "date": "2026-06-21",
-          "price": 78.9
         }
       ]
     },
@@ -11277,10 +11277,14 @@
     {
       "name": "Ja! Natürlich Blauer Zweigelt",
       "store": "billa",
-      "price": 7.49,
+      "price": 5.62,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 5.62
+        },
         {
           "date": "2026-08-02",
           "price": 7.49
@@ -11288,10 +11292,6 @@
         {
           "date": "2026-07-31",
           "price": 5.62
-        },
-        {
-          "date": "2026-06-21",
-          "price": 7.49
         }
       ]
     },
@@ -11718,10 +11718,14 @@
     {
       "name": "Ja! Natürlich Eierspätzle",
       "store": "billa",
-      "price": 2.79,
+      "price": 2.49,
       "unit": "g",
       "quantity": 300,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 2.49
+        },
         {
           "date": "2026-09-03",
           "price": 2.79
@@ -11729,10 +11733,6 @@
         {
           "date": "2026-08-27",
           "price": 1.99
-        },
-        {
-          "date": "2026-08-02",
-          "price": 2.79
         }
       ]
     },
@@ -12852,10 +12852,14 @@
     {
       "name": "Ja! Natürlich Junge Erbsen",
       "store": "billa",
-      "price": 3.7,
+      "price": 3.49,
       "unit": "g",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 3.49
+        },
         {
           "date": "2026-09-24",
           "price": 3.7
@@ -12863,10 +12867,6 @@
         {
           "date": "2026-08-02",
           "price": 4.14
-        },
-        {
-          "date": "2026-07-31",
-          "price": 3.11
         }
       ]
     },
@@ -13440,10 +13440,14 @@
     {
       "name": "Ja! Natürlich Orangen",
       "store": "billa",
-      "price": 3.99,
+      "price": 3.49,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-10-28",
+          "price": 3.49
+        },
         {
           "date": "2026-09-01",
           "price": 3.99
@@ -13451,10 +13455,6 @@
         {
           "date": "2026-08-02",
           "price": 3.49
-        },
-        {
-          "date": "2026-07-31",
-          "price": 2.62
         }
       ]
     },
@@ -13701,10 +13701,14 @@
     {
       "name": "Ja! Natürlich Rinderfaschiertes",
       "store": "billa",
-      "price": 6.29,
+      "price": 6.28,
       "unit": "g",
       "quantity": 360,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 6.28
+        },
         {
           "date": "2026-09-24",
           "price": 6.29
@@ -13712,10 +13716,6 @@
         {
           "date": "2026-08-02",
           "price": 8.99
-        },
-        {
-          "date": "2026-07-31",
-          "price": 6.74
         }
       ]
     },
@@ -15344,10 +15344,14 @@
     {
       "name": "Ja! Natürlich Zweigelt Rosé",
       "store": "billa",
-      "price": 6.49,
+      "price": 4.87,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 4.87
+        },
         {
           "date": "2026-08-02",
           "price": 6.49
@@ -15355,10 +15359,6 @@
         {
           "date": "2026-07-31",
           "price": 4.87
-        },
-        {
-          "date": "2026-06-21",
-          "price": 6.49
         }
       ]
     },
@@ -17492,10 +17492,14 @@
     {
       "name": "Pittnauer Zweigelt Heideboden",
       "store": "billa",
-      "price": 9.99,
+      "price": 7.49,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 7.49
+        },
         {
           "date": "2026-03-29",
           "price": 9.99
@@ -17503,10 +17507,6 @@
         {
           "date": "2026-03-27",
           "price": 7.49
-        },
-        {
-          "date": "2026-01-01",
-          "price": 9.99
         }
       ]
     },
@@ -18385,10 +18385,14 @@
     {
       "name": "Rorax Bio-Rohrfrei Powergel",
       "store": "billa",
-      "price": 3.67,
+      "price": 4.89,
       "unit": "ml",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 4.89
+        },
         {
           "date": "2026-10-22",
           "price": 3.67
@@ -18396,10 +18400,6 @@
         {
           "date": "2026-09-13",
           "price": 4.89
-        },
-        {
-          "date": "2026-09-11",
-          "price": 3.67
         }
       ]
     },
@@ -19465,10 +19465,14 @@
     {
       "name": "Teekanne Harmonie Atme Dich frei",
       "store": "billa",
-      "price": 2.93,
+      "price": 4.19,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 4.19
+        },
         {
           "date": "2026-10-23",
           "price": 2.93
@@ -19476,20 +19480,20 @@
         {
           "date": "2026-02-22",
           "price": 4.19
-        },
-        {
-          "date": "2026-02-20",
-          "price": 3.14
         }
       ]
     },
     {
       "name": "Teekanne Harmonie Magenfein",
       "store": "billa",
-      "price": 2.93,
+      "price": 4.19,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 4.19
+        },
         {
           "date": "2026-10-23",
           "price": 2.93
@@ -19497,10 +19501,6 @@
         {
           "date": "2026-02-22",
           "price": 4.19
-        },
-        {
-          "date": "2026-02-20",
-          "price": 3.14
         }
       ]
     },
@@ -19549,10 +19549,14 @@
     {
       "name": "Teekanne Kräutergarten Brennessel und Zitronengras",
       "store": "billa",
-      "price": 2.37,
+      "price": 3.39,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 3.39
+        },
         {
           "date": "2026-10-23",
           "price": 2.37
@@ -19560,20 +19564,20 @@
         {
           "date": "2026-02-22",
           "price": 3.39
-        },
-        {
-          "date": "2026-02-20",
-          "price": 2.54
         }
       ]
     },
     {
       "name": "Teekanne Kräutergarten Gartensalbei",
       "store": "billa",
-      "price": 2.37,
+      "price": 3.39,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-10-25",
+          "price": 3.39
+        },
         {
           "date": "2026-10-23",
           "price": 2.37
@@ -19581,10 +19585,6 @@
         {
           "date": "2026-02-22",
           "price": 3.39
-        },
-        {
-          "date": "2026-02-20",
-          "price": 2.54
         }
       ]
     },
@@ -19612,10 +19612,14 @@
     {
       "name": "Toifl Blauer Zweigelt Geo",
       "store": "billa",
-      "price": 7.99,
+      "price": 5.99,
       "unit": "ml",
       "quantity": 750,
       "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 5.99
+        },
         {
           "date": "2026-03-29",
           "price": 7.99
@@ -19623,10 +19627,6 @@
         {
           "date": "2026-03-27",
           "price": 5.99
-        },
-        {
-          "date": "2026-01-01",
-          "price": 7.99
         }
       ]
     },
@@ -20503,10 +20503,14 @@
     {
       "name": "Willi Dungl Ingwer-Zitrone Tee",
       "store": "billa",
-      "price": 3.99,
+      "price": 4.79,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 4.79
+        },
         {
           "date": "2026-10-22",
           "price": 3.99
@@ -20514,10 +20518,6 @@
         {
           "date": "2026-10-09",
           "price": 3.79
-        },
-        {
-          "date": "2026-05-07",
-          "price": 4.79
         }
       ]
     },
