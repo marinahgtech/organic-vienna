@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:42:38.783Z",
+  "generatedAt": "2026-11-13T12:51:16.846Z",
   "count": 2000,
   "stores": [
     "billa",
@@ -2997,10 +2997,14 @@
     {
       "name": "BILLA Bio Grüner Tee Zitronengras-Ingwer",
       "store": "billa",
-      "price": 1.59,
+      "price": 1.19,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 1.19
+        },
         {
           "date": "2026-09-24",
           "price": 1.59
@@ -3008,10 +3012,6 @@
         {
           "date": "2026-08-02",
           "price": 2.29
-        },
-        {
-          "date": "2026-07-31",
-          "price": 1.72
         }
       ]
     },
@@ -4645,10 +4645,14 @@
     {
       "name": "BILLA Bio Salbeitee",
       "store": "billa",
-      "price": 2.29,
+      "price": 1.72,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 1.72
+        },
         {
           "date": "2026-08-02",
           "price": 2.29
@@ -4656,10 +4660,6 @@
         {
           "date": "2026-07-31",
           "price": 1.72
-        },
-        {
-          "date": "2026-06-21",
-          "price": 2.29
         }
       ]
     },
@@ -4792,10 +4792,14 @@
     {
       "name": "BILLA Bio Tomaten",
       "store": "billa",
-      "price": 2.99,
+      "price": 2.66,
       "unit": "g",
       "quantity": 600,
       "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 2.66
+        },
         {
           "date": "2026-04-17",
           "price": 2.99
@@ -4803,10 +4807,6 @@
         {
           "date": "2026-04-12",
           "price": 2.79
-        },
-        {
-          "date": "2026-04-10",
-          "price": 2.09
         }
       ]
     },
@@ -6393,10 +6393,14 @@
     {
       "name": "EZA Espresso Organico Ganze Bohne",
       "store": "billa",
-      "price": 27.99,
+      "price": 20.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 20.99
+        },
         {
           "date": "2026-09-27",
           "price": 27.99
@@ -6404,10 +6408,6 @@
         {
           "date": "2026-09-25",
           "price": 20.99
-        },
-        {
-          "date": "2026-08-23",
-          "price": 27.99
         }
       ]
     },
@@ -6435,10 +6435,14 @@
     {
       "name": "English Tea Shop Super Beeren lose",
       "store": "billa",
-      "price": 11.49,
+      "price": 8.62,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 8.62
+        },
         {
           "date": "2026-02-22",
           "price": 11.49
@@ -6446,20 +6450,20 @@
         {
           "date": "2026-02-20",
           "price": 8.62
-        },
-        {
-          "date": "2026-01-18",
-          "price": 11.49
         }
       ]
     },
     {
       "name": "English Tea Shop Weißer Tee lose",
       "store": "billa",
-      "price": 11.49,
+      "price": 8.62,
       "unit": "g",
       "quantity": 100,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 8.62
+        },
         {
           "date": "2026-02-22",
           "price": 11.49
@@ -6467,10 +6471,6 @@
         {
           "date": "2026-02-20",
           "price": 8.62
-        },
-        {
-          "date": "2026-01-18",
-          "price": 11.49
         }
       ]
     },
@@ -9344,10 +9344,14 @@
     {
       "name": "J. Hornig Caffè Crema Ganze Bohne",
       "store": "billa",
-      "price": 16.49,
+      "price": 12.37,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 12.37
+        },
         {
           "date": "2026-09-27",
           "price": 16.49
@@ -9355,10 +9359,6 @@
         {
           "date": "2026-09-25",
           "price": 12.37
-        },
-        {
-          "date": "2026-08-23",
-          "price": 16.49
         }
       ]
     },
@@ -11912,16 +11912,16 @@
       "quantity": 500,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 7.99
         },
         {
-          "date": "2026-09-27",
-          "price": 8.99
+          "date": "2026-11-07",
+          "price": 5.99
         },
         {
-          "date": "2026-09-25",
-          "price": 6.74
+          "date": "2026-11-05",
+          "price": 7.99
         }
       ]
     },
@@ -12516,10 +12516,14 @@
     {
       "name": "Ja! Natürlich Hummus Natur",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.99,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 1.99
+        },
         {
           "date": "2026-09-24",
           "price": 1.79
@@ -12527,20 +12531,20 @@
         {
           "date": "2026-08-02",
           "price": 2.15
-        },
-        {
-          "date": "2026-07-31",
-          "price": 1.61
         }
       ]
     },
     {
       "name": "Ja! Natürlich Hummus Tomate",
       "store": "billa",
-      "price": 1.79,
+      "price": 1.99,
       "unit": "g",
       "quantity": 150,
       "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 1.99
+        },
         {
           "date": "2026-09-24",
           "price": 1.79
@@ -12548,10 +12552,6 @@
         {
           "date": "2026-08-02",
           "price": 2.15
-        },
-        {
-          "date": "2026-07-31",
-          "price": 1.61
         }
       ]
     },
@@ -12878,16 +12878,16 @@
       "quantity": 500,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 7.99
         },
         {
-          "date": "2026-09-27",
-          "price": 8.99
+          "date": "2026-11-07",
+          "price": 5.99
         },
         {
-          "date": "2026-09-25",
-          "price": 6.74
+          "date": "2026-11-05",
+          "price": 7.99
         }
       ]
     },
@@ -13848,10 +13848,14 @@
     {
       "name": "Ja! Natürlich Rindsminutensteak",
       "store": "billa",
-      "price": 27.99,
+      "price": 29.99,
       "unit": "g",
       "quantity": 1000,
       "priceHistory": [
+        {
+          "date": "2026-11-12",
+          "price": 29.99
+        },
         {
           "date": "2026-11-05",
           "price": 27.99
@@ -13859,10 +13863,6 @@
         {
           "date": "2026-10-08",
           "price": 29.99
-        },
-        {
-          "date": "2026-09-24",
-          "price": 27.99
         }
       ]
     },
@@ -15640,10 +15640,14 @@
     {
       "name": "Julius Meinl Espresso Inspresso Kapseln kompostierbar",
       "store": "billa",
-      "price": 4.99,
+      "price": 3.74,
       "unit": "g",
       "quantity": 56,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 3.74
+        },
         {
           "date": "2026-11-05",
           "price": 4.99
@@ -15651,10 +15655,6 @@
         {
           "date": "2026-10-22",
           "price": 3.32
-        },
-        {
-          "date": "2026-09-27",
-          "price": 4.99
         }
       ]
     },
@@ -16023,16 +16023,16 @@
       "quantity": 1000,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 24.99
         },
         {
-          "date": "2026-09-27",
-          "price": 32.99
+          "date": "2026-11-07",
+          "price": 18.74
         },
         {
-          "date": "2026-09-25",
-          "price": 24.74
+          "date": "2026-11-05",
+          "price": 24.99
         }
       ]
     },
@@ -16598,10 +16598,14 @@
     {
       "name": "Meßmer Bio Blutorange",
       "store": "billa",
-      "price": 3.39,
+      "price": 2.54,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.54
+        },
         {
           "date": "2026-10-22",
           "price": 3.39
@@ -16609,10 +16613,6 @@
         {
           "date": "2026-10-08",
           "price": 2.99
-        },
-        {
-          "date": "2026-09-03",
-          "price": 3.39
         }
       ]
     },
@@ -17091,16 +17091,16 @@
       "quantity": 20,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 3.99
         },
         {
-          "date": "2026-09-03",
-          "price": 5.19
+          "date": "2026-11-07",
+          "price": 2.99
         },
         {
-          "date": "2026-04-23",
-          "price": 4.99
+          "date": "2026-11-05",
+          "price": 3.99
         }
       ]
     },
@@ -19039,10 +19039,14 @@
     {
       "name": "Segafredo Barista Organico Bohne",
       "store": "billa",
-      "price": 11.99,
+      "price": 8.99,
       "unit": "g",
       "quantity": 500,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 8.99
+        },
         {
           "date": "2026-09-27",
           "price": 11.99
@@ -19050,10 +19054,6 @@
         {
           "date": "2026-09-25",
           "price": 8.99
-        },
-        {
-          "date": "2026-09-19",
-          "price": 11.99
         }
       ]
     },
@@ -19480,10 +19480,14 @@
     {
       "name": "Teekanne Bio Waldbeere",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.84
+        },
         {
           "date": "2026-11-05",
           "price": 3.79
@@ -19491,10 +19495,6 @@
         {
           "date": "2026-10-22",
           "price": 2.99
-        },
-        {
-          "date": "2026-06-09",
-          "price": 3.79
         }
       ]
     },
@@ -19569,16 +19569,16 @@
       "quantity": 18,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 3.49
         },
         {
-          "date": "2026-10-25",
-          "price": 4.19
+          "date": "2026-11-07",
+          "price": 2.62
         },
         {
-          "date": "2026-10-23",
-          "price": 2.93
+          "date": "2026-11-05",
+          "price": 3.49
         }
       ]
     },
@@ -19590,16 +19590,16 @@
       "quantity": 18,
       "priceHistory": [
         {
-          "date": "2026-11-05",
+          "date": "2026-11-09",
           "price": 3.49
         },
         {
-          "date": "2026-10-25",
-          "price": 4.19
+          "date": "2026-11-07",
+          "price": 2.62
         },
         {
-          "date": "2026-10-23",
-          "price": 2.93
+          "date": "2026-11-05",
+          "price": 3.49
         }
       ]
     },
@@ -19627,10 +19627,14 @@
     {
       "name": "Teekanne Kindertee Bibo Beere",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 18,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.84
+        },
         {
           "date": "2026-11-05",
           "price": 3.79
@@ -19638,20 +19642,20 @@
         {
           "date": "2026-10-22",
           "price": 2.99
-        },
-        {
-          "date": "2026-03-26",
-          "price": 3.79
         }
       ]
     },
     {
       "name": "Teekanne Kräutergarten Brennessel und Zitronengras",
       "store": "billa",
-      "price": 3.39,
+      "price": 2.54,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.54
+        },
         {
           "date": "2026-10-25",
           "price": 3.39
@@ -19659,20 +19663,20 @@
         {
           "date": "2026-10-23",
           "price": 2.37
-        },
-        {
-          "date": "2026-02-22",
-          "price": 3.39
         }
       ]
     },
     {
       "name": "Teekanne Kräutergarten Gartensalbei",
       "store": "billa",
-      "price": 3.39,
+      "price": 2.54,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.54
+        },
         {
           "date": "2026-10-25",
           "price": 3.39
@@ -19680,20 +19684,20 @@
         {
           "date": "2026-10-23",
           "price": 2.37
-        },
-        {
-          "date": "2026-02-22",
-          "price": 3.39
         }
       ]
     },
     {
       "name": "Teekanne Persischer Granatapfel",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.84
+        },
         {
           "date": "2026-11-05",
           "price": 3.79
@@ -19701,10 +19705,6 @@
         {
           "date": "2026-10-22",
           "price": 2.99
-        },
-        {
-          "date": "2026-03-26",
-          "price": 3.79
         }
       ]
     },
@@ -20606,10 +20606,14 @@
     {
       "name": "Willi Dungl Ingwer-Zitrone Tee",
       "store": "billa",
-      "price": 4.79,
+      "price": 3.59,
       "unit": "stk",
       "quantity": 20,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 3.59
+        },
         {
           "date": "2026-10-29",
           "price": 4.79
@@ -20617,10 +20621,6 @@
         {
           "date": "2026-10-22",
           "price": 3.99
-        },
-        {
-          "date": "2026-10-09",
-          "price": 3.79
         }
       ]
     },
@@ -20669,10 +20669,14 @@
     {
       "name": "Yogi Tea Ingwer Zitrone",
       "store": "billa",
-      "price": 3.79,
+      "price": 2.84,
       "unit": "stk",
       "quantity": 17,
       "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 2.84
+        },
         {
           "date": "2026-10-22",
           "price": 3.79
@@ -20680,10 +20684,6 @@
         {
           "date": "2026-10-08",
           "price": 2.99
-        },
-        {
-          "date": "2026-05-08",
-          "price": 3.79
         }
       ]
     },
